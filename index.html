@@ -130,7 +130,7 @@ var ann=JSON.parse(localStorage.getItem(AK)||'{}');
 Object.keys(_seedAnn).forEach(function(id){if(!ann[id])ann[id]=_seedAnn[id]});
 localStorage.setItem(AK,JSON.stringify(ann));
 var curDk=null,editId=null;
-function save(){localStorage.setItem(SK,JSON.stringify(db));localStorage.setItem(AK,JSON.stringify(ann));if(BLOB_ID)saveToCloud()}
+function save(){localStorage.setItem(SK,JSON.stringify(db));localStorage.setItem(AK,JSON.stringify(ann))}
 function isFut(s){return /M\d$|Z\d$|^NQ|^ES|^YM|^MES|^MNQ|^MNQM|^HWBM/i.test(s)}
 
 // TYPES
