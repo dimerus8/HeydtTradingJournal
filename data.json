@@ -1,0 +1,1793 @@
+{
+  "trades": {
+    "2026-05-11": {
+      "trades": [
+        {
+          "id": "t_NQM6_1778531474726",
+          "symbol": "NQM6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1778458293000,
+          "exitTime": 1778500905000,
+          "realizedPnl": -105,
+          "totalEntryQty": 3,
+          "totalExitQty": 3,
+          "avgEntry": 29378.25,
+          "avgExit": 29343.25,
+          "status": "closed"
+        },
+        {
+          "id": "t_MNQM6_1778531474727",
+          "symbol": "MNQM6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1778461048000,
+          "exitTime": 1778500584000,
+          "realizedPnl": 304.25,
+          "totalEntryQty": 6,
+          "totalExitQty": 6,
+          "avgEntry": 29287.916666666668,
+          "avgExit": 29338.625,
+          "status": "closed"
+        },
+        {
+          "id": "t_QQQ_1778531474730",
+          "symbol": "QQQ",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778500454000,
+          "exitTime": null,
+          "realizedPnl": -0.09999999974752427,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 711.2689333333333,
+          "avgExit": 711.2689,
+          "status": "closed",
+          "tradeType": "Hedge",
+          "notes": "",
+          "entryDateStr": "5/11/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_MU_1778531474728",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778504053000,
+          "exitTime": null,
+          "realizedPnl": 23007.78999999977,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 793.158442,
+          "avgExit": 797.76,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/11/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_SNDK_1778531905704",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 45712.50000000004,
+          "totalEntryQty": 750,
+          "totalExitQty": 750,
+          "avgEntry": 1562.34,
+          "avgExit": 1623.29,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "5/08/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_MU_1778531984080",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 95747.20000000003,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 746.79,
+          "avgExit": 794.6636,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "5/08/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/10/26"
+    },
+    "2026-05-15": {
+      "trades": [
+        {
+          "id": "man_LITE_1779129347172",
+          "symbol": "LITE",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -19328.249999999796,
+          "totalEntryQty": 3750,
+          "totalExitQty": 3750,
+          "avgEntry": 978.847,
+          "avgExit": 973.6928,
+          "status": "closed",
+          "tradeType": "NDX 100 Add",
+          "notes": "",
+          "entryDateStr": "5/15/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_MU_1779129391356",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -6826.499999999953,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 740.531,
+          "avgExit": 737.8004,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/15/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_CBRS_1779129442436",
+          "symbol": "CBRS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 24161.371200000063,
+          "totalEntryQty": 4968,
+          "totalExitQty": 4968,
+          "avgEntry": 305.19374,
+          "avgExit": 310.05714,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "5/15/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_NQM6_1779129548660",
+          "symbol": "NQM6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 8100,
+          "totalEntryQty": 20,
+          "totalExitQty": 20,
+          "avgEntry": 29208.3,
+          "avgExit": 29228.55,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/15/26",
+          "exitDateStr": ""
+        }
+      ]
+    },
+    "2026-05-26": {
+      "trades": [
+        {
+          "id": "t_RGTI_1779825935211",
+          "symbol": "RGTI",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779798715000,
+          "exitTime": 1779798715000,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 25.9938,
+          "avgExit": 0,
+          "status": "closed"
+        },
+        {
+          "id": "t_RGTI_1779825935212",
+          "symbol": "RGTI",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779801907000,
+          "exitTime": 1779802267000,
+          "realizedPnl": -2126.6600000000085,
+          "totalEntryQty": 15700,
+          "totalExitQty": 15700,
+          "avgEntry": 26.110427388535022,
+          "avgExit": 26.245883439490456,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1779825935213",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779801914000,
+          "exitTime": 1779802170000,
+          "realizedPnl": 9625.150000000043,
+          "totalEntryQty": 6300,
+          "totalExitQty": 6300,
+          "avgEntry": 218.02139841269846,
+          "avgExit": 216.49359682539682,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1779825935215",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779802127000,
+          "exitTime": 1779802262000,
+          "realizedPnl": -11742.010000000006,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 819.8651450000001,
+          "avgExit": 825.7361500000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1779825935214",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779802170000,
+          "exitTime": 1779802170000,
+          "realizedPnl": 0,
+          "totalEntryQty": 1200,
+          "totalExitQty": 1200,
+          "avgEntry": 216.47,
+          "avgExit": 0,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1779825935216",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779823613000,
+          "exitTime": 1779825347000,
+          "realizedPnl": -5265.489999999985,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 905.1779975000002,
+          "avgExit": 901.1140199999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_ASTS_1779825935217",
+          "symbol": "ASTS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779825013000,
+          "exitTime": 1779825150000,
+          "realizedPnl": -3115.3649999999902,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 117.65911799999999,
+          "avgExit": 118.282191,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "5/26/26"
+    },
+    "2026-05-27": {
+      "trades": [
+        {
+          "id": "man_MU_20260527",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779874200000,
+          "exitTime": 1779874200000,
+          "realizedPnl": 144844,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "",
+          "entryDateStr": "5/27/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_ZS_20260527",
+          "symbol": "ZS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779874200000,
+          "exitTime": 1779874200000,
+          "realizedPnl": 19127,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Blowup",
+          "notes": "",
+          "entryDateStr": "5/27/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_RDW_20260527",
+          "symbol": "RDW",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779874200000,
+          "exitTime": 1779874200000,
+          "realizedPnl": 18800,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "5/27/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_LUNR_20260527",
+          "symbol": "LUNR",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779874200000,
+          "exitTime": 1779874200000,
+          "realizedPnl": 13134,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "5/27/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_NASA_20260527",
+          "symbol": "NASA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779874200000,
+          "exitTime": 1779874200000,
+          "realizedPnl": 1036,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "5/27/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_NQM6_20260527",
+          "symbol": "NQM6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": true,
+          "entryTime": 1779874200000,
+          "exitTime": 1779897600000,
+          "realizedPnl": 960,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "",
+          "notes": ""
+        }
+      ],
+      "dateStr": "5/27/2026"
+    },
+    "2026-05-12": {
+      "trades": [
+        {
+          "id": "t_MU_1778597378386",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778589919000,
+          "exitTime": null,
+          "realizedPnl": -11619.470000000027,
+          "totalEntryQty": 3500,
+          "totalExitQty": 3500,
+          "avgEntry": 769.8390733333334,
+          "avgExit": 773.7122299999992,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "5/12/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_PSIX_1778597378389",
+          "symbol": "PSIX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778591459000,
+          "exitTime": null,
+          "realizedPnl": -1977.6974999999961,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 39.56,
+          "avgExit": 41.53769749999999,
+          "status": "closed",
+          "tradeType": "Blowup",
+          "notes": "",
+          "entryDateStr": "5/12/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/12/26"
+    },
+    "2026-05-13": {
+      "trades": [
+        {
+          "id": "t_MU_1778686456816",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778678718000,
+          "exitTime": null,
+          "realizedPnl": 4719.974999999912,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 812.807149333333,
+          "avgExit": 812.1778193333337,
+          "status": "closed",
+          "tradeType": "Follow Through",
+          "notes": "",
+          "entryDateStr": "5/13/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_SNDK_1778703751614",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 2653,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 1445.9523,
+          "avgExit": 1444.40022,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "5/13/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/13/26"
+    },
+    "2026-05-14": {
+      "trades": [
+        {
+          "id": "t_CSCO_1778790925505",
+          "symbol": "CSCO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778762430000,
+          "exitTime": null,
+          "realizedPnl": -4527.699999999981,
+          "totalEntryQty": 15000,
+          "totalExitQty": 15000,
+          "avgEntry": 117.67210066666664,
+          "avgExit": 117.97394733333336,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "CSCO on CNBC",
+          "entryDateStr": "5/14/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_CBRS_1778790925506",
+          "symbol": "CBRS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778777983000,
+          "exitTime": null,
+          "realizedPnl": -46371.54999999997,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 350,
+          "avgExit": 340.7256900000001,
+          "status": "closed",
+          "tradeType": "Other",
+          "notes": "IPO",
+          "entryDateStr": "5/14/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_CBRS_1778790925507",
+          "symbol": "CBRS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1778785012000,
+          "exitTime": 1778785012000,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 318.90193304999997,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "5/14/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/14/26"
+    },
+    "2026-05-18": {
+      "trades": [
+        {
+          "id": "t_META_1779129608272",
+          "symbol": "META",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779110700000,
+          "exitTime": null,
+          "realizedPnl": 6641.999999999939,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 607.02,
+          "avgExit": 609.6768,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/18/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_WULF_1779129608273",
+          "symbol": "WULF",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779110719000,
+          "exitTime": null,
+          "realizedPnl": 4962.960000000002,
+          "totalEntryQty": 20000,
+          "totalExitQty": 20000,
+          "avgEntry": 21.50314800000001,
+          "avgExit": 21.255000000000003,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/18/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_WULF_1779129608274",
+          "symbol": "WULF",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779111001000,
+          "exitTime": null,
+          "realizedPnl": 135.94999999999374,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 21.37,
+          "avgExit": 21.383595,
+          "status": "closed",
+          "tradeType": "Imbal Sell",
+          "notes": "",
+          "entryDateStr": "5/18/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_D_1779129608275",
+          "symbol": "D",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779111150000,
+          "exitTime": null,
+          "realizedPnl": 10401.500000000042,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 68.094,
+          "avgExit": 70.1743,
+          "status": "closed",
+          "tradeType": "Short Deal Annc",
+          "notes": "",
+          "entryDateStr": "5/18/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/18/26"
+    },
+    "2026-05-19": {
+      "trades": [
+        {
+          "id": "t_MU_1779221146086",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779196751000,
+          "exitTime": null,
+          "realizedPnl": -5625.610000000035,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 662.2494533333332,
+          "avgExit": 665.9998600000001,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/19/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/19/26"
+    },
+    "2026-05-20": {
+      "trades": []
+    },
+    "2026-05-21": {
+      "trades": [
+        {
+          "id": "t_NVDA_1779394501251",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779369713000,
+          "exitTime": 1779369911000,
+          "realizedPnl": 4232.010000000044,
+          "totalEntryQty": 5235,
+          "totalExitQty": 5235,
+          "avgEntry": 221.62338872970395,
+          "avgExit": 222.43179560649477,
+          "status": "closed"
+        },
+        {
+          "id": "t_RGTI_1779394501253",
+          "symbol": "RGTI",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779369920000,
+          "exitTime": 1779370432000,
+          "realizedPnl": -9045.309999999961,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 18.6761692,
+          "avgExit": 19.0379816,
+          "status": "closed"
+        },
+        {
+          "id": "t_IBM_1779394501255",
+          "symbol": "IBM",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779370202000,
+          "exitTime": 1779370305000,
+          "realizedPnl": -5659.529999999941,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 231.10999999999996,
+          "avgExit": 232.24190600000006,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1779394501252",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779370223000,
+          "exitTime": 1779370223000,
+          "realizedPnl": 0,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 221.0249573333334,
+          "avgExit": 0,
+          "status": "closed"
+        },
+        {
+          "id": "t_QBTS_1779394501256",
+          "symbol": "QBTS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779370424000,
+          "exitTime": 1779370436000,
+          "realizedPnl": 4211.8599999999415,
+          "totalEntryQty": 30000,
+          "totalExitQty": 30000,
+          "avgEntry": 22.58,
+          "avgExit": 22.43960466666668,
+          "status": "closed"
+        },
+        {
+          "id": "t_RGTI_1779394501254",
+          "symbol": "RGTI",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779370432000,
+          "exitTime": 1779370432000,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 19.4297,
+          "avgExit": 0,
+          "status": "closed"
+        },
+        {
+          "id": "t_QBTS_1779394501257",
+          "symbol": "QBTS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779370438000,
+          "exitTime": 1779370438000,
+          "realizedPnl": 0,
+          "totalEntryQty": 21200,
+          "totalExitQty": 21200,
+          "avgEntry": 23.33949599056603,
+          "avgExit": 0,
+          "status": "closed"
+        },
+        {
+          "id": "t_DSFIR_1779394501258",
+          "symbol": "DSFIR",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779375558000,
+          "exitTime": 1779375558000,
+          "realizedPnl": 0,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 70.26498799999999,
+          "avgExit": 0,
+          "status": "closed"
+        },
+        {
+          "id": "t_DSFIR_1779394501259",
+          "symbol": "DSFIR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779380784000,
+          "exitTime": 1779380784000,
+          "realizedPnl": 0,
+          "totalEntryQty": 75000,
+          "totalExitQty": 75000,
+          "avgEntry": 73.0251,
+          "avgExit": 0,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "5/21/26"
+    },
+    "2026-05-22": {
+      "trades": [
+        {
+          "id": "t_RGTI_1779481652909",
+          "symbol": "RGTI",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779456325000,
+          "exitTime": 1779456670000,
+          "realizedPnl": 1647.4100000000217,
+          "totalEntryQty": 50521,
+          "totalExitQty": 50521,
+          "avgEntry": 23.07489093644227,
+          "avgExit": 23.042282516181405,
+          "status": "closed"
+        },
+        {
+          "id": "t_FUTU_1779481652911",
+          "symbol": "FUTU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779456461000,
+          "exitTime": 1779456600000,
+          "realizedPnl": 490.1600000000723,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 80.89901600000002,
+          "avgExit": 80.84999999999997,
+          "status": "closed"
+        },
+        {
+          "id": "t_FUTU_1779481652912",
+          "symbol": "FUTU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779456600000,
+          "exitTime": 1779456684000,
+          "realizedPnl": 1677.150000000045,
+          "totalEntryQty": 17500,
+          "totalExitQty": 17500,
+          "avgEntry": 80.85,
+          "avgExit": 81.07362000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_IBM_1779481652913",
+          "symbol": "IBM",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779456601000,
+          "exitTime": 1779456702000,
+          "realizedPnl": -719.2600000000845,
+          "totalEntryQty": 6000,
+          "totalExitQty": 6000,
+          "avgEntry": 261.21,
+          "avgExit": 261.32987666666656,
+          "status": "closed"
+        },
+        {
+          "id": "t_RGTI_1779481652910",
+          "symbol": "RGTI",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779456670000,
+          "exitTime": 1779480400000,
+          "realizedPnl": 15543.520000000004,
+          "totalEntryQty": 19479,
+          "totalExitQty": 19479,
+          "avgEntry": 25.75227321731095,
+          "avgExit": 26.763526666666664,
+          "status": "closed"
+        },
+        {
+          "id": "t_QBTS_1779481652914",
+          "symbol": "QBTS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779456706000,
+          "exitTime": 1779456718000,
+          "realizedPnl": -315.64999999997787,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 27,
+          "avgExit": 27.012625999999997,
+          "status": "closed"
+        },
+        {
+          "id": "t_CAR_1779481652915",
+          "symbol": "CAR",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779479450000,
+          "exitTime": 1779479552000,
+          "realizedPnl": -1043.4999999999989,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 170.17313000000001,
+          "avgExit": 166,
+          "status": "closed"
+        },
+        {
+          "id": "t_CAR_1779481652916",
+          "symbol": "CAR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1779479681000,
+          "exitTime": 1779479681000,
+          "realizedPnl": 0,
+          "totalEntryQty": 250,
+          "totalExitQty": 250,
+          "avgEntry": 165.054,
+          "avgExit": 0,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "5/22/26"
+    },
+    "2026-05-29": {
+      "trades": [
+        {
+          "id": "man_NVDA_1550_20260529",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780069800000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 234144,
+          "totalEntryQty": 65000,
+          "totalExitQty": 65000,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": ""
+        },
+        {
+          "id": "man_MSFT_1550_20260529",
+          "symbol": "MSFT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780069800000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 48066,
+          "totalEntryQty": 27500,
+          "totalExitQty": 27500,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": ""
+        },
+        {
+          "id": "man_AVGO05_29C442.5_1530_20260529",
+          "symbol": "AVGO 05/29 C442.5",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780068600000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 46000,
+          "totalEntryQty": 100,
+          "totalExitQty": 100,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "0dte call"
+        },
+        {
+          "id": "man_285A_714_20260529",
+          "symbol": "285A",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780038840000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 44356,
+          "totalEntryQty": 3500,
+          "totalExitQty": 3500,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": ""
+        },
+        {
+          "id": "man_MSFT05_29C447.5_141_20260529",
+          "symbol": "MSFT 05/29 C447.5",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780063260000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 26330,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "0dte call"
+        },
+        {
+          "id": "man_ASTS_919_20260529",
+          "symbol": "ASTS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780046340000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 5932,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": ""
+        },
+        {
+          "id": "man_NVS_1127_20260529",
+          "symbol": "NVS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780054020000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 27,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "ARB",
+          "notes": ""
+        },
+        {
+          "id": "man_RY.T_160_20260529",
+          "symbol": "RY.T",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780070400000,
+          "exitTime": 1780070400000,
+          "realizedPnl": 0,
+          "totalEntryQty": 45000,
+          "totalExitQty": 45000,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "ARB",
+          "notes": "RY/RY.T arb CAD"
+        },
+        {
+          "id": "man_RY_160_20260529",
+          "symbol": "RY",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780070400000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -80,
+          "totalEntryQty": 25663,
+          "totalExitQty": 25663,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "ARB",
+          "notes": "RY/RY.T arb"
+        },
+        {
+          "id": "man_NOW_930_20260529",
+          "symbol": "NOW",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780047000000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -148,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": ""
+        },
+        {
+          "id": "man_GOOGL05_29C385_1524_20260529",
+          "symbol": "GOOGL 05/29 C385",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780068240000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -800,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "0dte call"
+        },
+        {
+          "id": "man_META05_29C635_1539_20260529",
+          "symbol": "META 05/29 C635",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780069140000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -1674,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "0dte call"
+        },
+        {
+          "id": "man_PLTR05_29C157.5_141_20260529",
+          "symbol": "PLTR 05/29 C157.5",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780063260000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -2100,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "0dte call"
+        },
+        {
+          "id": "man_QCOM05_29C260_1445_20260529",
+          "symbol": "QCOM 05/29 C260",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780065900000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -2448,
+          "totalEntryQty": 300,
+          "totalExitQty": 300,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "0dte call"
+        },
+        {
+          "id": "man_AAPL05_29C312.5_1440_20260529",
+          "symbol": "AAPL 05/29 C312.5",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780065600000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -2900,
+          "totalEntryQty": 400,
+          "totalExitQty": 400,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "0dte call"
+        },
+        {
+          "id": "man_AVGO_160_20260529",
+          "symbol": "AVGO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780070400000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -4900,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": ""
+        },
+        {
+          "id": "man_DELL_836_20260529",
+          "symbol": "DELL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780043760000,
+          "exitTime": 1780070400000,
+          "realizedPnl": -31222,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": ""
+        }
+      ],
+      "dateStr": "5/29/2026"
+    },
+    "2026-05-28": {
+      "trades": [
+        {
+          "id": "t_ALAB_1779980780491",
+          "symbol": "ALAB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779974787000,
+          "exitTime": null,
+          "realizedPnl": 5679.610000000008,
+          "totalEntryQty": 750,
+          "totalExitQty": 750,
+          "avgEntry": 326.4071866666667,
+          "avgExit": 333.9800000000001,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/28/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/28/26"
+    },
+    "2026-06-01": {
+      "trades": [
+        {
+          "id": "t_MSFT_1780328486646",
+          "symbol": "MSFT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780317864000,
+          "exitTime": null,
+          "realizedPnl": -16036.014999999994,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 462.4938253333332,
+          "avgExit": 464.6319606666665,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/1/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_IBM_1780328486647",
+          "symbol": "IBM",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780319862000,
+          "exitTime": null,
+          "realizedPnl": 9629.19999999998,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 322.51946666666663,
+          "avgExit": 316.1,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/1/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_SNDK_1780328486648",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780320523000,
+          "exitTime": null,
+          "realizedPnl": -26392.739999999983,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 1735.5351,
+          "avgExit": 1761.9278399999998,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/1/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_NOW_1780328486650",
+          "symbol": "NOW",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780320655000,
+          "exitTime": null,
+          "realizedPnl": 7960.999999999996,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 135.53,
+          "avgExit": 132.3456,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/1/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_NVDA_1780329163918",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 54861,
+          "totalEntryQty": 15000,
+          "totalExitQty": 15000,
+          "avgEntry": 212.5,
+          "avgExit": 215,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "6/1/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "6/1/26"
+    },
+    "2026-06-02": {
+      "trades": [
+        {
+          "id": "t_MRVL_1780426544586",
+          "symbol": "MRVL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780403736000,
+          "exitTime": null,
+          "realizedPnl": -338.6999999999932,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 258.35999999999996,
+          "avgExit": 259.0374,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/2/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_DELL_1780426544589",
+          "symbol": "DELL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780406321000,
+          "exitTime": null,
+          "realizedPnl": 8718.23999999999,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 471.01824,
+          "avgExit": 462.3,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/2/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_MU_1780426544590",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780406728000,
+          "exitTime": null,
+          "realizedPnl": 10313.349999999944,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 1049.22335,
+          "avgExit": 1038.9100000000005,
+          "status": "closed",
+          "tradeType": "Imbal Buy",
+          "notes": "",
+          "entryDateStr": "6/2/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "6/2/26"
+    },
+    "2026-06-03": {
+      "trades": [
+        {
+          "id": "t_MRVL_1780496868326",
+          "symbol": "MRVL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780473737000,
+          "exitTime": null,
+          "realizedPnl": 34296,
+          "totalEntryQty": 11750,
+          "totalExitQty": 11750,
+          "avgEntry": 318.4921480851065,
+          "avgExit": 319.20021414634147,
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "",
+          "entryDateStr": "6/3/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_GOOGL_1780496868327",
+          "symbol": "GOOGL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780487292000,
+          "exitTime": null,
+          "realizedPnl": 2488.919999999999,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 357.254432,
+          "avgExit": 358.25,
+          "status": "closed",
+          "tradeType": "Secondary Offering",
+          "notes": "",
+          "entryDateStr": "6/3/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "6/3/26"
+    }
+  },
+  "annotations": {
+    "man_MU_1778520910529": {
+      "tradeType": "",
+      "notes": ""
+    },
+    "man_QQQ_1778521357474": {
+      "tradeType": "Other",
+      "notes": ""
+    },
+    "man_MU_1778523514569": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_SNDK_1778523889194": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "t_MU_1778523386641": {
+      "tradeType": "Imbal AM",
+      "notes": "MU to buy"
+    },
+    "t_QQQ_1778523386643": {
+      "tradeType": "Hedge",
+      "notes": "Against MU and SNDK longs"
+    },
+    "t_QQQ_1778531474730": {
+      "tradeType": "Hedge",
+      "notes": ""
+    },
+    "man_SNDK_1778531905704": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_MU_1778531984080": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "t_MU_1778531474728": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_MU_1778597378386": {
+      "tradeType": "Off Open Red",
+      "notes": ""
+    },
+    "t_PSIX_1778597378389": {
+      "tradeType": "Blowup",
+      "notes": ""
+    },
+    "t_MU_1778686456816": {
+      "tradeType": "Follow Through",
+      "notes": ""
+    },
+    "man_SNDK_1778703751614": {
+      "tradeType": "Imbal PM",
+      "notes": ""
+    },
+    "t_CSCO_1778790925505": {
+      "tradeType": "Imbal AM",
+      "notes": "CSCO on CNBC"
+    },
+    "t_CBRS_1778790925506": {
+      "tradeType": "Other",
+      "notes": "IPO"
+    },
+    "t_CBRS_1778790925507": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_LITE_1779129347172": {
+      "tradeType": "NDX 100 Add",
+      "notes": ""
+    },
+    "man_MU_1779129391356": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "man_CBRS_1779129442436": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_NQM6_1779129548660": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_META_1779129608272": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_D_1779129608275": {
+      "tradeType": "Short Deal Annc",
+      "notes": ""
+    },
+    "t_WULF_1779129608273": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_WULF_1779129608274": {
+      "tradeType": "Imbal Sell",
+      "notes": ""
+    },
+    "t_MU_1779221146086": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_DSFIR_1779394501258": {
+      "tradeType": "ARB",
+      "notes": ""
+    },
+    "t_NVDA_1779394501251": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_RGTI_1779394501253": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_IBM_1779394501255": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_QBTS_1779394501256": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "man_MU_20260527": {
+      "tradeType": "Cut O/N",
+      "notes": ""
+    },
+    "man_ZS_20260527": {
+      "tradeType": "Blowup",
+      "notes": ""
+    },
+    "man_RDW_20260527": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "man_LUNR_20260527": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "man_NASA_20260527": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "man_NVDA_20260529": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_MSFT_20260529": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_AVGO_eq_20260529": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_RY_20260529": {
+      "tradeType": "ARB",
+      "notes": "RY/RY.T arb"
+    },
+    "man_RY.T_20260529": {
+      "tradeType": "ARB",
+      "notes": "RY/RY.T arb - CAD"
+    },
+    "man_NVDA_1550_20260529": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_MSFT_1550_20260529": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_AVGO05_29C442.5_1530_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": "0dte call"
+    },
+    "man_285A_714_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": ""
+    },
+    "man_MSFT05_29C447.5_141_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": "0dte call"
+    },
+    "man_ASTS_919_20260529": {
+      "tradeType": "Off Open Red",
+      "notes": ""
+    },
+    "man_NVS_1127_20260529": {
+      "tradeType": "ARB",
+      "notes": ""
+    },
+    "man_RY.T_160_20260529": {
+      "tradeType": "ARB",
+      "notes": "RY/RY.T arb CAD"
+    },
+    "man_RY_160_20260529": {
+      "tradeType": "ARB",
+      "notes": "RY/RY.T arb"
+    },
+    "man_NOW_930_20260529": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "man_GOOGL05_29C385_1524_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": "0dte call"
+    },
+    "man_META05_29C635_1539_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": "0dte call"
+    },
+    "man_PLTR05_29C157.5_141_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": "0dte call"
+    },
+    "man_QCOM05_29C260_1445_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": "0dte call"
+    },
+    "man_AAPL05_29C312.5_1440_20260529": {
+      "tradeType": "MSCI Buy",
+      "notes": "0dte call"
+    },
+    "man_AVGO_160_20260529": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "man_DELL_836_20260529": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_ALAB_1779980780491": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_RGTI_1779825935212": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_NVDA_1779825935213": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_MU_1779825935215": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_ASTS_1779825935217": {
+      "tradeType": "Imbal PM",
+      "notes": ""
+    },
+    "t_RGTI_1779481652910": {
+      "tradeType": "Off Open Red",
+      "notes": ""
+    },
+    "t_CAR_1779481652915": {
+      "tradeType": "Imbal PM",
+      "notes": ""
+    },
+    "t_FUTU_1779481652912": {
+      "tradeType": "Blowup",
+      "notes": ""
+    },
+    "t_285A_1780074697312": {
+      "tradeType": "MSCI Buy",
+      "notes": ""
+    },
+    "t_DELL_1780074697313": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_ASTS_1780074697315": {
+      "tradeType": "Off Open Red",
+      "notes": ""
+    },
+    "t_NVS_1780074697319": {
+      "tradeType": "ARB",
+      "notes": ""
+    },
+    "t_NOW_1780074697317": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_SNDK_1780328486648": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_MSFT_1780328486646": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_IBM_1780328486647": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_NOW_1780328486650": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "man_NVDA_1780329163918": {
+      "tradeType": "Overnight",
+      "notes": ""
+    },
+    "t_MRVL_1780426544586": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_DELL_1780426544589": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_MU_1780426544590": {
+      "tradeType": "Imbal Buy",
+      "notes": ""
+    },
+    "t_MRVL_1780496868326": {
+      "tradeType": "Cut O/N",
+      "notes": ""
+    },
+    "t_GOOGL_1780496868327": {
+      "tradeType": "Secondary Offering",
+      "notes": ""
+    }
+  },
+  "updated": "2026-06-03T17:07:23.888Z"
+}
