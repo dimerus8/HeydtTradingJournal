@@ -325,17 +325,17 @@
         {
           "id": "man_ZS_20260527",
           "symbol": "ZS",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": 1779874200000,
-          "exitTime": 1779874200000,
+          "exitTime": null,
           "realizedPnl": 19127,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed",
+          "status": "open",
           "tradeType": "Blowup",
           "notes": "",
           "entryDateStr": "5/27/26",
@@ -1822,5 +1822,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-03T18:09:34.901Z"
+  "updated": "2026-06-03T18:09:45.574Z"
 }
