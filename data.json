@@ -1436,7 +1436,7 @@
           "avgExit": 319.20021414634147,
           "status": "closed",
           "tradeType": "Cut O/N",
-          "notes": "",
+          "notes": "12.30 AM, at 340.00",
           "entryDateStr": "6/3/26",
           "exitDateStr": ""
         },
@@ -1785,12 +1785,12 @@
     },
     "t_MRVL_1780496868326": {
       "tradeType": "Cut O/N",
-      "notes": ""
+      "notes": "12.30 AM, at 340.00"
     },
     "t_GOOGL_1780496868327": {
       "tradeType": "Secondary Offering",
       "notes": ""
     }
   },
-  "updated": "2026-06-03T17:54:47.542Z"
+  "updated": "2026-06-03T18:05:58.691Z"
 }
