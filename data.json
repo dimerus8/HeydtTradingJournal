@@ -363,17 +363,17 @@
         {
           "id": "man_LUNR_20260527",
           "symbol": "LUNR",
-          "direction": "SHORT",
+          "direction": "LONG",
           "isFutures": false,
           "isManual": true,
           "entryTime": 1779874200000,
-          "exitTime": null,
+          "exitTime": 1779874200000,
           "realizedPnl": 13134,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "open",
+          "status": "closed",
           "tradeType": "Off Open Green",
           "notes": "",
           "entryDateStr": "5/27/26",
@@ -1233,82 +1233,6 @@
       ],
       "dateStr": "5/29/2026"
     },
-    "2026-06-03": {
-      "trades": [
-        {
-          "id": "t_MRVL_1780496868326",
-          "symbol": "MRVL",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1780473737000,
-          "exitTime": null,
-          "realizedPnl": 34296,
-          "totalEntryQty": 11750,
-          "totalExitQty": 11750,
-          "avgEntry": 318.4921480851065,
-          "avgExit": 319.20021414634147,
-          "status": "closed",
-          "tradeType": "Cut O/N",
-          "notes": "",
-          "entryDateStr": "6/3/26",
-          "exitDateStr": ""
-        },
-        {
-          "id": "t_GOOGL_1780496868327",
-          "symbol": "GOOGL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1780487292000,
-          "exitTime": null,
-          "realizedPnl": 2488.919999999999,
-          "totalEntryQty": 2500,
-          "totalExitQty": 2500,
-          "avgEntry": 357.254432,
-          "avgExit": 358.25,
-          "status": "closed",
-          "tradeType": "Secondary Offering",
-          "notes": "",
-          "entryDateStr": "6/3/26",
-          "exitDateStr": ""
-        },
-        {
-          "id": "t_MRVL_1780507886744",
-          "symbol": "MRVL",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1780473737000,
-          "exitTime": 1780493510000,
-          "realizedPnl": -5914.155000000008,
-          "totalEntryQty": 11750,
-          "totalExitQty": 10250,
-          "avgEntry": 318.4921480851065,
-          "avgExit": 319.20021414634147,
-          "status": "open"
-        },
-        {
-          "id": "t_GOOGL_1780507886745",
-          "symbol": "GOOGL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1780487292000,
-          "exitTime": 1780488207000,
-          "realizedPnl": 2488.919999999999,
-          "totalEntryQty": 2500,
-          "totalExitQty": 2500,
-          "avgEntry": 357.254432,
-          "avgExit": 358.25,
-          "status": "closed"
-        }
-      ],
-      "dateStr": "6/3/26"
-    },
-    "2026-06-04": {
-      "trades": []
-    },
     "2026-05-28": {
       "trades": [
         {
@@ -1494,6 +1418,52 @@
         }
       ],
       "dateStr": "6/2/26"
+    },
+    "2026-06-03": {
+      "trades": [
+        {
+          "id": "t_MRVL_1780496868326",
+          "symbol": "MRVL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780473737000,
+          "exitTime": null,
+          "realizedPnl": 34296,
+          "totalEntryQty": 11750,
+          "totalExitQty": 11750,
+          "avgEntry": 318.4921480851065,
+          "avgExit": 319.20021414634147,
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "hi",
+          "entryDateStr": "6/3/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_GOOGL_1780496868327",
+          "symbol": "GOOGL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1780487292000,
+          "exitTime": null,
+          "realizedPnl": 2488.919999999999,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 357.254432,
+          "avgExit": 358.25,
+          "status": "closed",
+          "tradeType": "Secondary Offering",
+          "notes": "",
+          "entryDateStr": "6/3/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "6/3/26"
+    },
+    "2026-06-04": {
+      "trades": []
     }
   },
   "annotations": {
@@ -1815,12 +1785,12 @@
     },
     "t_MRVL_1780496868326": {
       "tradeType": "Cut O/N",
-      "notes": ""
+      "notes": "hi"
     },
     "t_GOOGL_1780496868327": {
       "tradeType": "Secondary Offering",
       "notes": ""
     }
   },
-  "updated": "2026-06-03T17:37:53.412Z"
+  "updated": "2026-06-03T17:52:27.355Z"
 }
