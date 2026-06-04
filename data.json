@@ -1497,7 +1497,7 @@
           "avgEntry": 411.0467320000001,
           "avgExit": 410.52190000000013,
           "status": "closed",
-          "tradeType": "Off Open Red",
+          "tradeType": "Blowup",
           "notes": "",
           "entryDateStr": "6/4/26",
           "exitDateStr": ""
@@ -1882,9 +1882,9 @@
       "notes": ""
     },
     "t_AVGO_1780588656241": {
-      "tradeType": "Off Open Red",
+      "tradeType": "Blowup",
       "notes": ""
     }
   },
-  "updated": "2026-06-04T17:16:23.534Z"
+  "updated": "2026-06-04T17:16:39.300Z"
 }
