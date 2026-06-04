@@ -1518,15 +1518,19 @@
           "symbol": "VSH",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1780579779000,
-          "exitTime": 1780580072000,
+          "exitTime": null,
           "realizedPnl": 24097.260000000024,
           "totalEntryQty": 15000,
           "totalExitQty": 15000,
           "avgEntry": 59.506484,
           "avgExit": 57.9,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "looking down 20%, not paired at 9.28 either",
+          "entryDateStr": "6/4/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/4/26"
@@ -1860,7 +1864,11 @@
     "man_AVGO_1780518191740": {
       "tradeType": "Imbal PM",
       "notes": "EPS today"
+    },
+    "t_VSH_1780588656243": {
+      "tradeType": "Imbal AM",
+      "notes": "looking down 20%, not paired at 9.28 either"
     }
   },
-  "updated": "2026-06-04T15:57:36.247Z"
+  "updated": "2026-06-04T15:59:25.236Z"
 }
