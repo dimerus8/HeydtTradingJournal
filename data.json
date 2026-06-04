@@ -1503,15 +1503,19 @@
           "symbol": "PANW",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1780579554000,
-          "exitTime": 1780579685000,
+          "exitTime": null,
           "realizedPnl": -7537.095000000021,
           "totalEntryQty": 2000,
           "totalExitQty": 2000,
           "avgEntry": 268.32883499999997,
           "avgExit": 272.0973825,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "6/4/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_VSH_1780588656243",
@@ -1868,7 +1872,11 @@
     "t_VSH_1780588656243": {
       "tradeType": "Imbal AM",
       "notes": "looking down 20%, not paired at 9.28 either"
+    },
+    "t_PANW_1780588656242": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-06-04T15:59:25.236Z"
+  "updated": "2026-06-04T16:00:57.445Z"
 }
