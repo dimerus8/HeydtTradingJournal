@@ -1488,15 +1488,19 @@
           "symbol": "AVGO",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1780578093000,
-          "exitTime": 1780579806000,
+          "exitTime": null,
           "realizedPnl": 1312.0800000000038,
           "totalEntryQty": 2500,
           "totalExitQty": 2500,
           "avgEntry": 411.0467320000001,
           "avgExit": 410.52190000000013,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "6/4/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_PANW_1780588656242",
@@ -1876,7 +1880,11 @@
     "t_PANW_1780588656242": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_AVGO_1780588656241": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-06-04T16:00:57.445Z"
+  "updated": "2026-06-04T16:01:10.757Z"
 }
