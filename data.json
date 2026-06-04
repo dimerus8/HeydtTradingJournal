@@ -1482,7 +1482,54 @@
       "dateStr": "6/3/26"
     },
     "2026-06-04": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_AVGO_1780588656241",
+          "symbol": "AVGO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780578093000,
+          "exitTime": 1780579806000,
+          "realizedPnl": 1312.0800000000038,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 411.0467320000001,
+          "avgExit": 410.52190000000013,
+          "status": "closed"
+        },
+        {
+          "id": "t_PANW_1780588656242",
+          "symbol": "PANW",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780579554000,
+          "exitTime": 1780579685000,
+          "realizedPnl": -7537.095000000021,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 268.32883499999997,
+          "avgExit": 272.0973825,
+          "status": "closed"
+        },
+        {
+          "id": "t_VSH_1780588656243",
+          "symbol": "VSH",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780579779000,
+          "exitTime": 1780580072000,
+          "realizedPnl": 24097.260000000024,
+          "totalEntryQty": 15000,
+          "totalExitQty": 15000,
+          "avgEntry": 59.506484,
+          "avgExit": 57.9,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "6/4/26"
     }
   },
   "annotations": {
@@ -1815,5 +1862,5 @@
       "notes": "EPS today"
     }
   },
-  "updated": "2026-06-04T15:57:29.455Z"
+  "updated": "2026-06-04T15:57:36.247Z"
 }
