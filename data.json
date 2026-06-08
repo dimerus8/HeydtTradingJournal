@@ -1619,21 +1619,6 @@
           "avgEntry": 263.324,
           "avgExit": 276.68890000000005,
           "status": "open"
-        },
-        {
-          "id": "t_MRVL_1780926173482",
-          "symbol": "MRVL",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1780694160000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 2000,
-          "totalExitQty": 0,
-          "avgEntry": 276.34015000000005,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "6/5/2026"
@@ -1981,5 +1966,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-08T13:42:53.483Z"
+  "updated": "2026-06-08T13:43:05.429Z"
 }
