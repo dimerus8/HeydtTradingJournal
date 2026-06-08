@@ -1595,15 +1595,19 @@
           "symbol": "POET",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1780689180000,
-          "exitTime": 1780689600000,
+          "exitTime": null,
           "realizedPnl": 4664.320000000005,
           "totalEntryQty": 18400,
           "totalExitQty": 18400,
           "avgEntry": 12.113495652173913,
           "avgExit": 11.86,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "6/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MRVL_1780926173481",
@@ -1972,7 +1976,11 @@
     "t_MRVL_1780926173481": {
       "tradeType": "SP500 Add",
       "notes": ""
+    },
+    "t_POET_1780926173480": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-06-08T13:58:45.812Z"
+  "updated": "2026-06-08T13:58:53.965Z"
 }
