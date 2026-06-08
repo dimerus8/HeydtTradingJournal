@@ -1646,6 +1646,25 @@
           "notes": "",
           "entryDateStr": "6/5/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_NDXP P29050_1780927443198",
+          "symbol": "NDXP P29050",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 6640,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
+          "avgEntry": 100,
+          "avgExit": 100,
+          "status": "closed",
+          "tradeType": "Other",
+          "notes": "",
+          "entryDateStr": "6/5/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/5/2026"
@@ -2003,7 +2022,11 @@
     "man_NDXP P29100_1780927366499": {
       "tradeType": "Other",
       "notes": ""
+    },
+    "man_NDXP P29050_1780927443198": {
+      "tradeType": "Other",
+      "notes": ""
     }
   },
-  "updated": "2026-06-08T14:03:20.986Z"
+  "updated": "2026-06-08T14:04:03.203Z"
 }
