@@ -1680,7 +1680,7 @@
           "avgEntry": 100,
           "avgExit": 100,
           "status": "closed",
-          "tradeType": "Other",
+          "tradeType": "Momentum into close",
           "notes": "",
           "entryDateStr": "6/5/26",
           "exitDateStr": ""
@@ -2050,9 +2050,9 @@
       "notes": ""
     },
     "man_NDXP P29000_1780927481487": {
-      "tradeType": "Other",
+      "tradeType": "Momentum into close",
       "notes": ""
     }
   },
-  "updated": "2026-06-08T17:29:12.972Z"
+  "updated": "2026-06-08T17:29:16.746Z"
 }
