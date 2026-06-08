@@ -1642,7 +1642,7 @@
           "avgEntry": 100,
           "avgExit": 100,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Other",
           "notes": "",
           "entryDateStr": "6/5/26",
           "exitDateStr": ""
@@ -2001,9 +2001,9 @@
       "notes": ""
     },
     "man_NDXP P29100_1780927366499": {
-      "tradeType": "",
+      "tradeType": "Other",
       "notes": ""
     }
   },
-  "updated": "2026-06-08T14:02:59.201Z"
+  "updated": "2026-06-08T14:03:20.986Z"
 }
