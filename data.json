@@ -1610,15 +1610,19 @@
           "symbol": "MRVL",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1780689600000,
-          "exitTime": 1780694280000,
-          "realizedPnl": 6609.449999999981,
+          "exitTime": null,
+          "realizedPnl": 32596,
           "totalEntryQty": 2500,
-          "totalExitQty": 500,
+          "totalExitQty": 2500,
           "avgEntry": 263.324,
           "avgExit": 276.68890000000005,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "SP500 Add",
+          "notes": "",
+          "entryDateStr": "6/5/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/5/2026"
@@ -1964,7 +1968,11 @@
     "t_AVGO_1780588656241": {
       "tradeType": "Blowup",
       "notes": ""
+    },
+    "t_MRVL_1780926173481": {
+      "tradeType": "SP500 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-06-08T13:43:05.429Z"
+  "updated": "2026-06-08T13:58:45.812Z"
 }
