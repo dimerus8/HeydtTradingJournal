@@ -1544,7 +1544,99 @@
       "dateStr": "6/4/26"
     },
     "2026-06-05": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_NDXPR052629000.0_1780926173477",
+          "symbol": "NDXPR052629000.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780687980000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 3,
+          "totalExitQty": 0,
+          "avgEntry": 27,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NDXPR052629050.0_1780926173478",
+          "symbol": "NDXPR052629050.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780688340000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 0,
+          "avgEntry": 26,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NDXPR052629100.0_1780926173479",
+          "symbol": "NDXPR052629100.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780688940000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 0,
+          "avgEntry": 36.3,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_POET_1780926173480",
+          "symbol": "POET",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780689180000,
+          "exitTime": 1780689600000,
+          "realizedPnl": 4664.320000000005,
+          "totalEntryQty": 18400,
+          "totalExitQty": 18400,
+          "avgEntry": 12.113495652173913,
+          "avgExit": 11.86,
+          "status": "closed"
+        },
+        {
+          "id": "t_MRVL_1780926173481",
+          "symbol": "MRVL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780689600000,
+          "exitTime": 1780694280000,
+          "realizedPnl": 6609.449999999981,
+          "totalEntryQty": 2500,
+          "totalExitQty": 500,
+          "avgEntry": 263.324,
+          "avgExit": 276.68890000000005,
+          "status": "open"
+        },
+        {
+          "id": "t_MRVL_1780926173482",
+          "symbol": "MRVL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780694160000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 276.34015000000005,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/5/2026"
     }
   },
   "annotations": {
@@ -1889,5 +1981,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-05T13:04:40.791Z"
+  "updated": "2026-06-08T13:42:53.483Z"
 }
