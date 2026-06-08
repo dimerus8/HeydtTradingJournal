@@ -1627,6 +1627,25 @@
           "notes": "",
           "entryDateStr": "6/5/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_NDXP P29100_1780927366499",
+          "symbol": "NDXP P29100",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 10610,
+          "totalEntryQty": 1,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "open",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "6/5/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/5/2026"
@@ -1980,7 +1999,11 @@
     "t_POET_1780926173480": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "man_NDXP P29100_1780927366499": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-06-08T14:01:46.457Z"
+  "updated": "2026-06-08T14:02:46.503Z"
 }
