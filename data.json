@@ -1341,7 +1341,7 @@
           "avgEntry": 268.32883499999997,
           "avgExit": 272.0973825,
           "status": "closed",
-          "tradeType": "Off Open Red",
+          "tradeType": "Imbal AM",
           "notes": "",
           "entryDateStr": "6/4/26",
           "exitDateStr": ""
@@ -2104,7 +2104,7 @@
       "notes": "looking down 20%, not paired at 9.28 either"
     },
     "t_PANW_1780588656242": {
-      "tradeType": "Off Open Red",
+      "tradeType": "Imbal AM",
       "notes": ""
     },
     "t_AVGO_1780588656241": {
@@ -2144,5 +2144,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-10T17:59:25.599Z"
+  "updated": "2026-06-10T18:59:40.568Z"
 }
