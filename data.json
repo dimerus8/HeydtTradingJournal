@@ -1557,51 +1557,6 @@
     "2026-06-05": {
       "trades": [
         {
-          "id": "t_NDXPR052629000.0_1780926173477",
-          "symbol": "NDXPR052629000.0",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1780687980000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 3,
-          "totalExitQty": 0,
-          "avgEntry": 27,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
-          "id": "t_NDXPR052629050.0_1780926173478",
-          "symbol": "NDXPR052629050.0",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1780688340000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1,
-          "totalExitQty": 0,
-          "avgEntry": 26,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
-          "id": "t_NDXPR052629100.0_1780926173479",
-          "symbol": "NDXPR052629100.0",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1780688940000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1,
-          "totalExitQty": 0,
-          "avgEntry": 36.3,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_POET_1780926173480",
           "symbol": "POET",
           "direction": "SHORT",
