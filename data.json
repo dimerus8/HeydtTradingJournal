@@ -1033,15 +1033,17 @@
           "isFutures": false,
           "isManual": true,
           "entryTime": 1780046340000,
-          "exitTime": 1780070400000,
+          "exitTime": null,
           "realizedPnl": 5932,
           "totalEntryQty": 3000,
-          "totalExitQty": 3000,
+          "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed",
-          "tradeType": "Off Open Red",
-          "notes": ""
+          "status": "open",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_NVS_1127_20260529",
@@ -1958,7 +1960,7 @@
       "notes": "0dte call"
     },
     "man_ASTS_919_20260529": {
-      "tradeType": "Off Open Red",
+      "tradeType": "Imbal AM",
       "notes": ""
     },
     "man_NVS_1127_20260529": {
@@ -2146,5 +2148,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-10T19:07:23.964Z"
+  "updated": "2026-06-10T19:09:07.092Z"
 }
