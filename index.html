@@ -184,7 +184,7 @@ function loadFromCloud(cb) {
         var data = JSON.parse(content);
         if (data && data.trades) {
             Object.keys(data.trades).forEach(function(dk) {
-                if (!db[dk] || !db[dk].trades || !db[dk].trades.length) db[dk] = data.trades[dk];
+                db[dk] = data.trades[dk];
             });
             localStorage.setItem(SK, JSON.stringify(db));
         }
