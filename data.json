@@ -969,15 +969,17 @@
           "isFutures": false,
           "isManual": true,
           "entryTime": 1780069800000,
-          "exitTime": 1780070400000,
+          "exitTime": null,
           "realizedPnl": 234144,
           "totalEntryQty": 65000,
-          "totalExitQty": 65000,
+          "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed",
-          "tradeType": "Overnight",
-          "notes": ""
+          "status": "open",
+          "tradeType": "MSCI Sell",
+          "notes": "",
+          "entryDateStr": "5/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_MSFT_1550_20260529",
@@ -1932,7 +1934,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "Overnight",
+      "tradeType": "MSCI Sell",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -2088,5 +2090,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-10T19:29:18.032Z"
+  "updated": "2026-06-10T19:30:25.370Z"
 }
