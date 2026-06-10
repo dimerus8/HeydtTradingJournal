@@ -1220,15 +1220,17 @@
           "isFutures": false,
           "isManual": true,
           "entryTime": 1780043760000,
-          "exitTime": 1780070400000,
+          "exitTime": null,
           "realizedPnl": -31222,
           "totalEntryQty": 3000,
-          "totalExitQty": 3000,
+          "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed",
-          "tradeType": "Imbal AM",
-          "notes": ""
+          "status": "open",
+          "tradeType": "Earnings",
+          "notes": "",
+          "entryDateStr": "5/29/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "5/29/2026"
@@ -1556,6 +1558,51 @@
     },
     "2026-06-05": {
       "trades": [
+        {
+          "id": "t_NDXPR052629000.0_1780926173477",
+          "symbol": "NDXPR052629000.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780687980000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 3,
+          "totalExitQty": 0,
+          "avgEntry": 27,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NDXPR052629050.0_1780926173478",
+          "symbol": "NDXPR052629050.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780688340000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 0,
+          "avgEntry": 26,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NDXPR052629100.0_1780926173479",
+          "symbol": "NDXPR052629100.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1780688940000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 0,
+          "avgEntry": 36.3,
+          "avgExit": 0,
+          "status": "open"
+        },
         {
           "id": "t_POET_1780926173480",
           "symbol": "POET",
@@ -1955,7 +2002,7 @@
       "notes": ""
     },
     "man_DELL_836_20260529": {
-      "tradeType": "Imbal AM",
+      "tradeType": "Earnings",
       "notes": ""
     },
     "t_ALAB_1779980780491": {
@@ -2099,5 +2146,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-10T18:59:40.568Z"
+  "updated": "2026-06-10T19:07:23.964Z"
 }
