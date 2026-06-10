@@ -125,6 +125,7 @@ var db=JSON.parse(localStorage.getItem(SK)||'{}');
 Object.keys(_seed).forEach(function(dk){if(!db[dk]||!db[dk].trades||!db[dk].trades.length)db[dk]=_seed[dk]});
 // Remove weekends
 Object.keys(db).forEach(function(dk){var p=dk.split('-');var d=new Date(+p[0],+p[1]-1,+p[2]).getDay();if(d===0||d===6)delete db[dk]});
+if(db['2026-06-05']&&db['2026-06-05'].trades){db['2026-06-05'].trades=db['2026-06-05'].trades.filter(function(t){return!(t.symbol&&t.symbol.indexOf('NDXPR')===0&&t.status==='open')});localStorage.setItem(SK,JSON.stringify(db))}
 localStorage.setItem(SK,JSON.stringify(db));
 var ann=JSON.parse(localStorage.getItem(AK)||'{}');
 Object.keys(_seedAnn).forEach(function(id){if(!ann[id])ann[id]=_seedAnn[id]});
