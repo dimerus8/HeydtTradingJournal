@@ -283,7 +283,7 @@
           "avgExit": 901.1140199999999,
           "status": "closed",
           "tradeType": "Off Open Green",
-          "notes": "",
+          "notes": "Mark from getting long for overnight",
           "entryDateStr": "5/26/26",
           "exitDateStr": ""
         },
@@ -2095,8 +2095,8 @@
     },
     "t_MU_1779825935216": {
       "tradeType": "Off Open Green",
-      "notes": ""
+      "notes": "Mark from getting long for overnight"
     }
   },
-  "updated": "2026-06-10T19:36:57.278Z"
+  "updated": "2026-06-10T19:38:14.375Z"
 }
