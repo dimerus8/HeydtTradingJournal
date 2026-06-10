@@ -1735,7 +1735,24 @@
       "dateStr": "6/9/26"
     },
     "2026-06-10": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_STX_1781105636698",
+          "symbol": "STX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781097924000,
+          "exitTime": 1781098194000,
+          "realizedPnl": -3067.1000000000067,
+          "totalEntryQty": 463,
+          "totalExitQty": 463,
+          "avgEntry": 814.2312742980562,
+          "avgExit": 820.8556803455722,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "6/10/26"
     }
   },
   "annotations": {
@@ -2108,5 +2125,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-10T11:46:44.167Z"
+  "updated": "2026-06-10T15:33:56.702Z"
 }
