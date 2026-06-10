@@ -671,9 +671,6 @@
       ],
       "dateStr": "5/19/26"
     },
-    "2026-05-20": {
-      "trades": []
-    },
     "2026-05-21": {
       "trades": [
         {
@@ -938,6 +935,30 @@
         }
       ],
       "dateStr": "5/22/26"
+    },
+    "2026-05-28": {
+      "trades": [
+        {
+          "id": "t_ALAB_1779980780491",
+          "symbol": "ALAB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1779974787000,
+          "exitTime": null,
+          "realizedPnl": 5679.610000000008,
+          "totalEntryQty": 750,
+          "totalExitQty": 750,
+          "avgEntry": 326.4071866666667,
+          "avgExit": 333.9800000000001,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "5/28/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "5/28/26"
     },
     "2026-05-29": {
       "trades": [
@@ -1233,30 +1254,6 @@
       ],
       "dateStr": "5/29/2026"
     },
-    "2026-05-28": {
-      "trades": [
-        {
-          "id": "t_ALAB_1779980780491",
-          "symbol": "ALAB",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1779974787000,
-          "exitTime": null,
-          "realizedPnl": 5679.610000000008,
-          "totalEntryQty": 750,
-          "totalExitQty": 750,
-          "avgEntry": 326.4071866666667,
-          "avgExit": 333.9800000000001,
-          "status": "closed",
-          "tradeType": "Imbal AM",
-          "notes": "",
-          "entryDateStr": "5/28/26",
-          "exitDateStr": ""
-        }
-      ],
-      "dateStr": "5/28/26"
-    },
     "2026-06-01": {
       "trades": [
         {
@@ -1480,6 +1477,9 @@
         }
       ],
       "dateStr": "6/3/26"
+    },
+    "2026-05-20": {
+      "trades": []
     },
     "2026-06-04": {
       "trades": [
@@ -1904,6 +1904,58 @@
       "tradeType": "Off Open Green",
       "notes": ""
     },
+    "t_ALAB_1779980780491": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_RGTI_1779825935212": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_NVDA_1779825935213": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_MU_1779825935215": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "t_ASTS_1779825935217": {
+      "tradeType": "Imbal PM",
+      "notes": ""
+    },
+    "t_RGTI_1779481652910": {
+      "tradeType": "Off Open Red",
+      "notes": ""
+    },
+    "t_CAR_1779481652915": {
+      "tradeType": "Imbal PM",
+      "notes": ""
+    },
+    "t_FUTU_1779481652912": {
+      "tradeType": "Blowup",
+      "notes": ""
+    },
+    "t_285A_1780074697312": {
+      "tradeType": "MSCI Buy",
+      "notes": ""
+    },
+    "t_DELL_1780074697313": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_ASTS_1780074697315": {
+      "tradeType": "Off Open Red",
+      "notes": ""
+    },
+    "t_NVS_1780074697319": {
+      "tradeType": "ARB",
+      "notes": ""
+    },
+    "t_NOW_1780074697317": {
+      "tradeType": "Off Open Green",
+      "notes": ""
+    },
     "man_NVDA_20260529": {
       "tradeType": "Overnight",
       "notes": ""
@@ -1992,58 +2044,6 @@
       "tradeType": "Imbal AM",
       "notes": ""
     },
-    "t_ALAB_1779980780491": {
-      "tradeType": "Imbal AM",
-      "notes": ""
-    },
-    "t_RGTI_1779825935212": {
-      "tradeType": "Off Open Green",
-      "notes": ""
-    },
-    "t_NVDA_1779825935213": {
-      "tradeType": "Imbal AM",
-      "notes": ""
-    },
-    "t_MU_1779825935215": {
-      "tradeType": "Off Open Green",
-      "notes": ""
-    },
-    "t_ASTS_1779825935217": {
-      "tradeType": "Imbal PM",
-      "notes": ""
-    },
-    "t_RGTI_1779481652910": {
-      "tradeType": "Off Open Red",
-      "notes": ""
-    },
-    "t_CAR_1779481652915": {
-      "tradeType": "Imbal PM",
-      "notes": ""
-    },
-    "t_FUTU_1779481652912": {
-      "tradeType": "Blowup",
-      "notes": ""
-    },
-    "t_285A_1780074697312": {
-      "tradeType": "MSCI Buy",
-      "notes": ""
-    },
-    "t_DELL_1780074697313": {
-      "tradeType": "Imbal AM",
-      "notes": ""
-    },
-    "t_ASTS_1780074697315": {
-      "tradeType": "Off Open Red",
-      "notes": ""
-    },
-    "t_NVS_1780074697319": {
-      "tradeType": "ARB",
-      "notes": ""
-    },
-    "t_NOW_1780074697317": {
-      "tradeType": "Off Open Green",
-      "notes": ""
-    },
     "t_SNDK_1780328486648": {
       "tradeType": "Off Open Green",
       "notes": ""
@@ -2078,7 +2078,7 @@
     },
     "t_MRVL_1780496868326": {
       "tradeType": "Cut O/N",
-      "notes": "12.30 AM, at 340.00"
+      "notes": ""
     },
     "t_GOOGL_1780496868327": {
       "tradeType": "Secondary Offering",
@@ -2133,5 +2133,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-10T19:11:38.870Z"
+  "updated": "2026-06-10T19:14:23.863Z"
 }
