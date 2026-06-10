@@ -975,7 +975,7 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "open",
+          "status": "closed",
           "tradeType": "MSCI Sell",
           "notes": "",
           "entryDateStr": "5/29/26",
