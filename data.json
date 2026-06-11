@@ -1720,7 +1720,159 @@
       "dateStr": "6/10/26"
     },
     "2026-06-11": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SOXL_1781209404924",
+          "symbol": "SOXL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781184294000,
+          "exitTime": 1781184612000,
+          "realizedPnl": -2674.610000000022,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 193.93956666666665,
+          "avgExit": 194.83110333333332,
+          "status": "closed"
+        },
+        {
+          "id": "t_RDW_1781209404925",
+          "symbol": "RDW",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781205905000,
+          "exitTime": 1781206169000,
+          "realizedPnl": 459.87500000000443,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 16.868025,
+          "avgExit": 16.96,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1781209404927",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781205910000,
+          "exitTime": 1781206133000,
+          "realizedPnl": 1840.9000000000028,
+          "totalEntryQty": 250,
+          "totalExitQty": 250,
+          "avgEntry": 974.5364,
+          "avgExit": 981.9,
+          "status": "closed"
+        },
+        {
+          "id": "t_RKLB_1781209404929",
+          "symbol": "RKLB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781205953000,
+          "exitTime": 1781206174000,
+          "realizedPnl": -86.69000000000348,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 113.89792999999999,
+          "avgExit": 113.81124000000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_RDW_1781209404926",
+          "symbol": "RDW",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781207200000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 7500,
+          "totalExitQty": 0,
+          "avgEntry": 17.269764000000002,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1781209404928",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781207276000,
+          "exitTime": 1781208000000,
+          "realizedPnl": 3973.6300000000138,
+          "totalEntryQty": 2500,
+          "totalExitQty": 500,
+          "avgEntry": 992.6472280000002,
+          "avgExit": 995.87,
+          "status": "open"
+        },
+        {
+          "id": "t_SMCI_1781209404930",
+          "symbol": "SMCI",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781207413000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 31.7603,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SNDK_1781209404931",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781207653000,
+          "exitTime": 1781208652000,
+          "realizedPnl": -9494.270000000008,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 1888.8903,
+          "avgExit": 1879.3960299999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_ADBE_1781209404932",
+          "symbol": "ADBE",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781207981000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 15000,
+          "totalExitQty": 0,
+          "avgEntry": 218.30069933333334,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ADBE_1781209404933",
+          "symbol": "ADBE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781208002000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 15000,
+          "totalExitQty": 0,
+          "avgEntry": 218.8,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/11/26"
     }
   },
   "annotations": {
@@ -2101,5 +2253,5 @@
       "notes": "Mark from getting long for overnight"
     }
   },
-  "updated": "2026-06-11T15:38:29.741Z"
+  "updated": "2026-06-11T20:23:24.925Z"
 }
