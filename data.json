@@ -1760,15 +1760,19 @@
           "symbol": "MU",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781205910000,
-          "exitTime": 1781206133000,
+          "exitTime": null,
           "realizedPnl": 1840.9000000000028,
           "totalEntryQty": 250,
           "totalExitQty": 250,
           "avgEntry": 974.5364,
           "avgExit": 981.9,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "",
+          "entryDateStr": "6/11/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_RKLB_1781209404929",
@@ -2267,7 +2271,11 @@
     "t_SNDK_1781209404931": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MU_1781209404927": {
+      "tradeType": "Cut O/N",
+      "notes": ""
     }
   },
-  "updated": "2026-06-11T20:33:34.010Z"
+  "updated": "2026-06-11T20:33:53.058Z"
 }
