@@ -1726,15 +1726,19 @@
           "symbol": "SOXL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781184294000,
-          "exitTime": 1781184612000,
+          "exitTime": null,
           "realizedPnl": -2674.610000000022,
           "totalEntryQty": 3000,
           "totalExitQty": 3000,
           "avgEntry": 193.93956666666665,
           "avgExit": 194.83110333333332,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/11/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_RDW_1781209404925",
@@ -2251,7 +2255,11 @@
     "t_MU_1779825935216": {
       "tradeType": "Other",
       "notes": "Mark from getting long for overnight"
+    },
+    "t_SOXL_1781209404924": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-06-11T20:23:24.925Z"
+  "updated": "2026-06-11T20:23:41.192Z"
 }
