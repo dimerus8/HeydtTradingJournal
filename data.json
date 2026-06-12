@@ -1887,7 +1887,114 @@
       "dateStr": "6/11/26"
     },
     "2026-06-12": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_NASA_1781295977913",
+          "symbol": "NASA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781280310000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2945,
+          "totalExitQty": 0,
+          "avgEntry": 31.732268251273343,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ARKK_1781295977914",
+          "symbol": "ARKK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781280332000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 9799,
+          "totalExitQty": 0,
+          "avgEntry": 75.09878675375036,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SPCX_1781295977915",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781280697000,
+          "exitTime": 1781295927000,
+          "realizedPnl": -12707.9213,
+          "totalEntryQty": 14988,
+          "totalExitQty": 2988,
+          "avgEntry": 163.87311930210834,
+          "avgExit": 162.54260040160625,
+          "status": "open"
+        },
+        {
+          "id": "t_SATSS1726110.000_1781295977916",
+          "symbol": "SATSS1726110.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781289886000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 25,
+          "totalExitQty": 0,
+          "avgEntry": 9.452,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SMHT2126550.000_1781295977917",
+          "symbol": "SMHT2126550.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781292021000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 14,
+          "totalExitQty": 0,
+          "avgEntry": 27.042857142857144,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SMHT2126540.000_1781295977918",
+          "symbol": "SMHT2126540.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781292054000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10,
+          "totalExitQty": 0,
+          "avgEntry": 24.245,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_KXIAY_1781295977919",
+          "symbol": "KXIAY",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781292310000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 7500,
+          "totalExitQty": 0,
+          "avgEntry": 52.96303716000001,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/12/26"
     }
   },
   "annotations": {
@@ -2280,5 +2387,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-11T20:37:19.109Z"
+  "updated": "2026-06-12T20:26:17.914Z"
 }
