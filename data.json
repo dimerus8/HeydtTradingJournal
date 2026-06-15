@@ -1948,21 +1948,6 @@
           "avgEntry": 24.245,
           "avgExit": 0,
           "status": "open"
-        },
-        {
-          "id": "t_KXIAY_1781295977919",
-          "symbol": "KXIAY",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1781292310000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 7500,
-          "totalExitQty": 0,
-          "avgEntry": 52.96303716000001,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "6/12/26"
@@ -2377,5 +2362,5 @@
       "notes": "Earnings same day"
     }
   },
-  "updated": "2026-06-15T14:06:37.510Z"
+  "updated": "2026-06-15T14:06:57.639Z"
 }
