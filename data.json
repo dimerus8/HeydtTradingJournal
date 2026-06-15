@@ -1798,15 +1798,19 @@
           "symbol": "MU",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781207276000,
-          "exitTime": 1781208000000,
-          "realizedPnl": 3973.6300000000138,
+          "exitTime": null,
+          "realizedPnl": 8050,
           "totalEntryQty": 2500,
-          "totalExitQty": 500,
+          "totalExitQty": 2500,
           "avgEntry": 992.6472280000002,
           "avgExit": 995.87,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "6/11/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SMCI_1781209404930",
@@ -2381,7 +2385,11 @@
     "t_RKLB_1781209404929": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MU_1781209404928": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:01:15.835Z"
+  "updated": "2026-06-15T14:02:21.765Z"
 }
