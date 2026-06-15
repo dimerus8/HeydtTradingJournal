@@ -1967,6 +1967,63 @@
     "2026-06-15": {
       "trades": [
         {
+          "id": "man_SPCX_overnight_1781514000000",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1781280000000,
+          "exitTime": 1781515500000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": 130000,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "Overnight from Friday"
+        },
+        {
+          "id": "man_SPCX_imbal_1781514000001",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1781514000000,
+          "exitTime": 1781515500000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": 90000,
+          "totalEntryQty": 48500,
+          "totalExitQty": 48500,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "Long 48.5K into 9:25 buy imbalance"
+        },
+        {
+          "id": "man_SPCX_short_1781514000002",
+          "symbol": "SPCX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1781515800000,
+          "exitTime": 1781519400000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": -16291,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "Short 25K on the open"
+        },
+        {
           "id": "t_KXIAY_1781533142765",
           "symbol": "KXIAY",
           "direction": "LONG",
@@ -2001,25 +2058,6 @@
           "status": "closed",
           "tradeType": "Hedge",
           "notes": "",
-          "entryDateStr": "6/15/26",
-          "exitDateStr": ""
-        },
-        {
-          "id": "t_SPCX_1781533142764",
-          "symbol": "SPCX",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1781524877000,
-          "exitTime": 1781529906000,
-          "realizedPnl": 203709,
-          "totalEntryQty": 46032,
-          "totalExitQty": 46032,
-          "avgEntry": 169.94455639555088,
-          "avgExit": 171.8547725636964,
-          "status": "closed",
-          "tradeType": "Imbal AM",
-          "notes": "Bought Some back for Am imbal",
           "entryDateStr": "6/15/26",
           "exitDateStr": ""
         },
@@ -2498,6 +2536,18 @@
     "man_NVDA_1781533304674": {
       "tradeType": "Off Open Green",
       "notes": "Decker said funding deal might be good short"
+    },
+    "man_SPCX_overnight_1781514000000": {
+      "tradeType": "Overnight",
+      "notes": "Overnight from Friday"
+    },
+    "man_SPCX_imbal_1781514000001": {
+      "tradeType": "Imbal AM",
+      "notes": "Long 48.5K into 9:25 buy imbalance"
+    },
+    "man_SPCX_short_1781514000002": {
+      "tradeType": "Off Open Red",
+      "notes": "Short 25K on the open"
     }
   },
   "updated": "2026-06-15T14:21:50.394Z"
