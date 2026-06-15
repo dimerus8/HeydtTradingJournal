@@ -1741,21 +1741,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_RDW_1781209404925",
-          "symbol": "RDW",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1781205905000,
-          "exitTime": 1781206169000,
-          "realizedPnl": 459.87500000000443,
-          "totalEntryQty": 5000,
-          "totalExitQty": 5000,
-          "avgEntry": 16.868025,
-          "avgExit": 16.96,
-          "status": "closed"
-        },
-        {
           "id": "t_MU_1781209404927",
           "symbol": "MU",
           "direction": "LONG",
@@ -2390,5 +2375,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-12T20:26:31.678Z"
+  "updated": "2026-06-15T14:00:41.891Z"
 }
