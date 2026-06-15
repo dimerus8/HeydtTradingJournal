@@ -1749,7 +1749,11 @@
           "totalExitQty": 3000,
           "avgEntry": 193.94,
           "avgExit": 194.83,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/11/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_RKLB_1781100000009",
@@ -2393,7 +2397,11 @@
     "man_SMCI_1781100000010": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "man_SOXL_1781100000008": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:16:51.990Z"
+  "updated": "2026-06-15T14:17:08.182Z"
 }
