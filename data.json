@@ -1980,7 +1980,7 @@
           "avgEntry": 54.0151,
           "avgExit": 1,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "ARB",
           "notes": "",
           "entryDateStr": "6/15/26",
           "exitDateStr": ""
@@ -2457,9 +2457,9 @@
       "notes": ""
     },
     "t_KXIAY_1781533142765": {
-      "tradeType": "",
+      "tradeType": "ARB",
       "notes": ""
     }
   },
-  "updated": "2026-06-15T14:19:42.185Z"
+  "updated": "2026-06-15T14:19:48.481Z"
 }
