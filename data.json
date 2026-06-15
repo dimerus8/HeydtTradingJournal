@@ -1991,14 +1991,16 @@
           "isManual": true,
           "entryTime": 1781514000000,
           "exitTime": 1781515500000,
-          "realizedPnl": 90000,
+          "realizedPnl": 80000,
           "totalEntryQty": 48500,
           "totalExitQty": 48500,
           "avgEntry": 0,
           "avgExit": 0,
           "status": "closed",
           "tradeType": "Imbal AM",
-          "notes": "Long 48.5K into 9:25 buy imbalance"
+          "notes": "Long 48.5K into 9:25 buy imbalance",
+          "entryDateStr": "6/15/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_SPCX_short_1781514000002",
@@ -2569,5 +2571,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-15T15:01:53.816Z"
+  "updated": "2026-06-15T15:02:18.592Z"
 }
