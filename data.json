@@ -1880,14 +1880,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1781170200000,
+          "entryTime": 1781256600000,
           "exitTime": 1781193600000,
           "realizedPnl": 2250,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "ARB",
+          "notes": "",
+          "entryDateStr": "6/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_RDW_1781100000005",
@@ -2395,7 +2399,11 @@
     "man_MU_1781100000002": {
       "tradeType": "Cut O/N",
       "notes": ""
+    },
+    "man_KXIAY_1781100000004": {
+      "tradeType": "ARB",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:18:16.687Z"
+  "updated": "2026-06-15T14:18:24.871Z"
 }
