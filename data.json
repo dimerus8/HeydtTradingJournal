@@ -1729,12 +1729,16 @@
           "isManual": true,
           "entryTime": 1781170200000,
           "exitTime": 1781193600000,
-          "realizedPnl": -377,
+          "realizedPnl": -7594,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "",
+          "entryDateStr": "6/11/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_SOXL_1781100000008",
@@ -2401,7 +2405,11 @@
     "man_SOXL_1781100000008": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_SNDK_1781100000007": {
+      "tradeType": "Cut O/N",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:17:08.182Z"
+  "updated": "2026-06-15T14:17:28.254Z"
 }
