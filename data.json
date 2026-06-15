@@ -2022,6 +2022,25 @@
           "notes": "Bought Some back for Am imbal",
           "entryDateStr": "6/15/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_NVDA_1781533304674",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -8563.500000000133,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 208.9518,
+          "avgExit": 210.0936,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "Decker said funding deal might be good short",
+          "entryDateStr": "6/15/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/15/26"
@@ -2475,7 +2494,11 @@
     "t_SPCX_1781533142764": {
       "tradeType": "Imbal AM",
       "notes": "Bought Some back for Am imbal"
+    },
+    "man_NVDA_1781533304674": {
+      "tradeType": "Off Open Green",
+      "notes": "Decker said funding deal might be good short"
     }
   },
-  "updated": "2026-06-15T14:20:46.891Z"
+  "updated": "2026-06-15T14:21:44.675Z"
 }
