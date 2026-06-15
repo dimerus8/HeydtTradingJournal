@@ -1857,14 +1857,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1781170200000,
+          "entryTime": 1781256600000,
           "exitTime": 1781193600000,
           "realizedPnl": 13273,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_KXIAY_1781100000004",
@@ -2379,7 +2383,11 @@
     "man_SPCX_1781100000001": {
       "tradeType": "IPO Buy Open",
       "notes": ""
+    },
+    "man_NASA_1781100000003": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:17:58.231Z"
+  "updated": "2026-06-15T14:18:09.463Z"
 }
