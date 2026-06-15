@@ -1842,14 +1842,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1781170200000,
+          "entryTime": 1781256600000,
           "exitTime": 1781202600000,
           "realizedPnl": 83630,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "",
+          "entryDateStr": "6/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_NASA_1781100000003",
@@ -2387,7 +2391,11 @@
     "man_NASA_1781100000003": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_MU_1781100000002": {
+      "tradeType": "Cut O/N",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:18:09.463Z"
+  "updated": "2026-06-15T14:18:16.687Z"
 }
