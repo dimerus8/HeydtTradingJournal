@@ -1955,21 +1955,6 @@
           "avgEntry": 113.9,
           "avgExit": 113.81,
           "status": "closed"
-        },
-        {
-          "id": "man_SMCI_1781100000010",
-          "symbol": "SMCI",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1781193000000,
-          "exitTime": 1781201220000,
-          "realizedPnl": 765,
-          "totalEntryQty": 5000,
-          "totalExitQty": 5000,
-          "avgEntry": 31.76,
-          "avgExit": 31.91,
-          "status": "closed"
         }
       ],
       "dateStr": "6/12/2026"
@@ -2383,10 +2368,6 @@
       "tradeType": "Imbal PM",
       "notes": "Earnings same day"
     },
-    "man_SMCI_1781100000010": {
-      "tradeType": "Imbal PM",
-      "notes": ""
-    },
     "man_SOXL_1781100000008": {
       "tradeType": "Off Open Green",
       "notes": ""
@@ -2400,5 +2381,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-15T14:17:54.087Z"
+  "updated": "2026-06-15T14:17:58.231Z"
 }
