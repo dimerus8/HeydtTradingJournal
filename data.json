@@ -1764,15 +1764,19 @@
           "symbol": "RKLB",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781205953000,
-          "exitTime": 1781206174000,
+          "exitTime": null,
           "realizedPnl": -86.69000000000348,
           "totalEntryQty": 1000,
           "totalExitQty": 1000,
           "avgEntry": 113.89792999999999,
           "avgExit": 113.81124000000001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "6/11/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_RDW_1781209404926",
@@ -2373,7 +2377,11 @@
     "t_MU_1781209404927": {
       "tradeType": "Cut O/N",
       "notes": ""
+    },
+    "t_RKLB_1781209404929": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:00:41.891Z"
+  "updated": "2026-06-15T14:01:15.835Z"
 }
