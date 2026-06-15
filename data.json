@@ -1970,21 +1970,6 @@
           "avgEntry": 31.76,
           "avgExit": 31.91,
           "status": "closed"
-        },
-        {
-          "id": "man_ADBE_1781100000011",
-          "symbol": "ADBE",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1781193540000,
-          "exitTime": 1781193600000,
-          "realizedPnl": 7490,
-          "totalEntryQty": 15000,
-          "totalExitQty": 15000,
-          "avgEntry": 218.3,
-          "avgExit": 218.8,
-          "status": "closed"
         }
       ],
       "dateStr": "6/12/2026"
@@ -2398,10 +2383,6 @@
       "tradeType": "Imbal PM",
       "notes": "Earnings same day"
     },
-    "man_ADBE_1781100000011": {
-      "tradeType": "Imbal PM",
-      "notes": "Earnings same day (small buy imbal)"
-    },
     "man_SMCI_1781100000010": {
       "tradeType": "Imbal PM",
       "notes": ""
@@ -2419,5 +2400,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-15T14:17:40.024Z"
+  "updated": "2026-06-15T14:17:54.087Z"
 }
