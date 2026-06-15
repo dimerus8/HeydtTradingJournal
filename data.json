@@ -1960,21 +1960,6 @@
           "avgEntry": 193.94,
           "avgExit": 194.83,
           "status": "closed"
-        },
-        {
-          "id": "man_RKLB_1781100000009",
-          "symbol": "RKLB",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1781191500000,
-          "exitTime": 1781191740000,
-          "realizedPnl": -87,
-          "totalEntryQty": 1000,
-          "totalExitQty": 1000,
-          "avgEntry": 113.9,
-          "avgExit": 113.81,
-          "status": "closed"
         }
       ],
       "dateStr": "6/12/2026"
@@ -2421,5 +2406,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-15T14:18:46.504Z"
+  "updated": "2026-06-15T14:18:50.850Z"
 }
