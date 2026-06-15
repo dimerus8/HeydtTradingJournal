@@ -2014,8 +2014,10 @@
           "avgEntry": 0,
           "avgExit": 0,
           "status": "closed",
-          "tradeType": "Off Open Red",
-          "notes": "Short 25K on the open"
+          "tradeType": "Off Open Green",
+          "notes": "Short 25K on the open",
+          "entryDateStr": "6/15/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_KXIAY_1781533142765",
@@ -2559,7 +2561,7 @@
       "notes": "Long 48.5K into 9:25 buy imbalance"
     },
     "man_SPCX_short_1781514000002": {
-      "tradeType": "Off Open Red",
+      "tradeType": "Off Open Green",
       "notes": "Short 25K on the open"
     },
     "man_SPCX_1781535217779": {
@@ -2567,5 +2569,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-15T14:53:42.986Z"
+  "updated": "2026-06-15T14:53:57.362Z"
 }
