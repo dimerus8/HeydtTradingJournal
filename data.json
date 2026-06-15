@@ -1972,16 +1972,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1781280000000,
+          "entryTime": 1781539200000,
           "exitTime": 1781515500000,
-          "realizedPnl": 130000,
+          "realizedPnl": 147000,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
           "status": "closed",
           "tradeType": "Overnight",
-          "notes": "Overnight from Friday"
+          "notes": "Overnight from Friday",
+          "entryDateStr": "6/15/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_SPCX_imbal_1781514000001",
@@ -2571,5 +2573,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-15T15:02:18.592Z"
+  "updated": "2026-06-15T15:02:48.696Z"
 }
