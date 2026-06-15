@@ -1965,7 +1965,54 @@
       "dateStr": "6/12/2026"
     },
     "2026-06-15": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_KXIAY_1781533142765",
+          "symbol": "KXIAY",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781522614000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 54.0151,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_QQQ_1781533142766",
+          "symbol": "QQQ",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781523408000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 250,
+          "totalExitQty": 0,
+          "avgEntry": 736.9176,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SPCX_1781533142764",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781524877000,
+          "exitTime": 1781529906000,
+          "realizedPnl": 23890.905000000042,
+          "totalEntryQty": 46032,
+          "totalExitQty": 13894,
+          "avgEntry": 169.94455639555088,
+          "avgExit": 171.8547725636964,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/15/26"
     }
   },
   "annotations": {
@@ -2406,5 +2453,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-15T14:18:50.850Z"
+  "updated": "2026-06-15T14:19:02.765Z"
 }
