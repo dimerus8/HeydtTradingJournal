@@ -2012,7 +2012,7 @@
           "isManual": true,
           "entryTime": 1781524877000,
           "exitTime": 1781529906000,
-          "realizedPnl": 23890.905000000042,
+          "realizedPnl": 203709,
           "totalEntryQty": 46032,
           "totalExitQty": 46032,
           "avgEntry": 169.94455639555088,
@@ -2477,5 +2477,5 @@
       "notes": "Bought Some back for Am imbal"
     }
   },
-  "updated": "2026-06-15T14:20:35.050Z"
+  "updated": "2026-06-15T14:20:46.891Z"
 }
