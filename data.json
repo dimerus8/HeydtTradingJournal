@@ -1794,7 +1794,11 @@
           "totalExitQty": 15000,
           "avgEntry": 218.3,
           "avgExit": 218.8,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "Earnings same day (small buy imbal)",
+          "entryDateStr": "6/11/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/11/2026"
@@ -2377,7 +2381,11 @@
     "t_ADBE_1781209404932": {
       "tradeType": "Imbal PM",
       "notes": "Earnings same day"
+    },
+    "man_ADBE_1781100000011": {
+      "tradeType": "Imbal PM",
+      "notes": "Earnings same day (small buy imbal)"
     }
   },
-  "updated": "2026-06-15T14:16:24.574Z"
+  "updated": "2026-06-15T14:16:43.831Z"
 }
