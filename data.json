@@ -1971,15 +1971,19 @@
           "symbol": "KXIAY",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781522614000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -6075,
           "totalEntryQty": 5000,
-          "totalExitQty": 0,
+          "totalExitQty": 5000,
           "avgEntry": 54.0151,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "6/15/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_QQQ_1781533142766",
@@ -2451,7 +2455,11 @@
     "man_QQQ_1781100000006": {
       "tradeType": "Hedge",
       "notes": ""
+    },
+    "t_KXIAY_1781533142765": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:19:02.765Z"
+  "updated": "2026-06-15T14:19:42.185Z"
 }
