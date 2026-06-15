@@ -1918,14 +1918,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1781170200000,
+          "entryTime": 1781256600000,
           "exitTime": 1781193600000,
           "realizedPnl": 1458,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Hedge",
+          "notes": "",
+          "entryDateStr": "6/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_SNDK_1781100000007",
@@ -2411,7 +2415,11 @@
     "man_RDW_1781100000005": {
       "tradeType": "Cut O/N",
       "notes": ""
+    },
+    "man_QQQ_1781100000006": {
+      "tradeType": "Hedge",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:18:37.360Z"
+  "updated": "2026-06-15T14:18:46.504Z"
 }
