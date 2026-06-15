@@ -1974,8 +1974,6 @@
           "isManual": true,
           "entryTime": 1781280000000,
           "exitTime": 1781515500000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 130000,
           "totalEntryQty": 0,
           "totalExitQty": 0,
@@ -1993,8 +1991,6 @@
           "isManual": true,
           "entryTime": 1781514000000,
           "exitTime": 1781515500000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 90000,
           "totalEntryQty": 48500,
           "totalExitQty": 48500,
@@ -2012,8 +2008,6 @@
           "isManual": true,
           "entryTime": 1781515800000,
           "exitTime": 1781519400000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": -16291,
           "totalEntryQty": 25000,
           "totalExitQty": 25000,
@@ -2077,6 +2071,25 @@
           "status": "closed",
           "tradeType": "Off Open Green",
           "notes": "Decker said funding deal might be good short",
+          "entryDateStr": "6/15/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "man_SPCX_1781535217779",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 65213.910569999905,
+          "totalEntryQty": 8571,
+          "totalExitQty": 8571,
+          "avgEntry": 160.53073,
+          "avgExit": 168.1394,
+          "status": "closed",
+          "tradeType": "IBKR o/n",
+          "notes": "",
           "entryDateStr": "6/15/26",
           "exitDateStr": ""
         }
@@ -2548,7 +2561,11 @@
     "man_SPCX_short_1781514000002": {
       "tradeType": "Off Open Red",
       "notes": "Short 25K on the open"
+    },
+    "man_SPCX_1781535217779": {
+      "tradeType": "IBKR o/n",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:21:50.394Z"
+  "updated": "2026-06-15T14:53:37.779Z"
 }
