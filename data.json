@@ -1823,14 +1823,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1781170200000,
+          "entryTime": 1781256600000,
           "exitTime": 1781193600000,
           "realizedPnl": 97524,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "IPO Buy Open",
+          "notes": "",
+          "entryDateStr": "6/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_MU_1781100000002",
@@ -2409,7 +2413,11 @@
     "man_SNDK_1781100000007": {
       "tradeType": "Cut O/N",
       "notes": ""
+    },
+    "man_SPCX_1781100000001": {
+      "tradeType": "IPO Buy Open",
+      "notes": ""
     }
   },
-  "updated": "2026-06-15T14:17:28.254Z"
+  "updated": "2026-06-15T14:17:40.024Z"
 }
