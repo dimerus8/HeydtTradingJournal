@@ -2109,7 +2109,7 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781616256000,
           "exitTime": 1781616304000,
           "realizedPnl": -9130.02999999997,
@@ -2117,7 +2117,11 @@
           "totalExitQty": 10015,
           "avgEntry": 203.48015776335495,
           "avgExit": 202.56852221667492,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "small to buy 283m, popped for a second and came right off",
+          "entryDateStr": "6/16/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNDK_1781617450399",
@@ -2636,7 +2640,11 @@
     "man_SPCX_1781535217779": {
       "tradeType": "IBKR o/n",
       "notes": ""
+    },
+    "t_SPCX_1781617450397": {
+      "tradeType": "Imbal AM",
+      "notes": "small to buy 283m, popped for a second and came right off"
     }
   },
-  "updated": "2026-06-16T13:44:10.398Z"
+  "updated": "2026-06-16T13:49:01.144Z"
 }
