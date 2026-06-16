@@ -2128,7 +2128,7 @@
           "symbol": "SNDK",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781616333000,
           "exitTime": 1781616663000,
           "realizedPnl": -11331.249999999962,
@@ -2136,7 +2136,11 @@
           "totalExitQty": 1500,
           "avgEntry": 2131.737706666667,
           "avgExit": 2139.291873333333,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/16/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1781617450400",
@@ -2644,7 +2648,11 @@
     "t_SPCX_1781617450397": {
       "tradeType": "Imbal AM",
       "notes": "small to buy 283m, popped for a second and came right off"
+    },
+    "t_SNDK_1781617450399": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-06-16T13:49:01.144Z"
+  "updated": "2026-06-16T13:49:07.520Z"
 }
