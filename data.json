@@ -2147,7 +2147,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781616341000,
           "exitTime": 1781616770000,
           "realizedPnl": 36838.08999999996,
@@ -2155,7 +2155,11 @@
           "totalExitQty": 4000,
           "avgEntry": 1100.1090475,
           "avgExit": 1090.8995250000012,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/16/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1781617450398",
@@ -2652,7 +2656,11 @@
     "t_SNDK_1781617450399": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_MU_1781617450400": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-06-16T13:49:07.520Z"
+  "updated": "2026-06-16T13:49:13.944Z"
 }
