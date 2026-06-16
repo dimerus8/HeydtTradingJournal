@@ -2103,7 +2103,69 @@
       "dateStr": "6/15/26"
     },
     "2026-06-16": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SPCX_1781617450397",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781616256000,
+          "exitTime": 1781616304000,
+          "realizedPnl": -9130.02999999997,
+          "totalEntryQty": 10015,
+          "totalExitQty": 10015,
+          "avgEntry": 203.48015776335495,
+          "avgExit": 202.56852221667492,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1781617450399",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781616333000,
+          "exitTime": 1781616663000,
+          "realizedPnl": -11331.249999999962,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 2131.737706666667,
+          "avgExit": 2139.291873333333,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1781617450400",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781616341000,
+          "exitTime": 1781616770000,
+          "realizedPnl": 36838.08999999996,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 1100.1090475,
+          "avgExit": 1090.8995250000012,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1781617450398",
+          "symbol": "SPCX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781616513000,
+          "exitTime": 1781616900000,
+          "realizedPnl": -15564.784999999993,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 200.174004,
+          "avgExit": 206.39991799999999,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "6/16/26"
     }
   },
   "annotations": {
@@ -2576,5 +2638,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-16T13:44:06.906Z"
+  "updated": "2026-06-16T13:44:10.398Z"
 }
