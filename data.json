@@ -2166,7 +2166,7 @@
           "symbol": "SPCX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781616513000,
           "exitTime": 1781616900000,
           "realizedPnl": -15564.784999999993,
@@ -2174,7 +2174,11 @@
           "totalExitQty": 2500,
           "avgEntry": 200.174004,
           "avgExit": 206.39991799999999,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "6/16/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/16/26"
@@ -2660,7 +2664,11 @@
     "t_MU_1781617450400": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_SPCX_1781617450398": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-06-16T13:49:13.944Z"
+  "updated": "2026-06-16T13:49:19.921Z"
 }
