@@ -2222,21 +2222,6 @@
           "notes": "",
           "entryDateStr": "6/17/26",
           "exitDateStr": ""
-        },
-        {
-          "id": "t_SPCX_1781704385316",
-          "symbol": "SPCX",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1781703124000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 500,
-          "totalExitQty": 0,
-          "avgEntry": 211.5725,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "6/17/26"
@@ -2736,5 +2721,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-17T13:54:32.322Z"
+  "updated": "2026-06-17T13:54:38.035Z"
 }
