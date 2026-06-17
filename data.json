@@ -2209,15 +2209,19 @@
           "symbol": "SPCX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781702703000,
           "exitTime": 1781703111000,
           "realizedPnl": -4605.6399999999885,
-          "totalEntryQty": 2500,
-          "totalExitQty": 2500,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
           "avgEntry": 210.317596,
           "avgExit": 212.1598519999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "6/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1781704385316",
@@ -2726,7 +2730,11 @@
     "man_SNDK_1781704358393": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_SPCX_1781704385315": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-06-17T13:53:05.316Z"
+  "updated": "2026-06-17T13:54:32.322Z"
 }
