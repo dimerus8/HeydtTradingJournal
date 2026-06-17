@@ -2179,6 +2179,25 @@
           "notes": "",
           "entryDateStr": "6/16/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_SNDK_1781704358393",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 3147,
+          "totalEntryQty": 1000,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "open",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "6/16/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/16/26"
@@ -2668,7 +2687,11 @@
     "t_SPCX_1781617450398": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_SNDK_1781704358393": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-06-16T13:49:24.992Z"
+  "updated": "2026-06-17T13:52:38.394Z"
 }
