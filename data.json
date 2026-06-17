@@ -2222,6 +2222,25 @@
           "notes": "",
           "entryDateStr": "6/17/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_SPCX 06/18/26 P160_1781713695018",
+          "symbol": "SPCX 06/18/26 P160",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -1750,
+          "totalEntryQty": 10,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "open",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "6/17/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/17/26"
@@ -2719,7 +2738,11 @@
     "t_SPCX_1781704385315": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_SPCX 06/18/26 P160_1781713695018": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-06-17T13:55:24.459Z"
+  "updated": "2026-06-17T16:28:15.019Z"
 }
