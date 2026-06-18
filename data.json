@@ -2246,7 +2246,114 @@
       "dateStr": "6/17/26"
     },
     "2026-06-18": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_ACN_1781815916199",
+          "symbol": "ACN",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781787416000,
+          "exitTime": 1781789585000,
+          "realizedPnl": -3455.079999999969,
+          "totalEntryQty": 9340,
+          "totalExitQty": 9340,
+          "avgEntry": 129.57007708779446,
+          "avgExit": 129.93999999999986,
+          "status": "closed"
+        },
+        {
+          "id": "t_NQU6_1781815916201",
+          "symbol": "NQU6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1781788269000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 6,
+          "totalExitQty": 0,
+          "avgEntry": 30519.583333333332,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ACN_1781815916200",
+          "symbol": "ACN",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781789585000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 660,
+          "totalExitQty": 0,
+          "avgEntry": 129.94,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_AAPLF1826300.000_1781815916202",
+          "symbol": "AAPLF1826300.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781809223000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1000,
+          "totalExitQty": 0,
+          "avgEntry": 0.02761,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MRVL_1781815916203",
+          "symbol": "MRVL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781810465000,
+          "exitTime": 1781812205000,
+          "realizedPnl": -78453.535,
+          "totalEntryQty": 30000,
+          "totalExitQty": 8000,
+          "avgEntry": 328.08204368999986,
+          "avgExit": 318.2558993750003,
+          "status": "open"
+        },
+        {
+          "id": "t_MRVL_1781815916204",
+          "symbol": "MRVL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781812205000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 22000,
+          "totalExitQty": 0,
+          "avgEntry": 316.34677068181816,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1781815916205",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781812307000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 1134.984885,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/18/26"
     },
     "NaN-NaN-NaN": {
       "trades": [
@@ -2797,5 +2904,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-18T15:08:21.209Z"
+  "updated": "2026-06-18T20:51:56.201Z"
 }
