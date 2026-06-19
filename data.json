@@ -2406,8 +2406,39 @@
       "dateStr": "ACN"
     },
     "2026-06-19": {
-      "trades": [],
-      "dateStr": "6/19/2026"
+      "trades": [
+        {
+          "id": "t_ASML_1781883653164",
+          "symbol": "ASML",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781881517000,
+          "exitTime": 1781883321000,
+          "realizedPnl": 27274.265920000165,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 1664.6185664800012,
+          "avgExit": 1657.7999999999997,
+          "status": "closed"
+        },
+        {
+          "id": "t_ASML_1781883653165",
+          "symbol": "ASML",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1781883321000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1000,
+          "totalExitQty": 0,
+          "avgEntry": 1657.8,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/19/26"
     }
   },
   "annotations": {
@@ -2908,5 +2939,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-18T20:51:56.201Z"
+  "updated": "2026-06-19T15:40:53.164Z"
 }
