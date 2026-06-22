@@ -2351,14 +2351,16 @@
           "isManual": true,
           "entryTime": 1781861400000,
           "exitTime": 1781884800000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 48532,
           "totalEntryQty": 5556,
           "totalExitQty": 5556,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "SP Rebalance",
+          "notes": "right way",
+          "entryDateStr": "6/19/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/19/2026"
@@ -2880,7 +2882,11 @@
     "man_MRVL_1781773200005": {
       "tradeType": "SP Rebalance",
       "notes": ""
+    },
+    "man_ASML_1782140680619": {
+      "tradeType": "SP Rebalance",
+      "notes": "right way"
     }
   },
-  "updated": "2026-06-22T14:59:34.832Z"
+  "updated": "2026-06-22T15:07:13.275Z"
 }
