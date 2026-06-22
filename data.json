@@ -2377,10 +2377,10 @@
           "exitTime": null,
           "realizedPnl": 42351,
           "totalEntryQty": 2000,
-          "totalExitQty": 0,
+          "totalExitQty": 2000,
           "avgEntry": 1134,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 1,
+          "status": "closed",
           "tradeType": "Overnight",
           "notes": "",
           "entryDateStr": "6/22/26",
@@ -2916,5 +2916,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-22T15:08:36.653Z"
+  "updated": "2026-06-22T15:08:44.379Z"
 }
