@@ -2425,21 +2425,6 @@
           "notes": "",
           "entryDateStr": "6/19/26",
           "exitDateStr": ""
-        },
-        {
-          "id": "t_ASML_1781883653165",
-          "symbol": "ASML",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1781883321000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1000,
-          "totalExitQty": 0,
-          "avgEntry": 1657.8,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "6/19/26"
@@ -2947,5 +2932,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-22T14:07:00.479Z"
+  "updated": "2026-06-22T14:07:04.319Z"
 }
