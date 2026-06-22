@@ -2342,7 +2342,25 @@
       "dateStr": "6/18/2026"
     },
     "2026-06-19": {
-      "trades": [],
+      "trades": [
+        {
+          "id": "man_ASML_1782140680619",
+          "symbol": "ASML",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1781861400000,
+          "exitTime": 1781884800000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": 48532,
+          "totalEntryQty": 5556,
+          "totalExitQty": 5556,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed"
+        }
+      ],
       "dateStr": "6/19/2026"
     }
   },
