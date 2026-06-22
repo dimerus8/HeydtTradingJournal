@@ -2412,15 +2412,19 @@
           "symbol": "ASML",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1781881517000,
           "exitTime": 1781883321000,
-          "realizedPnl": 27274.265920000165,
+          "realizedPnl": 48253,
           "totalEntryQty": 4000,
           "totalExitQty": 4000,
           "avgEntry": 1664.6185664800012,
           "avgExit": 1657.7999999999997,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "6/19/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ASML_1781883653165",
@@ -2937,7 +2941,11 @@
     "man_SPCX 06/18/26 P160_1781713695018": {
       "tradeType": "",
       "notes": ""
+    },
+    "t_ASML_1781883653164": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-06-22T14:03:54.189Z"
+  "updated": "2026-06-22T14:07:00.479Z"
 }
