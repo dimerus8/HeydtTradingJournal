@@ -2279,7 +2279,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "6/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_ACN_1781773200003",
@@ -2888,7 +2892,11 @@
     "man_AAPL06_18C300_1781773200001": {
       "tradeType": "SP Rebalance",
       "notes": ""
+    },
+    "man_MU_1781773200002": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-06-22T14:47:50.050Z"
+  "updated": "2026-06-22T14:47:57.001Z"
 }
