@@ -2341,56 +2341,6 @@
       ],
       "dateStr": "6/18/2026"
     },
-    "NaN-NaN-NaN": {
-      "trades": [
-        {
-          "id": "t_129.94_1781795301209",
-          "symbol": "129.94",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": null,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 10000,
-          "totalExitQty": 0,
-          "avgEntry": 129.945,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
-          "id": "t_129.6531_1781795301210",
-          "symbol": "129.6531",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": null,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 10000,
-          "totalExitQty": 0,
-          "avgEntry": 129.6531,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
-          "id": "t_30519.5833333_1781795301211",
-          "symbol": "30519.5833333",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": null,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 6,
-          "totalExitQty": 0,
-          "avgEntry": 30519.5833333,
-          "avgExit": 0,
-          "status": "open"
-        }
-      ],
-      "dateStr": "ACN"
-    },
     "2026-06-19": {
       "trades": [],
       "dateStr": "6/19/2026"
