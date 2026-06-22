@@ -2298,7 +2298,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Blowup",
+          "notes": "",
+          "entryDateStr": "6/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_NQU6_1781773200004",
@@ -2896,7 +2900,11 @@
     "man_MU_1781773200002": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "man_ACN_1781773200003": {
+      "tradeType": "Blowup",
+      "notes": ""
     }
   },
-  "updated": "2026-06-22T14:47:57.001Z"
+  "updated": "2026-06-22T14:48:06.434Z"
 }
