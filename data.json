@@ -2366,7 +2366,27 @@
       "dateStr": "6/19/2026"
     },
     "2026-06-22": {
-      "trades": [],
+      "trades": [
+        {
+          "id": "man_MU_1782140916652",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 42351,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 1134,
+          "avgExit": 0,
+          "status": "open",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "6/22/26",
+          "exitDateStr": ""
+        }
+      ],
       "dateStr": "6/22/26"
     }
   },
@@ -2890,7 +2910,11 @@
     "man_ASML_1782140680619": {
       "tradeType": "SP Rebalance",
       "notes": "right way"
+    },
+    "man_MU_1782140916652": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-06-22T15:07:41.947Z"
+  "updated": "2026-06-22T15:08:36.653Z"
 }
