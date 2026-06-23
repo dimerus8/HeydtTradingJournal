@@ -2430,15 +2430,19 @@
           "symbol": "SNDK",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1782221263000,
           "exitTime": 1782221285000,
-          "realizedPnl": 264.4999999999982,
+          "realizedPnl": 39419,
           "totalEntryQty": 50,
           "totalExitQty": 50,
           "avgEntry": 2002.06,
           "avgExit": 1996.77,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "6/23/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/23/26"
@@ -2972,7 +2976,11 @@
     "t_MU_1782240104550": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_SNDK_1782240104552": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-06-23T18:42:36.691Z"
+  "updated": "2026-06-23T18:42:52.386Z"
 }
