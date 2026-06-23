@@ -2411,15 +2411,19 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1782221080000,
           "exitTime": 1782221440000,
-          "realizedPnl": 23149.390000000007,
+          "realizedPnl": 9274,
           "totalEntryQty": 1250,
           "totalExitQty": 1250,
           "avgEntry": 1086.3503920000003,
           "avgExit": 1067.8308799999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "6/23/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNDK_1782240104552",
@@ -2964,7 +2968,11 @@
     "man_MU_1782140916652": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "t_MU_1782240104550": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-06-23T18:42:13.610Z"
+  "updated": "2026-06-23T18:42:36.691Z"
 }
