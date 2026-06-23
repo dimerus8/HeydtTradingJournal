@@ -2435,21 +2435,6 @@
           "avgEntry": 2002.06,
           "avgExit": 1996.77,
           "status": "closed"
-        },
-        {
-          "id": "t_MU_1782240104551",
-          "symbol": "MU",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1782221440000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 750,
-          "totalExitQty": 0,
-          "avgEntry": 1065.4262866666666,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "6/23/26"
@@ -2981,5 +2966,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-23T18:42:10.817Z"
+  "updated": "2026-06-23T18:42:13.610Z"
 }
