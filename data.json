@@ -2437,21 +2437,6 @@
           "status": "closed"
         },
         {
-          "id": "t_SNDK_1782240104553",
-          "symbol": "SNDK",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1782221285000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 950,
-          "totalExitQty": 0,
-          "avgEntry": 2003.2673684210527,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_MU_1782240104551",
           "symbol": "MU",
           "direction": "LONG",
@@ -2996,5 +2981,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-23T18:41:44.549Z"
+  "updated": "2026-06-23T18:42:10.817Z"
 }
