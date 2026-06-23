@@ -2396,7 +2396,7 @@
           "symbol": "PINS",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1782220072000,
           "exitTime": 1782221476000,
           "realizedPnl": -11010.079999999993,
@@ -2404,7 +2404,11 @@
           "totalExitQty": 15000,
           "avgEntry": 18.811166666666693,
           "avgExit": 19.545171999999972,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "6/23/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1782240104550",
@@ -2980,7 +2984,11 @@
     "t_SNDK_1782240104552": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_PINS_1782240104549": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-06-23T18:42:52.386Z"
+  "updated": "2026-06-23T18:42:57.762Z"
 }
