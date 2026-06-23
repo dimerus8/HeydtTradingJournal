@@ -2390,7 +2390,84 @@
       "dateStr": "6/22/26"
     },
     "2026-06-23": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_PINS_1782240104549",
+          "symbol": "PINS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782220072000,
+          "exitTime": 1782221476000,
+          "realizedPnl": -11010.079999999993,
+          "totalEntryQty": 15000,
+          "totalExitQty": 15000,
+          "avgEntry": 18.811166666666693,
+          "avgExit": 19.545171999999972,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1782240104550",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782221080000,
+          "exitTime": 1782221440000,
+          "realizedPnl": 23149.390000000007,
+          "totalEntryQty": 1250,
+          "totalExitQty": 1250,
+          "avgEntry": 1086.3503920000003,
+          "avgExit": 1067.8308799999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1782240104552",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782221263000,
+          "exitTime": 1782221285000,
+          "realizedPnl": 264.4999999999982,
+          "totalEntryQty": 50,
+          "totalExitQty": 50,
+          "avgEntry": 2002.06,
+          "avgExit": 1996.77,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1782240104553",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782221285000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 950,
+          "totalExitQty": 0,
+          "avgEntry": 2003.2673684210527,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1782240104551",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782221440000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 750,
+          "totalExitQty": 0,
+          "avgEntry": 1065.4262866666666,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/23/26"
     }
   },
   "annotations": {
@@ -2919,5 +2996,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-23T18:41:41.273Z"
+  "updated": "2026-06-23T18:41:44.549Z"
 }
