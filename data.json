@@ -2447,6 +2447,25 @@
           "notes": "",
           "entryDateStr": "6/23/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_MU_1782397804840",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 14600,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 1234.35,
+          "avgExit": 1227.05,
+          "status": "closed",
+          "tradeType": "Earnings",
+          "notes": "",
+          "entryDateStr": "6/25/26",
+          "exitDateStr": "6/25/26"
         }
       ],
       "dateStr": "6/23/26"
@@ -2670,7 +2689,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -2766,7 +2785,7 @@
       "notes": ""
     },
     "t_MU_1780426544590": {
-      "tradeType": "Imbal Buy",
+      "tradeType": "Off Open Green",
       "notes": ""
     },
     "t_MRVL_1780496868326": {
@@ -2988,7 +3007,11 @@
     "t_PINS_1782240104549": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "man_MU_1782397804840": {
+      "tradeType": "Earnings",
+      "notes": ""
     }
   },
-  "updated": "2026-06-23T18:42:57.762Z"
+  "updated": "2026-06-25T14:30:04.841Z"
 }
