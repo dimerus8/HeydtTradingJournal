@@ -2495,7 +2495,144 @@
       "dateStr": "6/25/26"
     },
     "2026-06-26": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_TXN_1782508379961",
+          "symbol": "TXN",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782503442000,
+          "exitTime": 1782504000000,
+          "realizedPnl": -50748.69980000025,
+          "totalEntryQty": 21531,
+          "totalExitQty": 21531,
+          "avgEntry": 283.06799383214906,
+          "avgExit": 285.425,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1782508379963",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782503546000,
+          "exitTime": 1782504001000,
+          "realizedPnl": -76716.50999999982,
+          "totalEntryQty": 9000,
+          "totalExitQty": 9000,
+          "avgEntry": 2082.1859433333357,
+          "avgExit": 2090.710000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_TXN_1782508379962",
+          "symbol": "TXN",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782504000000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 4075,
+          "totalExitQty": 0,
+          "avgEntry": 285.425,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SNDK_1782508379964",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782504001000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 2090.71,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_AAPL_1782508379965",
+          "symbol": "AAPL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782504002000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 50000,
+          "totalExitQty": 0,
+          "avgEntry": 283.78,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_BE_1782508379966",
+          "symbol": "BE",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782504007000,
+          "exitTime": 1782504190000,
+          "realizedPnl": 52159.37999999978,
+          "totalEntryQty": 15550,
+          "totalExitQty": 15550,
+          "avgEntry": 252.02,
+          "avgExit": 255.37430096463015,
+          "status": "closed"
+        },
+        {
+          "id": "t_AMZN_1782508379967",
+          "symbol": "AMZN",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782504046000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10000,
+          "totalExitQty": 0,
+          "avgEntry": 231.53825600000002,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ABBV_1782508379968",
+          "symbol": "ABBV",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782504394000,
+          "exitTime": 1782505244000,
+          "realizedPnl": 3994.6499999999833,
+          "totalEntryQty": 12959,
+          "totalExitQty": 2959,
+          "avgEntry": 253.35,
+          "avgExit": 252,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1782508379969",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782506881000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 1128.6512,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/26/26"
     },
     "NaN-NaN-NaN": {
       "trades": [
@@ -3349,5 +3486,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-26T21:12:40.877Z"
+  "updated": "2026-06-26T21:12:59.963Z"
 }
