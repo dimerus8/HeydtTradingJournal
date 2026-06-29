@@ -2704,7 +2704,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Russell Recon",
+          "notes": "",
+          "entryDateStr": "6/26/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/26/2026"
@@ -3305,7 +3309,11 @@
     "t_CMCSA_1782741204830": {
       "tradeType": "Deal Annc Fade 1yr",
       "notes": ""
+    },
+    "man_TXN_1782508572406": {
+      "tradeType": "Russell Recon",
+      "notes": ""
     }
   },
-  "updated": "2026-06-29T13:56:00.126Z"
+  "updated": "2026-06-29T13:56:12.790Z"
 }
