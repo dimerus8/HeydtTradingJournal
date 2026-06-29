@@ -2661,7 +2661,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Russell Recon for Sale",
+          "notes": "",
+          "entryDateStr": "6/26/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_AAPL06_26C282.5_1782508572402",
@@ -3393,7 +3397,11 @@
     "man_MU06_26P1120_1782508572400": {
       "tradeType": "Russell Recon for Sale",
       "notes": ""
+    },
+    "man_SNDK06_26P2100_1782508572401": {
+      "tradeType": "Russell Recon for Sale",
+      "notes": ""
     }
   },
-  "updated": "2026-06-29T15:05:35.098Z"
+  "updated": "2026-06-29T15:05:40.834Z"
 }
