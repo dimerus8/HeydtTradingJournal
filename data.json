@@ -2539,7 +2539,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Russell Recon to Buy",
+          "notes": "",
+          "entryDateStr": "6/26/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_CRDO_1782508572396",
@@ -3345,7 +3349,11 @@
     "man_CRDO_1782508572396": {
       "tradeType": "Russell Recon to Buy",
       "notes": ""
+    },
+    "man_AMZN_1782508572395": {
+      "tradeType": "Russell Recon to Buy",
+      "notes": ""
     }
   },
-  "updated": "2026-06-29T13:58:00.488Z"
+  "updated": "2026-06-29T13:58:07.633Z"
 }
