@@ -2714,17 +2714,21 @@
         {
           "id": "t_ABBV_1782741204829",
           "symbol": "ABBV",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1782732305000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 8555,
           "totalEntryQty": 10000,
           "totalExitQty": 0,
           "avgEntry": 252.49224299999997,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "6/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_CMCSA_1782741204830",
@@ -3289,7 +3293,11 @@
     "man_MU_1782397804840": {
       "tradeType": "Earnings",
       "notes": ""
+    },
+    "t_ABBV_1782741204829": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-06-29T13:53:24.830Z"
+  "updated": "2026-06-29T13:53:38.715Z"
 }
