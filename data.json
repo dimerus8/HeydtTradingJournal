@@ -2705,7 +2705,7 @@
           "avgEntry": 0,
           "avgExit": 0,
           "status": "closed",
-          "tradeType": "Russell Recon",
+          "tradeType": "Russell Recon for Sale",
           "notes": "",
           "entryDateStr": "6/26/26",
           "exitDateStr": ""
@@ -3311,9 +3311,9 @@
       "notes": ""
     },
     "man_TXN_1782508572406": {
-      "tradeType": "Russell Recon",
+      "tradeType": "Russell Recon for Sale",
       "notes": ""
     }
   },
-  "updated": "2026-06-29T13:56:12.790Z"
+  "updated": "2026-06-29T13:57:22.624Z"
 }
