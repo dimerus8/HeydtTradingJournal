@@ -2735,7 +2735,7 @@
           "symbol": "CMCSA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1782733836000,
           "exitTime": 1782739812000,
           "realizedPnl": 48961.97999999998,
@@ -2743,7 +2743,11 @@
           "totalExitQty": 35000,
           "avgEntry": 28.17177085714285,
           "avgExit": 26.77285714285716,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Deal Annc Fade 1yr",
+          "notes": "",
+          "entryDateStr": "6/29/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "6/29/26"
@@ -3297,7 +3301,11 @@
     "t_ABBV_1782741204829": {
       "tradeType": "Russell Backend",
       "notes": ""
+    },
+    "t_CMCSA_1782741204830": {
+      "tradeType": "Deal Annc Fade 1yr",
+      "notes": ""
     }
   },
-  "updated": "2026-06-29T13:55:54.694Z"
+  "updated": "2026-06-29T13:56:00.126Z"
 }
