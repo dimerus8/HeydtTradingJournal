@@ -2725,7 +2725,7 @@
           "avgEntry": 252.49224299999997,
           "avgExit": 1,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Russell Backend",
           "notes": "",
           "entryDateStr": "6/29/26",
           "exitDateStr": ""
@@ -3295,9 +3295,9 @@
       "notes": ""
     },
     "t_ABBV_1782741204829": {
-      "tradeType": "",
+      "tradeType": "Russell Backend",
       "notes": ""
     }
   },
-  "updated": "2026-06-29T13:53:46.155Z"
+  "updated": "2026-06-29T13:55:54.694Z"
 }
