@@ -2721,10 +2721,10 @@
           "exitTime": null,
           "realizedPnl": 8555,
           "totalEntryQty": 10000,
-          "totalExitQty": 0,
+          "totalExitQty": 10000,
           "avgEntry": 252.49224299999997,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 1,
+          "status": "closed",
           "tradeType": "",
           "notes": "",
           "entryDateStr": "6/29/26",
@@ -3299,5 +3299,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-29T13:53:38.715Z"
+  "updated": "2026-06-29T13:53:46.155Z"
 }
