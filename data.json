@@ -2680,7 +2680,8 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Russell Recon"
         },
         {
           "id": "man_SNDK_1782508572403",
@@ -3408,6 +3409,10 @@
     },
     "man_SNDK_1782508572403": {
       "tradeType": "Russell Recon for Sale",
+      "notes": ""
+    },
+    "man_AAPL06_26C282.5_1782508572402": {
+      "tradeType": "Russell Recon",
       "notes": ""
     }
   },
