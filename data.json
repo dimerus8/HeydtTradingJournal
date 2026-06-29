@@ -2710,7 +2710,39 @@
       "dateStr": "6/26/2026"
     },
     "2026-06-29": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_ABBV_1782741204829",
+          "symbol": "ABBV",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782732305000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10000,
+          "totalExitQty": 0,
+          "avgEntry": 252.49224299999997,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_CMCSA_1782741204830",
+          "symbol": "CMCSA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782733836000,
+          "exitTime": 1782739812000,
+          "realizedPnl": 48961.97999999998,
+          "totalEntryQty": 35000,
+          "totalExitQty": 35000,
+          "avgEntry": 28.17177085714285,
+          "avgExit": 26.77285714285716,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "6/29/26"
     }
   },
   "annotations": {
@@ -3259,5 +3291,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-29T13:53:11.795Z"
+  "updated": "2026-06-29T13:53:24.830Z"
 }
