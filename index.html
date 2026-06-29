@@ -135,10 +135,10 @@ function save(){localStorage.setItem(SK,JSON.stringify(db));localStorage.setItem
 function isFut(s){return /M\d$|Z\d$|^NQ|^ES|^YM|^MES|^MNQ|^MNQM|^HWBM/i.test(s)}
 
 // TYPES
-var BASE_TYPES=['Imbal AM','Imbal PM','Imbal Buy','Imbal Sell','Off Open Red','Off Open Green','ARB','Overnight','Cut O/N','Hedge','Pairs','Scalp','Blowup','Follow Through','NDX 100 Add','Short Deal Annc','MSCI Buy','MSCI Sell','SP500 Add','Secondary Offering','Other'];
+var BASE_TYPES=['Imbal AM','Imbal PM','Imbal Buy','Imbal Sell','Off Open Red','Off Open Green','ARB','Overnight','Cut O/N','Hedge','Pairs','Scalp','Blowup','Follow Through','NDX 100 Add','Short Deal Annc','MSCI Buy','MSCI Sell','SP500 Add','Secondary Offering','Russell Recon','Other'];
 var CUSTOM_TYPES=JSON.parse(localStorage.getItem('gh_custom_types')||'[]');
 var TYPES=BASE_TYPES.slice(0,-1).concat(CUSTOM_TYPES.map(function(t){return t.name})).concat(['Other']);
-var typeColors={'Imbal AM':'#4338ca','Imbal PM':'#6366f1','Imbal Buy':'#16a34a','Imbal Sell':'#dc2626','Off Open Red':'#dc2626','Off Open Green':'#16a34a','ARB':'#0d9488','Overnight':'#7c3aed','Cut O/N':'#9333ea','Hedge':'#71717a','Pairs':'#c026d3','Scalp':'#0284c7','Blowup':'#f97316','Follow Through':'#e11d48','NDX 100 Add':'#0369a1','Short Deal Annc':'#b91c1c','MSCI Buy':'#15803d','MSCI Sell':'#b91c1c','SP500 Add':'#0369a1','Secondary Offering':'#be185d','Other':'#52525b'};
+var typeColors={'Imbal AM':'#4338ca','Imbal PM':'#6366f1','Imbal Buy':'#16a34a','Imbal Sell':'#dc2626','Off Open Red':'#dc2626','Off Open Green':'#16a34a','ARB':'#0d9488','Overnight':'#7c3aed','Cut O/N':'#9333ea','Hedge':'#71717a','Pairs':'#c026d3','Scalp':'#0284c7','Blowup':'#f97316','Follow Through':'#e11d48','NDX 100 Add':'#0369a1','Short Deal Annc':'#b91c1c','MSCI Buy':'#15803d','MSCI Sell':'#b91c1c','SP500 Add':'#0369a1','Secondary Offering':'#be185d','Russell Recon':'#ca8a04','Other':'#52525b'};
 CUSTOM_TYPES.forEach(function(t){typeColors[t.name]=t.color;addCustomChipCSS(t.name,t.color)});
 function addCustomChipCSS(name,color){var s=document.createElement('style');s.textContent='.ch-'+name.toLowerCase().replace(/[^a-z0-9]+/g,'-')+'{background:'+color+'20;color:'+color+';border:1px solid '+color+'60}';document.head.appendChild(s)}
 function saveCustomTypes(){localStorage.setItem('gh_custom_types',JSON.stringify(CUSTOM_TYPES));TYPES=BASE_TYPES.slice(0,-1).concat(CUSTOM_TYPES.map(function(t){return t.name})).concat(['Other']);rebuildTypeDropdowns()}
