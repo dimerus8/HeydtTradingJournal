@@ -2806,7 +2806,69 @@
       "dateStr": "6/29/26"
     },
     "2026-06-30": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_QXO_1782845748481",
+          "symbol": "QXO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782825128000,
+          "exitTime": 1782827945000,
+          "realizedPnl": 2209.5000000000073,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 18.509,
+          "avgExit": 18.0671,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1782845748482",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782825913000,
+          "exitTime": 1782826061000,
+          "realizedPnl": -427.6100000000015,
+          "totalEntryQty": 970,
+          "totalExitQty": 970,
+          "avgEntry": 163.02503092783505,
+          "avgExit": 162.58419587628865,
+          "status": "closed"
+        },
+        {
+          "id": "t_TSLA_1782845748483",
+          "symbol": "TSLA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782826193000,
+          "exitTime": 1782826201000,
+          "realizedPnl": -529.9850000000031,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 405.7668,
+          "avgExit": 406.82677,
+          "status": "closed"
+        },
+        {
+          "id": "t_TSLA_1782845748484",
+          "symbol": "TSLA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1782826201000,
+          "exitTime": 1782826208000,
+          "realizedPnl": 818.3399999999913,
+          "totalEntryQty": 3500,
+          "totalExitQty": 500,
+          "avgEntry": 407.25364285714295,
+          "avgExit": 408.49660000000006,
+          "status": "open"
+        }
+      ],
+      "dateStr": "6/30/26"
     }
   },
   "annotations": {
@@ -3419,5 +3481,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-06-30T18:55:44.718Z"
+  "updated": "2026-06-30T18:55:48.480Z"
 }
