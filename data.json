@@ -2820,7 +2820,11 @@
           "totalExitQty": 2000,
           "avgEntry": 351.95,
           "avgExit": 354.53,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Deal Closing",
+          "notes": "",
+          "entryDateStr": "6/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_QXO_1782850983034",
@@ -3503,7 +3507,11 @@
     "man_QXO_1782850983034": {
       "tradeType": "Deal Closing",
       "notes": ""
+    },
+    "man_BLD_1782850983033": {
+      "tradeType": "Deal Closing",
+      "notes": ""
     }
   },
-  "updated": "2026-07-01T12:34:57.916Z"
+  "updated": "2026-07-01T12:35:03.986Z"
 }
