@@ -2835,7 +2835,11 @@
           "totalExitQty": 5000,
           "avgEntry": 18.51,
           "avgExit": 18.1,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Deal Closing",
+          "notes": "",
+          "entryDateStr": "6/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_SPCX_1782850983035",
@@ -3495,7 +3499,11 @@
     "man_SPCX_1782850983035": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "man_QXO_1782850983034": {
+      "tradeType": "Deal Closing",
+      "notes": ""
     }
   },
-  "updated": "2026-07-01T12:34:13.338Z"
+  "updated": "2026-07-01T12:34:57.916Z"
 }
