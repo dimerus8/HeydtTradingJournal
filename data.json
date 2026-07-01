@@ -2850,7 +2850,11 @@
           "totalExitQty": 970,
           "avgEntry": 163.02,
           "avgExit": 162.58,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "6/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_TSLA_1782850983036",
@@ -3487,7 +3491,11 @@
     "man_TSLA_1782850983036": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "man_SPCX_1782850983035": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-01T12:34:02.042Z"
+  "updated": "2026-07-01T12:34:13.338Z"
 }
