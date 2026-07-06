@@ -2973,7 +2973,99 @@
       "dateStr": "7/2/26"
     },
     "2026-07-06": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MBGL_1783369356351",
+          "symbol": "MBGL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1783342825000,
+          "exitTime": 1783344615000,
+          "realizedPnl": 29829.000000000044,
+          "totalEntryQty": 30000,
+          "totalExitQty": 30000,
+          "avgEntry": 18.99416666666666,
+          "avgExit": 17.999866666666662,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1783369356354",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1783344162000,
+          "exitTime": 1783344311000,
+          "realizedPnl": 2658.3299999999754,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 1001.98587,
+          "avgExit": 1004.6442000000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_MBGL_1783369356352",
+          "symbol": "MBGL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1783344615000,
+          "exitTime": 1783345131000,
+          "realizedPnl": 13763.595000000023,
+          "totalEntryQty": 37500,
+          "totalExitQty": 35000,
+          "avgEntry": 17.72,
+          "avgExit": 18.11324557142858,
+          "status": "open"
+        },
+        {
+          "id": "t_SPCX_1783369356355",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1783364457000,
+          "exitTime": 1783365500000,
+          "realizedPnl": 861.800000000012,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 156,
+          "avgExit": 156.86180000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1783369356356",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1783367040000,
+          "exitTime": 1783367445000,
+          "realizedPnl": 19103.350000000097,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 157.54992449999997,
+          "avgExit": 159.4602595,
+          "status": "closed"
+        },
+        {
+          "id": "t_MBGL_1783369356353",
+          "symbol": "MBGL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1783367976000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 19.25599,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "7/6/26"
     }
   },
   "annotations": {
@@ -3618,5 +3710,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-06T19:01:36.096Z"
+  "updated": "2026-07-06T20:22:36.353Z"
 }
