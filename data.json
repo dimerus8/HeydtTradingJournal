@@ -3036,7 +3036,7 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1783364457000,
           "exitTime": 1783365500000,
           "realizedPnl": 861.800000000012,
@@ -3044,7 +3044,11 @@
           "totalExitQty": 1000,
           "avgEntry": 156,
           "avgExit": 156.86180000000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "NDX 100 Add",
+          "notes": "",
+          "entryDateStr": "7/6/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1783369356356",
@@ -3748,7 +3752,11 @@
     "t_SPCX_1783369356356": {
       "tradeType": "NDX 100 Add",
       "notes": ""
+    },
+    "t_SPCX_1783369356355": {
+      "tradeType": "NDX 100 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-07-06T20:24:33.511Z"
+  "updated": "2026-07-06T20:24:38.134Z"
 }
