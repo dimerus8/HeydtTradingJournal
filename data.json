@@ -3051,7 +3051,7 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1783367040000,
           "exitTime": 1783367445000,
           "realizedPnl": 19103.350000000097,
@@ -3059,7 +3059,11 @@
           "totalExitQty": 10000,
           "avgEntry": 157.54992449999997,
           "avgExit": 159.4602595,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "NDX 100 Add",
+          "notes": "",
+          "entryDateStr": "7/6/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MBGL_1783369356353",
@@ -3740,7 +3744,11 @@
     "t_MU_1783369356354": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_SPCX_1783369356356": {
+      "tradeType": "NDX 100 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-07-06T20:24:23.469Z"
+  "updated": "2026-07-06T20:24:33.511Z"
 }
