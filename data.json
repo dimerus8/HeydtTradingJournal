@@ -3022,7 +3022,7 @@
           "avgEntry": 17.72,
           "avgExit": 18.11324557142858,
           "status": "closed",
-          "tradeType": "Imbal AM",
+          "tradeType": "Imbal backend",
           "notes": "",
           "entryDateStr": "7/6/26",
           "exitDateStr": ""
@@ -3726,7 +3726,7 @@
       "notes": ""
     },
     "t_MBGL_1783369356352": {
-      "tradeType": "Imbal AM",
+      "tradeType": "Imbal backend",
       "notes": ""
     },
     "t_MBGL_1783369356351": {
@@ -3734,5 +3734,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-06T20:23:55.669Z"
+  "updated": "2026-07-06T20:24:17.629Z"
 }
