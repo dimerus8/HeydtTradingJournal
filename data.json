@@ -3098,15 +3098,19 @@
           "symbol": "MBGL",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1783427440000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 958,
           "totalEntryQty": 5000,
-          "totalExitQty": 0,
+          "totalExitQty": 5000,
           "avgEntry": 19.06635,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "7/7/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/7/26"
@@ -3776,7 +3780,11 @@
     "t_SPCX_1783369356355": {
       "tradeType": "NDX 100 Add",
       "notes": ""
+    },
+    "t_MBGL_1783451861683": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-07-07T19:17:41.684Z"
+  "updated": "2026-07-07T19:17:57.835Z"
 }
