@@ -3092,7 +3092,24 @@
       "dateStr": "7/6/26"
     },
     "2026-07-07": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MBGL_1783451861683",
+          "symbol": "MBGL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1783427440000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 19.06635,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "7/7/26"
     }
   },
   "annotations": {
@@ -3761,5 +3778,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-06T20:24:41.774Z"
+  "updated": "2026-07-07T19:17:41.684Z"
 }
