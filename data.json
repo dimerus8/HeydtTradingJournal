@@ -2988,7 +2988,7 @@
           "avgEntry": 18.99416666666666,
           "avgExit": 17.999866666666662,
           "status": "closed",
-          "tradeType": "Imbal AM",
+          "tradeType": "Spin off",
           "notes": "",
           "entryDateStr": "7/6/26",
           "exitDateStr": ""
@@ -3766,7 +3766,7 @@
       "notes": ""
     },
     "t_MBGL_1783369356351": {
-      "tradeType": "Imbal AM",
+      "tradeType": "Spin off",
       "notes": ""
     },
     "t_MU_1783369356354": {
@@ -3786,5 +3786,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-08T14:18:33.048Z"
+  "updated": "2026-07-08T14:18:50.304Z"
 }
