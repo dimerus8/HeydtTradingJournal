@@ -3193,7 +3193,7 @@
           "avgEntry": 373.353,
           "avgExit": 380.103,
           "status": "closed",
-          "tradeType": "Imbal PM",
+          "tradeType": "Off Open Green",
           "notes": "",
           "entryDateStr": "7/9/26",
           "exitDateStr": ""
@@ -3914,9 +3914,9 @@
       "notes": ""
     },
     "man_ALNY_1783698993961": {
-      "tradeType": "Imbal PM",
+      "tradeType": "Off Open Green",
       "notes": ""
     }
   },
-  "updated": "2026-07-10T15:57:05.392Z"
+  "updated": "2026-07-10T15:57:11.328Z"
 }
