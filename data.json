@@ -3230,7 +3230,11 @@
           "totalExitQty": 500,
           "avgEntry": 590.299,
           "avgExit": 588.785,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/9/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/9/2026"
@@ -3924,7 +3928,11 @@
     "man_NBIS_1783698993962": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "man_AMAT_1783698993963": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-10T15:57:21.880Z"
+  "updated": "2026-07-10T15:57:27.232Z"
 }
