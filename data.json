@@ -3114,6 +3114,62 @@
         }
       ],
       "dateStr": "7/7/26"
+    },
+    "2026-07-09": {
+      "trades": [
+        {
+          "id": "man_ALNY_1783698993961",
+          "symbol": "ALNY",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1783589400000,
+          "exitTime": 1783612800000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": 5063,
+          "totalEntryQty": 750,
+          "totalExitQty": 750,
+          "avgEntry": 373.353,
+          "avgExit": 380.103,
+          "status": "closed"
+        },
+        {
+          "id": "man_NBIS_1783698993962",
+          "symbol": "NBIS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1783589400000,
+          "exitTime": 1783612800000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": 4864,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 215.177,
+          "avgExit": 220.041,
+          "status": "closed"
+        },
+        {
+          "id": "man_AMAT_1783698993963",
+          "symbol": "AMAT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1783589400000,
+          "exitTime": 1783612800000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": -757,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 590.299,
+          "avgExit": 588.785,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/9/2026"
     }
   },
   "annotations": {
