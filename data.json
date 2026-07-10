@@ -3211,7 +3211,11 @@
           "totalExitQty": 1000,
           "avgEntry": 215.177,
           "avgExit": 220.041,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "7/9/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_AMAT_1783698993963",
@@ -3916,7 +3920,11 @@
     "man_ALNY_1783698993961": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_NBIS_1783698993962": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-07-10T15:57:11.328Z"
+  "updated": "2026-07-10T15:57:21.880Z"
 }
