@@ -3252,10 +3252,10 @@
           "entryFills": [],
           "exitFills": [],
           "realizedPnl": 3406,
-          "totalEntryQty": 0,
-          "totalExitQty": 0,
-          "avgEntry": 0,
-          "avgExit": 0,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 962.188,
+          "avgExit": 969.001,
           "status": "closed"
         },
         {
@@ -3269,11 +3269,12 @@
           "entryFills": [],
           "exitFills": [],
           "realizedPnl": -7225,
-          "totalEntryQty": 0,
-          "totalExitQty": 0,
-          "avgEntry": 0,
-          "avgExit": 0,
-          "status": "closed"
+          "totalEntryQty": 6000,
+          "totalExitQty": 5000,
+          "avgEntry": 663.093,
+          "avgExit": 660.424,
+          "status": "closed",
+          "notes": "1,000 shr long overnight @ $669.21"
         }
       ],
       "dateStr": "7/10/2026"
