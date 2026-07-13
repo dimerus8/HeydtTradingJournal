@@ -3240,7 +3240,43 @@
       "dateStr": "7/9/2026"
     },
     "2026-07-10": {
-      "trades": []
+      "trades": [
+        {
+          "id": "man_MU_1783961718954",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1783675800000,
+          "exitTime": 1783699200000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": 3406,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed"
+        },
+        {
+          "id": "man_META_1783961718955",
+          "symbol": "META",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1783675800000,
+          "exitTime": 1783699200000,
+          "entryFills": [],
+          "exitFills": [],
+          "realizedPnl": -7225,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/10/2026"
     }
   },
   "annotations": {
