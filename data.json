@@ -3270,11 +3270,14 @@
           "exitTime": 1783699200000,
           "realizedPnl": -7225,
           "totalEntryQty": 6000,
-          "totalExitQty": 5000,
+          "totalExitQty": 6000,
           "avgEntry": 663.093,
           "avgExit": 660.424,
           "status": "closed",
-          "notes": "1,000 shr long overnight @ $669.21"
+          "tradeType": "Off Open Green",
+          "notes": "1,000 shr long overnight @ $669.21",
+          "entryDateStr": "7/10/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/10/2026"
@@ -3976,7 +3979,11 @@
     "man_MU_1783961718954": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "man_META_1783961718955": {
+      "tradeType": "Off Open Green",
+      "notes": "1,000 shr long overnight @ $669.21"
     }
   },
-  "updated": "2026-07-13T16:57:49.221Z"
+  "updated": "2026-07-13T16:57:53.980Z"
 }
