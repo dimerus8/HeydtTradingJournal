@@ -3249,14 +3249,16 @@
           "isManual": true,
           "entryTime": 1783675800000,
           "exitTime": 1783699200000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 3406,
           "totalEntryQty": 500,
           "totalExitQty": 500,
           "avgEntry": 962.188,
           "avgExit": 969.001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "7/10/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_META_1783961718955",
@@ -3266,8 +3268,6 @@
           "isManual": true,
           "entryTime": 1783675800000,
           "exitTime": 1783699200000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": -7225,
           "totalEntryQty": 6000,
           "totalExitQty": 5000,
@@ -3972,7 +3972,11 @@
     "man_AMAT_1783698993963": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "man_MU_1783961718954": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-07-10T18:41:34.272Z"
+  "updated": "2026-07-13T16:57:43.423Z"
 }
