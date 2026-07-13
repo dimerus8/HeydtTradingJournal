@@ -3319,7 +3319,7 @@
           "symbol": "XOMA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1783972494000,
           "exitTime": 1783972800000,
           "realizedPnl": -865.8800000000037,
@@ -3327,7 +3327,11 @@
           "totalExitQty": 7500,
           "avgEntry": 40.054549333333334,
           "avgExit": 40.169999999999995,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/13/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_META_1783973316356",
@@ -4056,7 +4060,11 @@
     "man_META_1783973316356": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "t_XOMA_1783973289058": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-13T20:08:36.357Z"
+  "updated": "2026-07-13T20:08:40.972Z"
 }
