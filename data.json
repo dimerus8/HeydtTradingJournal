@@ -3255,7 +3255,7 @@
           "avgEntry": 962.188,
           "avgExit": 969.001,
           "status": "closed",
-          "tradeType": "Off Open Green",
+          "tradeType": "Off Open Red",
           "notes": "",
           "entryDateStr": "7/10/26",
           "exitDateStr": ""
@@ -3974,9 +3974,9 @@
       "notes": ""
     },
     "man_MU_1783961718954": {
-      "tradeType": "Off Open Green",
+      "tradeType": "Off Open Red",
       "notes": ""
     }
   },
-  "updated": "2026-07-13T16:57:43.423Z"
+  "updated": "2026-07-13T16:57:49.221Z"
 }
