@@ -3394,21 +3394,6 @@
           "avgEntry": 192.77,
           "avgExit": 192.6585933333333,
           "status": "closed"
-        },
-        {
-          "id": "t_SKHY_1784059736120",
-          "symbol": "SKHY",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1784058902000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 5480,
-          "totalExitQty": 0,
-          "avgEntry": 192.52885583941602,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "7/14/26"
@@ -4132,5 +4117,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-14T20:08:56.119Z"
+  "updated": "2026-07-14T20:09:13.877Z"
 }
