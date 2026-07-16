@@ -3428,21 +3428,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_HON_1784233075328",
-          "symbol": "HON",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1784208387000,
-          "exitTime": 1784208601000,
-          "realizedPnl": -668.6199999999882,
-          "totalEntryQty": 1000,
-          "totalExitQty": 1000,
-          "avgEntry": 220.50138,
-          "avgExit": 221.17,
-          "status": "closed"
-        },
-        {
           "id": "t_BTSG_1784233075330",
           "symbol": "BTSG",
           "direction": "SHORT",
@@ -4224,5 +4209,5 @@
       "notes": "entered after pop on open"
     }
   },
-  "updated": "2026-07-16T20:18:27.731Z"
+  "updated": "2026-07-16T20:18:32.067Z"
 }
