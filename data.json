@@ -3386,6 +3386,52 @@
         }
       ],
       "dateStr": "7/14/26"
+    },
+    "2026-07-16": {
+      "trades": [
+        {
+          "id": "t_HON_1784215458787",
+          "symbol": "HON",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1784208387000,
+          "exitTime": 1784208601000,
+          "realizedPnl": -668.6199999999882,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 220.50138,
+          "avgExit": 221.17,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "7/16/26",
+          "exitDateStr": ""
+        },
+        {
+          "id": "t_UNH_1784215458788",
+          "symbol": "UNH",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1784208673000,
+          "exitTime": 1784208727000,
+          "realizedPnl": 6583.005000000019,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 459,
+          "avgExit": 455.7084975000001,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "entered after pop on open",
+          "entryDateStr": "7/16/26",
+          "exitDateStr": ""
+        }
+      ],
+      "dateStr": "7/16/26"
+    },
+    "2026-07-17": {
+      "trades": []
     }
   },
   "annotations": {
@@ -3606,7 +3652,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -4108,7 +4154,15 @@
     "t_SKHY_1784059736118": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_HON_1784215458787": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_UNH_1784215458788": {
+      "tradeType": "Off Open Green",
+      "notes": "entered after pop on open"
     }
   },
-  "updated": "2026-07-14T20:09:25.589Z"
+  "updated": "2026-07-16T18:55:57.601Z"
 }
