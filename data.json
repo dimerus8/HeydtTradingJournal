@@ -3443,21 +3443,6 @@
           "status": "closed"
         },
         {
-          "id": "t_UNH_1784233075329",
-          "symbol": "UNH",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1784208673000,
-          "exitTime": 1784208727000,
-          "realizedPnl": 6583.005000000019,
-          "totalEntryQty": 2000,
-          "totalExitQty": 2000,
-          "avgEntry": 459,
-          "avgExit": 455.7084975000001,
-          "status": "closed"
-        },
-        {
           "id": "t_BTSG_1784233075330",
           "symbol": "BTSG",
           "direction": "SHORT",
@@ -4239,5 +4224,5 @@
       "notes": "entered after pop on open"
     }
   },
-  "updated": "2026-07-16T20:17:55.335Z"
+  "updated": "2026-07-16T20:18:27.731Z"
 }
