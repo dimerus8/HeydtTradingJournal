@@ -3432,7 +3432,7 @@
           "symbol": "BTSG",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784231533000,
           "exitTime": 1784232001000,
           "realizedPnl": 400.03999999999843,
@@ -3440,7 +3440,11 @@
           "totalExitQty": 2500,
           "avgEntry": 68.320016,
           "avgExit": 68.16000000000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/16/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ASML_1784233075331",
@@ -4207,7 +4211,11 @@
     "t_UNH_1784215458788": {
       "tradeType": "Off Open Green",
       "notes": "entered after pop on open"
+    },
+    "t_BTSG_1784233075330": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-16T20:18:32.067Z"
+  "updated": "2026-07-16T20:18:44.139Z"
 }
