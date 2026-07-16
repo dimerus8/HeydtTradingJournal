@@ -3470,7 +3470,7 @@
           "symbol": "SKHY",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784231696000,
           "exitTime": 1784232000000,
           "realizedPnl": 13755.249999999898,
@@ -3478,7 +3478,11 @@
           "totalExitQty": 12000,
           "avgEntry": 153.45627083333335,
           "avgExit": 152.31000000000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/16/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/16/26"
@@ -4223,7 +4227,11 @@
     "t_ASML_1784233075331": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_SKHY_1784233075332": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-16T20:18:49.747Z"
+  "updated": "2026-07-16T20:18:55.891Z"
 }
