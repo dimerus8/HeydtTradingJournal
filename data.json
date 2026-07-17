@@ -3488,7 +3488,39 @@
       "dateStr": "7/16/26"
     },
     "2026-07-17": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SNDK_1784299083950",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784294886000,
+          "exitTime": 1784295034000,
+          "realizedPnl": 1364.010000000006,
+          "totalEntryQty": 1250,
+          "totalExitQty": 500,
+          "avgEntry": 1365.7261440000004,
+          "avgExit": 1368.7442200000003,
+          "status": "open"
+        },
+        {
+          "id": "t_NQU6_1784299083951",
+          "symbol": "NQU6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1784294983000,
+          "exitTime": 1784295037000,
+          "realizedPnl": 513.25,
+          "totalEntryQty": 10,
+          "totalExitQty": 10,
+          "avgEntry": 28586.05,
+          "avgExit": 28637.375,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/17/26"
     }
   },
   "annotations": {
@@ -3709,7 +3741,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "Overnight",
+      "tradeType": "MSCI Sell",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -4233,5 +4265,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-16T20:18:57.058Z"
+  "updated": "2026-07-17T14:38:03.950Z"
 }
