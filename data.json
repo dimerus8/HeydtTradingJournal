@@ -3283,7 +3283,7 @@
           "id": "man_NQU6_1784299201185",
           "symbol": "NQU6",
           "direction": "LONG",
-          "isFutures": true,
+          "isFutures": false,
           "isManual": true,
           "entryTime": 1783675800000,
           "exitTime": 1783699200000,
