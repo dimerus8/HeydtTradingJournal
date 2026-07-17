@@ -3518,6 +3518,25 @@
           "avgEntry": 1365.7261440000004,
           "avgExit": 1368.7442200000003,
           "status": "open"
+        },
+        {
+          "id": "man_NQU6_1784302731477",
+          "symbol": "NQU6",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 10265,
+          "totalEntryQty": 10,
+          "totalExitQty": 10,
+          "avgEntry": 0,
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "7/17/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/17/26"
@@ -4267,7 +4286,11 @@
     "t_SNDK_1784299083950": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "man_NQU6_1784302731477": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-17T15:38:21.397Z"
+  "updated": "2026-07-17T15:38:51.478Z"
 }
