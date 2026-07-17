@@ -3280,21 +3280,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "man_NQU6_1784299201185",
-          "symbol": "NQU6",
-          "direction": "LONG",
-          "isFutures": true,
-          "isManual": true,
-          "entryTime": 1783675800000,
-          "exitTime": 1783699200000,
-          "realizedPnl": 10000,
-          "totalEntryQty": 10,
-          "totalExitQty": 10,
-          "avgEntry": 28586.05,
-          "avgExit": 28637.375,
-          "status": "closed"
-        },
-        {
           "id": "man_SNDK_1784299201186",
           "symbol": "SNDK",
           "direction": "SHORT",
@@ -4284,5 +4269,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-17T15:37:05.084Z"
+  "updated": "2026-07-17T15:38:21.397Z"
 }
