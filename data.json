@@ -3509,15 +3509,19 @@
           "symbol": "SNDK",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784294886000,
           "exitTime": 1784295034000,
-          "realizedPnl": 1364.010000000006,
+          "realizedPnl": 665,
           "totalEntryQty": 1250,
-          "totalExitQty": 500,
+          "totalExitQty": 1250,
           "avgEntry": 1365.7261440000004,
-          "avgExit": 1368.7442200000003,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "7/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_NQU6_1784302731477",
@@ -4292,5 +4296,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-17T15:38:51.478Z"
+  "updated": "2026-07-17T15:39:08.477Z"
 }
