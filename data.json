@@ -3567,7 +3567,7 @@
           "symbol": "DHR",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784663574000,
           "exitTime": 1784663763000,
           "realizedPnl": 622.4049999999478,
@@ -3575,7 +3575,11 @@
           "totalExitQty": 3000,
           "avgEntry": 176.82769833333336,
           "avgExit": 177.03516666666667,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_CME_1784664856202",
@@ -4352,7 +4356,11 @@
     "t_CME_1784664856202": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_DHR_1784664856201": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-21T20:14:24.606Z"
+  "updated": "2026-07-21T20:14:32.287Z"
 }
