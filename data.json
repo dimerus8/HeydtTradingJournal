@@ -3552,7 +3552,7 @@
           "symbol": "SOXL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784640326000,
           "exitTime": 1784640617000,
           "realizedPnl": -5866.479999999997,
@@ -3560,7 +3560,11 @@
           "totalExitQty": 4000,
           "avgEntry": 155.54532249999997,
           "avgExit": 157.01194249999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "7/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_DHR_1784664856201",
@@ -4360,7 +4364,11 @@
     "t_DHR_1784664856201": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_SOXL_1784664856200": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-07-21T20:14:32.287Z"
+  "updated": "2026-07-21T20:14:38.750Z"
 }
