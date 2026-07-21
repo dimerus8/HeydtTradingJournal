@@ -3582,7 +3582,7 @@
           "symbol": "CME",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784663792000,
           "exitTime": 1784664001000,
           "realizedPnl": 1147.825000000018,
@@ -3590,7 +3590,11 @@
           "totalExitQty": 2000,
           "avgEntry": 237.95391250000003,
           "avgExit": 237.38000000000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/21/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/21/26"
@@ -4344,7 +4348,11 @@
     "man_NQU6_1784302731477": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_CME_1784664856202": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-21T20:14:16.200Z"
+  "updated": "2026-07-21T20:14:24.606Z"
 }
