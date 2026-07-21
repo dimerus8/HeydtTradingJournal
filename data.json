@@ -3546,7 +3546,54 @@
       "dateStr": "7/17/26"
     },
     "2026-07-21": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SOXL_1784664856200",
+          "symbol": "SOXL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784640326000,
+          "exitTime": 1784640617000,
+          "realizedPnl": -5866.479999999997,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 155.54532249999997,
+          "avgExit": 157.01194249999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_DHR_1784664856201",
+          "symbol": "DHR",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784663574000,
+          "exitTime": 1784663763000,
+          "realizedPnl": 622.4049999999478,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 176.82769833333336,
+          "avgExit": 177.03516666666667,
+          "status": "closed"
+        },
+        {
+          "id": "t_CME_1784664856202",
+          "symbol": "CME",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784663792000,
+          "exitTime": 1784664001000,
+          "realizedPnl": 1147.825000000018,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 237.95391250000003,
+          "avgExit": 237.38000000000002,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/21/26"
     }
   },
   "annotations": {
@@ -4299,5 +4346,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-21T20:14:04.558Z"
+  "updated": "2026-07-21T20:14:16.200Z"
 }
