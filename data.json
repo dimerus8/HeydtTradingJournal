@@ -3633,7 +3633,7 @@
           "symbol": "GOOGL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784750141000,
           "exitTime": 1784750414000,
           "realizedPnl": 3417.675000000115,
@@ -3641,7 +3641,11 @@
           "totalExitQty": 5164,
           "avgEntry": 342.7520013555383,
           "avgExit": 342.0901742835017,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "before eps, -300m",
+          "entryDateStr": "7/22/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/22/26"
@@ -4411,7 +4415,11 @@
     "t_MU_1784751394214": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_GOOGL_1784751394216": {
+      "tradeType": "Imbal PM",
+      "notes": "before eps, -300m"
     }
   },
-  "updated": "2026-07-22T20:17:10.693Z"
+  "updated": "2026-07-22T20:17:24.749Z"
 }
