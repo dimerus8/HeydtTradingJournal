@@ -3608,7 +3608,54 @@
       "dateStr": "7/21/26"
     },
     "2026-07-22": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MU_1784751394214",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784726716000,
+          "exitTime": 1784727028000,
+          "realizedPnl": -14454.590000000087,
+          "totalEntryQty": 2260,
+          "totalExitQty": 2260,
+          "avgEntry": 938.4312743362829,
+          "avgExit": 944.8271106194691,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1784751394215",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784727028000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 740,
+          "totalExitQty": 0,
+          "avgEntry": 945.6607500000001,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_GOOGL_1784751394216",
+          "symbol": "GOOGL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784750141000,
+          "exitTime": 1784750414000,
+          "realizedPnl": 3417.675000000115,
+          "totalEntryQty": 5164,
+          "totalExitQty": 5164,
+          "avgEntry": 342.7520013555383,
+          "avgExit": 342.0901742835017,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/22/26"
     }
   },
   "annotations": {
@@ -4373,5 +4420,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-21T20:14:42.534Z"
+  "updated": "2026-07-22T20:16:34.215Z"
 }
