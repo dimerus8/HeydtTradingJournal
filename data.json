@@ -3614,7 +3614,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784726716000,
           "exitTime": 1784727028000,
           "realizedPnl": -14454.590000000087,
@@ -3622,7 +3622,11 @@
           "totalExitQty": 2260,
           "avgEntry": 938.4312743362829,
           "avgExit": 944.8271106194691,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "7/22/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1784751394215",
@@ -4418,7 +4422,11 @@
     "t_SOXL_1784664856200": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_MU_1784751394214": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-07-22T20:16:34.215Z"
+  "updated": "2026-07-22T20:16:49.845Z"
 }
