@@ -3629,21 +3629,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_MU_1784751394215",
-          "symbol": "MU",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1784727028000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 740,
-          "totalExitQty": 0,
-          "avgEntry": 945.6607500000001,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_GOOGL_1784751394216",
           "symbol": "GOOGL",
           "direction": "SHORT",
@@ -4428,5 +4413,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-22T20:16:49.845Z"
+  "updated": "2026-07-22T20:16:54.965Z"
 }
