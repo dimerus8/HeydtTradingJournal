@@ -3714,7 +3714,7 @@
           "symbol": "INTC",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784836775000,
           "exitTime": 1784836802000,
           "realizedPnl": 3882.349999999943,
@@ -3722,7 +3722,11 @@
           "totalExitQty": 20000,
           "avgEntry": 100.42411749999997,
           "avgExit": 100.23000000000006,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "before eps",
+          "entryDateStr": "7/23/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/23/26"
@@ -4508,7 +4512,11 @@
     "t_AAPL_1784838060149": {
       "tradeType": "Imbal AM",
       "notes": "came off 1% off am imbal"
+    },
+    "t_INTC_1784838060150": {
+      "tradeType": "Imbal PM",
+      "notes": "before eps"
     }
   },
-  "updated": "2026-07-23T20:21:34.556Z"
+  "updated": "2026-07-23T20:21:48.093Z"
 }
