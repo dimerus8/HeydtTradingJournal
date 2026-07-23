@@ -3676,7 +3676,7 @@
           "symbol": "TSLA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784813123000,
           "exitTime": 1784813437000,
           "realizedPnl": 23546.639999999872,
@@ -3684,7 +3684,11 @@
           "totalExitQty": 5000,
           "avgEntry": 343.2393280000003,
           "avgExit": 338.53000000000094,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "after eps",
+          "entryDateStr": "7/23/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AAPL_1784838060149",
@@ -4492,7 +4496,11 @@
     "t_GOOGL_1784838060147": {
       "tradeType": "Off Open Red",
       "notes": "after eps"
+    },
+    "t_TSLA_1784838060148": {
+      "tradeType": "Off Open Red",
+      "notes": "after eps"
     }
   },
-  "updated": "2026-07-23T20:21:09.963Z"
+  "updated": "2026-07-23T20:21:18.692Z"
 }
