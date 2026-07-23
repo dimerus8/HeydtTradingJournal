@@ -3657,7 +3657,7 @@
           "symbol": "GOOGL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784813113000,
           "exitTime": 1784813471000,
           "realizedPnl": 5110.989999999952,
@@ -3665,7 +3665,11 @@
           "totalExitQty": 7500,
           "avgEntry": 323.60399199999983,
           "avgExit": 322.92252666666667,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "after eps",
+          "entryDateStr": "7/23/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_TSLA_1784838060148",
@@ -4484,7 +4488,11 @@
     "t_GOOGL_1784751394216": {
       "tradeType": "Imbal PM",
       "notes": "before eps, -300m"
+    },
+    "t_GOOGL_1784838060147": {
+      "tradeType": "Off Open Red",
+      "notes": "after eps"
     }
   },
-  "updated": "2026-07-23T20:21:00.149Z"
+  "updated": "2026-07-23T20:21:09.963Z"
 }
