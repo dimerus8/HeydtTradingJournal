@@ -3651,7 +3651,69 @@
       "dateStr": "7/22/26"
     },
     "2026-07-23": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_GOOGL_1784838060147",
+          "symbol": "GOOGL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784813113000,
+          "exitTime": 1784813471000,
+          "realizedPnl": 5110.989999999952,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 323.60399199999983,
+          "avgExit": 322.92252666666667,
+          "status": "closed"
+        },
+        {
+          "id": "t_TSLA_1784838060148",
+          "symbol": "TSLA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784813123000,
+          "exitTime": 1784813437000,
+          "realizedPnl": 23546.639999999872,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 343.2393280000003,
+          "avgExit": 338.53000000000094,
+          "status": "closed"
+        },
+        {
+          "id": "t_AAPL_1784838060149",
+          "symbol": "AAPL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784813401000,
+          "exitTime": 1784813436000,
+          "realizedPnl": -949.0399999999206,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 321.77,
+          "avgExit": 321.580192,
+          "status": "closed"
+        },
+        {
+          "id": "t_INTC_1784838060150",
+          "symbol": "INTC",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784836775000,
+          "exitTime": 1784836802000,
+          "realizedPnl": 3882.349999999943,
+          "totalEntryQty": 20000,
+          "totalExitQty": 20000,
+          "avgEntry": 100.42411749999997,
+          "avgExit": 100.23000000000006,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/23/26"
     }
   },
   "annotations": {
@@ -4424,5 +4486,5 @@
       "notes": "before eps, -300m"
     }
   },
-  "updated": "2026-07-22T20:17:39.740Z"
+  "updated": "2026-07-23T20:21:00.149Z"
 }
