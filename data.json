@@ -3695,7 +3695,7 @@
           "symbol": "AAPL",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784813401000,
           "exitTime": 1784813436000,
           "realizedPnl": -949.0399999999206,
@@ -3703,7 +3703,11 @@
           "totalExitQty": 5000,
           "avgEntry": 321.77,
           "avgExit": 321.580192,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "came off 1% off am imbal",
+          "entryDateStr": "7/23/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_INTC_1784838060150",
@@ -4500,7 +4504,11 @@
     "t_TSLA_1784838060148": {
       "tradeType": "Off Open Red",
       "notes": "after eps"
+    },
+    "t_AAPL_1784838060149": {
+      "tradeType": "Imbal AM",
+      "notes": "came off 1% off am imbal"
     }
   },
-  "updated": "2026-07-23T20:21:18.692Z"
+  "updated": "2026-07-23T20:21:34.556Z"
 }
