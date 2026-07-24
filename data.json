@@ -3767,7 +3767,7 @@
           "avgExit": 183.66238000000004,
           "status": "closed",
           "tradeType": "Imbal PM",
-          "notes": "",
+          "notes": "was looking for sale early on tmas -4m",
           "entryDateStr": "7/24/26",
           "exitDateStr": ""
         },
@@ -4597,12 +4597,12 @@
     },
     "t_BE_1784924168404": {
       "tradeType": "Imbal PM",
-      "notes": ""
+      "notes": "was looking for sale early on tmas -4m"
     },
     "t_BE_1784924168405": {
       "tradeType": "Imbal PM",
       "notes": "reentered short"
     }
   },
-  "updated": "2026-07-24T20:16:32.135Z"
+  "updated": "2026-07-24T20:16:47.095Z"
 }
