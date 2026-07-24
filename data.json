@@ -3776,7 +3776,7 @@
           "symbol": "BE",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1784922999000,
           "exitTime": 1784923205000,
           "realizedPnl": 494.0000000000224,
@@ -3784,7 +3784,11 @@
           "totalExitQty": 2000,
           "avgEntry": 185.137,
           "avgExit": 184.89,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "reentered short",
+          "entryDateStr": "7/24/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/24/26"
@@ -4594,7 +4598,11 @@
     "t_BE_1784924168404": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_BE_1784924168405": {
+      "tradeType": "Imbal PM",
+      "notes": "reentered short"
     }
   },
-  "updated": "2026-07-24T20:16:22.839Z"
+  "updated": "2026-07-24T20:16:32.135Z"
 }
