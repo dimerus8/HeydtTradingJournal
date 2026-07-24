@@ -3732,7 +3732,69 @@
       "dateStr": "7/23/26"
     },
     "2026-07-24": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MU_1784924168402",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784899742000,
+          "exitTime": 1784899814000,
+          "realizedPnl": 15783.844999999974,
+          "totalEntryQty": 1850,
+          "totalExitQty": 1850,
+          "avgEntry": 961.0408810810811,
+          "avgExit": 952.5090729729721,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1784924168403",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784899814000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 150,
+          "totalExitQty": 0,
+          "avgEntry": 953.7534666666666,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_BE_1784924168404",
+          "symbol": "BE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784922562000,
+          "exitTime": 1784922605000,
+          "realizedPnl": 1926.3899999999985,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 184.625575,
+          "avgExit": 183.66238000000004,
+          "status": "closed"
+        },
+        {
+          "id": "t_BE_1784924168405",
+          "symbol": "BE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1784922999000,
+          "exitTime": 1784923205000,
+          "realizedPnl": 494.0000000000224,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 185.137,
+          "avgExit": 184.89,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/24/26"
     }
   },
   "annotations": {
@@ -4519,7 +4581,19 @@
     "t_INTC_1784838060150": {
       "tradeType": "Imbal PM",
       "notes": "before eps"
+    },
+    "t_MU_1784924017028": {
+      "tradeType": "Off Open Red",
+      "notes": ""
+    },
+    "t_BE_1784924017030": {
+      "tradeType": "Imbal PM",
+      "notes": "looked early for sale"
+    },
+    "t_BE_1784924017031": {
+      "tradeType": "Imbal PM",
+      "notes": "reentered short"
     }
   },
-  "updated": "2026-07-24T20:13:09.797Z"
+  "updated": "2026-07-24T20:16:08.404Z"
 }
