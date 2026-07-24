@@ -3749,21 +3749,6 @@
           "status": "closed"
         },
         {
-          "id": "t_MU_1784924168403",
-          "symbol": "MU",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1784899814000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 150,
-          "totalExitQty": 0,
-          "avgEntry": 953.7534666666666,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_BE_1784924168404",
           "symbol": "BE",
           "direction": "SHORT",
@@ -4595,5 +4580,5 @@
       "notes": "reentered short"
     }
   },
-  "updated": "2026-07-24T20:16:08.404Z"
+  "updated": "2026-07-24T20:16:12.095Z"
 }
