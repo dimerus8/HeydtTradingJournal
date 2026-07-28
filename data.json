@@ -3818,21 +3818,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_SNDK_1785269792756",
-          "symbol": "SNDK",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1785245404000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1000,
-          "totalExitQty": 0,
-          "avgEntry": 1165.6317000000001,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_KLAC_1785269792757",
           "symbol": "KLAC",
           "direction": "SHORT",
@@ -4673,5 +4658,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-28T20:18:14.163Z"
+  "updated": "2026-07-28T20:18:16.830Z"
 }
