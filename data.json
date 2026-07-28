@@ -3812,7 +3812,7 @@
           "avgEntry": 1179.95998,
           "avgExit": 1172.9059799999998,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Off Open Red",
           "notes": "",
           "entryDateStr": "7/28/26",
           "exitDateStr": ""
@@ -4654,9 +4654,9 @@
       "notes": "eps, 3.55 160m for sale"
     },
     "t_SNDK_1785269792755": {
-      "tradeType": "",
+      "tradeType": "Off Open Red",
       "notes": ""
     }
   },
-  "updated": "2026-07-28T20:18:16.830Z"
+  "updated": "2026-07-28T20:18:22.147Z"
 }
