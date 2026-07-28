@@ -3797,7 +3797,54 @@
       "trades": []
     },
     "2026-07-28": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SNDK_1785269792755",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785245271000,
+          "exitTime": 1785245346000,
+          "realizedPnl": -3527.00000000002,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 1179.95998,
+          "avgExit": 1172.9059799999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1785269792756",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785245404000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1000,
+          "totalExitQty": 0,
+          "avgEntry": 1165.6317000000001,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_KLAC_1785269792757",
+          "symbol": "KLAC",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785268525000,
+          "exitTime": 1785268801000,
+          "realizedPnl": 7230.289999999976,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 194.41514500000002,
+          "avgExit": 190.8,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/28/26"
     }
   },
   "annotations": {
@@ -4610,5 +4657,5 @@
       "notes": "reentered short"
     }
   },
-  "updated": "2026-07-28T18:46:37.809Z"
+  "updated": "2026-07-28T20:16:32.755Z"
 }
