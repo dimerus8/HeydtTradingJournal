@@ -3833,7 +3833,7 @@
           "symbol": "KLAC",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785268525000,
           "exitTime": 1785268801000,
           "realizedPnl": 7230.289999999976,
@@ -3841,7 +3841,11 @@
           "totalExitQty": 2000,
           "avgEntry": 194.41514500000002,
           "avgExit": 190.8,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "eps, 3.55 160m for sale",
+          "entryDateStr": "7/28/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/28/26"
@@ -4655,7 +4659,11 @@
     "t_BE_1784924168405": {
       "tradeType": "Imbal PM",
       "notes": "reentered short"
+    },
+    "t_KLAC_1785269792757": {
+      "tradeType": "Imbal PM",
+      "notes": "eps, 3.55 160m for sale"
     }
   },
-  "updated": "2026-07-28T20:16:32.755Z"
+  "updated": "2026-07-28T20:17:50.404Z"
 }
