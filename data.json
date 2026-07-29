@@ -3884,7 +3884,7 @@
           "symbol": "MSFT",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785354910000,
           "exitTime": 1785355201000,
           "realizedPnl": 6421.829999999908,
@@ -3892,7 +3892,11 @@
           "totalExitQty": 7500,
           "avgEntry": 391.39624400000014,
           "avgExit": 390.54000000000025,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "eps same day",
+          "entryDateStr": "7/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AAPL_1785355739021",
@@ -4752,7 +4756,11 @@
     "t_FTNT_1785355739019": {
       "tradeType": "Imbal PM",
       "notes": "eps same day"
+    },
+    "t_MSFT_1785355739020": {
+      "tradeType": "",
+      "notes": "eps same day"
     }
   },
-  "updated": "2026-07-29T20:09:17.878Z"
+  "updated": "2026-07-29T20:09:23.767Z"
 }
