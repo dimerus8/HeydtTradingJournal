@@ -3893,7 +3893,7 @@
           "avgEntry": 391.39624400000014,
           "avgExit": 390.54000000000025,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Imbal PM",
           "notes": "eps same day",
           "entryDateStr": "7/29/26",
           "exitDateStr": ""
@@ -4758,9 +4758,9 @@
       "notes": "eps same day"
     },
     "t_MSFT_1785355739020": {
-      "tradeType": "",
+      "tradeType": "Imbal PM",
       "notes": "eps same day"
     }
   },
-  "updated": "2026-07-29T20:09:23.767Z"
+  "updated": "2026-07-29T20:10:14.984Z"
 }
