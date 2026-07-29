@@ -3840,7 +3840,84 @@
       "dateStr": "7/28/26"
     },
     "2026-07-29": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MU_1785355739018",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785331184000,
+          "exitTime": 1785331966000,
+          "realizedPnl": 1477.0250000000005,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 829.3295499999999,
+          "avgExit": 830.806575,
+          "status": "closed"
+        },
+        {
+          "id": "t_FTNT_1785355739019",
+          "symbol": "FTNT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785354619000,
+          "exitTime": 1785354815000,
+          "realizedPnl": -2197.5949999999984,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 151.9065,
+          "avgExit": 154.10409499999997,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSFT_1785355739020",
+          "symbol": "MSFT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785354910000,
+          "exitTime": 1785355201000,
+          "realizedPnl": 6421.829999999908,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 391.39624400000014,
+          "avgExit": 390.54000000000025,
+          "status": "closed"
+        },
+        {
+          "id": "t_AAPL_1785355739021",
+          "symbol": "AAPL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785354912000,
+          "exitTime": 1785355201000,
+          "realizedPnl": 3565.744999999933,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 338.54657450000025,
+          "avgExit": 338.18999999999977,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1785355739022",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785354915000,
+          "exitTime": 1785355200000,
+          "realizedPnl": 8253.065000000193,
+          "totalEntryQty": 22500,
+          "totalExitQty": 22500,
+          "avgEntry": 190.3768028888888,
+          "avgExit": 190.01000000000013,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "7/29/26"
     }
   },
   "annotations": {
@@ -4661,5 +4738,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-28T20:18:27.683Z"
+  "updated": "2026-07-29T20:08:59.020Z"
 }
