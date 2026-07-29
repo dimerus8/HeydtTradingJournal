@@ -3922,7 +3922,7 @@
           "symbol": "NVDA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785354915000,
           "exitTime": 1785355200000,
           "realizedPnl": 8253.065000000193,
@@ -3930,7 +3930,11 @@
           "totalExitQty": 22500,
           "avgEntry": 190.3768028888888,
           "avgExit": 190.01000000000013,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/29/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/29/26"
@@ -4768,7 +4772,11 @@
     "t_AAPL_1785355739021": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_NVDA_1785355739022": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-29T20:10:23.790Z"
+  "updated": "2026-07-29T20:10:28.486Z"
 }
