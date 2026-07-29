@@ -3865,7 +3865,7 @@
           "symbol": "FTNT",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785354619000,
           "exitTime": 1785354815000,
           "realizedPnl": -2197.5949999999984,
@@ -3873,7 +3873,11 @@
           "totalExitQty": 1000,
           "avgEntry": 151.9065,
           "avgExit": 154.10409499999997,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "eps same day",
+          "entryDateStr": "7/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSFT_1785355739020",
@@ -4744,7 +4748,11 @@
     "t_MU_1785355739018": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_FTNT_1785355739019": {
+      "tradeType": "Imbal PM",
+      "notes": "eps same day"
     }
   },
-  "updated": "2026-07-29T20:09:05.478Z"
+  "updated": "2026-07-29T20:09:17.878Z"
 }
