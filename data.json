@@ -3903,7 +3903,7 @@
           "symbol": "AAPL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785354912000,
           "exitTime": 1785355201000,
           "realizedPnl": 3565.744999999933,
@@ -3911,7 +3911,11 @@
           "totalExitQty": 10000,
           "avgEntry": 338.54657450000025,
           "avgExit": 338.18999999999977,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1785355739022",
@@ -4760,7 +4764,11 @@
     "t_MSFT_1785355739020": {
       "tradeType": "Imbal PM",
       "notes": "eps same day"
+    },
+    "t_AAPL_1785355739021": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-29T20:10:14.984Z"
+  "updated": "2026-07-29T20:10:23.790Z"
 }
