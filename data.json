@@ -3846,7 +3846,7 @@
           "symbol": "MU",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785331184000,
           "exitTime": 1785331966000,
           "realizedPnl": 1477.0250000000005,
@@ -3854,7 +3854,11 @@
           "totalExitQty": 1000,
           "avgEntry": 829.3295499999999,
           "avgExit": 830.806575,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "7/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_FTNT_1785355739019",
@@ -4736,7 +4740,11 @@
     "t_SNDK_1785269792755": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_MU_1785355739018": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-07-29T20:08:59.020Z"
+  "updated": "2026-07-29T20:09:05.478Z"
 }
