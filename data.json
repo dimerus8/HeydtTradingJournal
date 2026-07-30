@@ -4066,7 +4066,7 @@
           "symbol": "SNDK",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785441686000,
           "exitTime": 1785441842000,
           "realizedPnl": 1348.1600000000062,
@@ -4074,7 +4074,11 @@
           "totalExitQty": 200,
           "avgEntry": 1281.4697,
           "avgExit": 1288.2105000000001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/30/26"
@@ -4916,7 +4920,11 @@
     "t_NVDA_1785355739022": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_SNDK_1785442669094": {
+      "tradeType": "Cut O/N",
+      "notes": ""
     }
   },
-  "updated": "2026-07-30T20:18:02.896Z"
+  "updated": "2026-07-30T20:18:12.183Z"
 }
