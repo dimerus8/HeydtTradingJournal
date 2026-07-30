@@ -4051,7 +4051,7 @@
           "symbol": "AMZN",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785441313000,
           "exitTime": 1785441602000,
           "realizedPnl": 5721.930000000123,
@@ -4059,7 +4059,11 @@
           "totalExitQty": 30000,
           "avgEntry": 235.69073100000003,
           "avgExit": 235.5,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNDK_1785442669094",
@@ -4924,7 +4928,11 @@
     "t_SNDK_1785442669094": {
       "tradeType": "Cut O/N",
       "notes": ""
+    },
+    "t_AMZN_1785442669095": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-30T20:18:12.183Z"
+  "updated": "2026-07-30T20:18:17.575Z"
 }
