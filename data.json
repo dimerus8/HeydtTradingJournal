@@ -4017,21 +4017,6 @@
           "status": "closed"
         },
         {
-          "id": "t_STX_1785442669090",
-          "symbol": "STX",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1785418211000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 500,
-          "totalExitQty": 0,
-          "avgEntry": 889.9396800000001,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_STX_1785442669091",
           "symbol": "STX",
           "direction": "SHORT",
@@ -4948,5 +4933,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-30T20:17:57.727Z"
+  "updated": "2026-07-30T20:18:00.288Z"
 }
