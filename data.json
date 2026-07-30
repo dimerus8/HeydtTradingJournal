@@ -4017,21 +4017,6 @@
           "status": "closed"
         },
         {
-          "id": "t_MSFT_1785442669085",
-          "symbol": "MSFT",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1785418201000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1000,
-          "totalExitQty": 0,
-          "avgEntry": 438,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_STX_1785442669090",
           "symbol": "STX",
           "direction": "LONG",
@@ -4963,5 +4948,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-07-30T20:17:54.544Z"
+  "updated": "2026-07-30T20:17:57.727Z"
 }
