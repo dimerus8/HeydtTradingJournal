@@ -4036,7 +4036,7 @@
           "symbol": "SNDK",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785440977000,
           "exitTime": 1785441006000,
           "realizedPnl": -365.7999999999902,
@@ -4044,7 +4044,11 @@
           "totalExitQty": 250,
           "avgEntry": 1267.5947999999999,
           "avgExit": 1266.1316000000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AMZN_1785442669095",
@@ -4932,7 +4936,11 @@
     "t_AMZN_1785442669095": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_SNDK_1785442669093": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-30T20:18:17.575Z"
+  "updated": "2026-07-30T20:18:26.648Z"
 }
