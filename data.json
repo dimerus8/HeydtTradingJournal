@@ -3934,15 +3934,19 @@
           "symbol": "MSFT",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785417565000,
           "exitTime": 1785417910000,
-          "realizedPnl": -13034.280000000042,
+          "realizedPnl": -4647,
           "totalEntryQty": 5000,
           "totalExitQty": 5000,
           "avgEntry": 427.433104,
           "avgExit": 430.03996000000006,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_META_1785442864583",
@@ -4983,7 +4987,11 @@
     "t_BE_1785442669092": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MSFT_1785442864580": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-07-30T20:21:50.864Z"
+  "updated": "2026-07-31T18:39:25.310Z"
 }
