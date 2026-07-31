@@ -4002,7 +4002,7 @@
           "symbol": "STX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785418200000,
           "exitTime": 1785418211000,
           "realizedPnl": -31886.7299999999,
@@ -4010,7 +4010,11 @@
           "totalExitQty": 2500,
           "avgEntry": 877.45,
           "avgExit": 890.204692,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "flipped short after pre market move off imbal",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSFT_1785442864582",
@@ -4984,7 +4988,11 @@
     "t_STX_1785442864585": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_STX_1785442864586": {
+      "tradeType": "Off Open Green",
+      "notes": "flipped short after pre market move off imbal"
     }
   },
-  "updated": "2026-07-31T18:39:36.550Z"
+  "updated": "2026-07-31T18:39:57.206Z"
 }
