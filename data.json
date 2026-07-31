@@ -3991,7 +3991,7 @@
           "symbol": "BE",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785418473000,
           "exitTime": 1785418494000,
           "realizedPnl": -1424.9299999999919,
@@ -3999,7 +3999,11 @@
           "totalExitQty": 3000,
           "avgEntry": 197,
           "avgExit": 197.47497666666663,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AMZN_1785442864592",
@@ -4910,7 +4914,11 @@
     "t_SNDK_1785442864591": {
       "tradeType": "Imbal PM",
       "notes": "cut in post"
+    },
+    "t_BE_1785442864589": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-07-31T18:41:07.879Z"
+  "updated": "2026-07-31T18:41:26.366Z"
 }
