@@ -4002,21 +4002,6 @@
           "status": "closed"
         },
         {
-          "id": "t_SNDK_1785442864590",
-          "symbol": "SNDK",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1785440977000,
-          "exitTime": 1785441006000,
-          "realizedPnl": -365.7999999999902,
-          "totalEntryQty": 250,
-          "totalExitQty": 250,
-          "avgEntry": 1267.5947999999999,
-          "avgExit": 1266.1316000000002,
-          "status": "closed"
-        },
-        {
           "id": "t_AMZN_1785442864592",
           "symbol": "AMZN",
           "direction": "SHORT",
@@ -4927,5 +4912,5 @@
       "notes": "cut in post"
     }
   },
-  "updated": "2026-07-31T18:41:03.399Z"
+  "updated": "2026-07-31T18:41:07.879Z"
 }
