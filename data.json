@@ -4042,6 +4042,25 @@
           "notes": "cut in post",
           "entryDateStr": "7/30/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_META_1785523328373",
+          "symbol": "META",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -5018,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "open",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/30/26"
@@ -4926,7 +4945,11 @@
     "t_AMZN_1785442864592": {
       "tradeType": "Imbal PM",
       "notes": "eps day of imbal"
+    },
+    "man_META_1785523328373": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-07-31T18:41:40.662Z"
+  "updated": "2026-07-31T18:42:08.374Z"
 }
