@@ -3949,21 +3949,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_META_1785442864584",
-          "symbol": "META",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1785417955000,
-          "exitTime": 1785418237000,
-          "realizedPnl": -2245.509999999884,
-          "totalEntryQty": 3000,
-          "totalExitQty": 3000,
-          "avgEntry": 531.2609633333334,
-          "avgExit": 532.0094666666665,
-          "status": "closed"
-        },
-        {
           "id": "t_STX_1785442864585",
           "symbol": "STX",
           "direction": "LONG",
@@ -4934,5 +4919,5 @@
       "notes": "flipped short after pre market move off imbal"
     }
   },
-  "updated": "2026-07-31T18:40:24.727Z"
+  "updated": "2026-07-31T18:40:27.967Z"
 }
