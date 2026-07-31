@@ -4017,21 +4017,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_MSFT_1785442864582",
-          "symbol": "MSFT",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1785418201000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1000,
-          "totalExitQty": 0,
-          "avgEntry": 438,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_STX_1785442864587",
           "symbol": "STX",
           "direction": "LONG",
@@ -4994,5 +4979,5 @@
       "notes": "flipped short after pre market move off imbal"
     }
   },
-  "updated": "2026-07-31T18:39:57.206Z"
+  "updated": "2026-07-31T18:40:03.166Z"
 }
