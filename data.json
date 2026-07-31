@@ -3983,7 +3983,7 @@
           "symbol": "STX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785417989000,
           "exitTime": 1785418200000,
           "realizedPnl": 56902.630000000114,
@@ -3991,7 +3991,11 @@
           "totalExitQty": 2500,
           "avgEntry": 854.6889479999996,
           "avgExit": 877.4499999999992,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_STX_1785442864586",
@@ -4976,7 +4980,11 @@
     "t_MSFT_1785442864580": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_STX_1785442864585": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-31T18:39:29.535Z"
+  "updated": "2026-07-31T18:39:36.550Z"
 }
