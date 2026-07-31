@@ -4036,15 +4036,19 @@
           "symbol": "SNDK",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785441686000,
           "exitTime": 1785441772000,
-          "realizedPnl": 170.74999999999864,
+          "realizedPnl": 982,
           "totalEntryQty": 200,
-          "totalExitQty": 83,
+          "totalExitQty": 200,
           "avgEntry": 1281.4697,
           "avgExit": 1282.98421686747,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "cut in post",
+          "entryDateStr": "7/30/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "7/30/26"
@@ -4917,7 +4921,11 @@
     "t_STX_1785442864586": {
       "tradeType": "Off Open Green",
       "notes": "flipped short after pre market move off imbal"
+    },
+    "t_SNDK_1785442864591": {
+      "tradeType": "Imbal PM",
+      "notes": "cut in post"
     }
   },
-  "updated": "2026-07-31T18:40:27.967Z"
+  "updated": "2026-07-31T18:41:03.399Z"
 }
