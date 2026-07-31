@@ -3949,21 +3949,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_META_1785442864583",
-          "symbol": "META",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1785417680000,
-          "exitTime": 1785417929000,
-          "realizedPnl": -2835.04999999995,
-          "totalEntryQty": 1500,
-          "totalExitQty": 1500,
-          "avgEntry": 533.0946666666665,
-          "avgExit": 531.2046333333333,
-          "status": "closed"
-        },
-        {
           "id": "t_META_1785442864584",
           "symbol": "META",
           "direction": "SHORT",
@@ -4949,5 +4934,5 @@
       "notes": "flipped short after pre market move off imbal"
     }
   },
-  "updated": "2026-07-31T18:40:10.902Z"
+  "updated": "2026-07-31T18:40:24.727Z"
 }
