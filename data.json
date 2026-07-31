@@ -4054,10 +4054,10 @@
           "realizedPnl": -5018,
           "totalEntryQty": 0,
           "totalExitQty": 0,
-          "avgEntry": 0,
-          "avgExit": 0,
+          "avgEntry": 1,
+          "avgExit": 1,
           "status": "open",
-          "tradeType": "",
+          "tradeType": "Imbal PM",
           "notes": "",
           "entryDateStr": "7/30/26",
           "exitDateStr": ""
@@ -4947,9 +4947,9 @@
       "notes": "eps day of imbal"
     },
     "man_META_1785523328373": {
-      "tradeType": "",
+      "tradeType": "Imbal PM",
       "notes": ""
     }
   },
-  "updated": "2026-07-31T18:42:08.374Z"
+  "updated": "2026-07-31T18:42:23.518Z"
 }
