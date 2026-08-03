@@ -4104,6 +4104,25 @@
           "notes": "",
           "entryDateStr": "7/31/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_APP_1785765616857",
+          "symbol": "APP",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 1586.3999999999123,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 395.3866,
+          "avgExit": 394.99,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/31/26",
+          "exitDateStr": ""
         }
       ]
     }
@@ -4996,7 +5015,11 @@
     "man_RDDT_1785765578138": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_APP_1785765616857": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-03T13:59:38.139Z"
+  "updated": "2026-08-03T14:00:16.858Z"
 }
