@@ -4066,7 +4066,27 @@
       "dateStr": "7/30/26"
     },
     "2026-07-31": {
-      "trades": []
+      "trades": [
+        {
+          "id": "man_AAPL_1785765490911",
+          "symbol": "AAPL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 29765,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
+          "avgEntry": 1,
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "7/31/26",
+          "exitDateStr": ""
+        }
+      ]
     }
   },
   "annotations": {
@@ -4949,7 +4969,11 @@
     "man_META_1785523328373": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "man_AAPL_1785765490911": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-07-31T18:42:28.878Z"
+  "updated": "2026-08-03T13:58:10.913Z"
 }
