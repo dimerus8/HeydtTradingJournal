@@ -4127,7 +4127,54 @@
       ]
     },
     "2026-08-03": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_GOOGL_1785788122577",
+          "symbol": "GOOGL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785757594000,
+          "exitTime": 1785757805000,
+          "realizedPnl": 78.77999999998974,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 362.83756,
+          "avgExit": 362.68000000000006,
+          "status": "closed"
+        },
+        {
+          "id": "t_GOOG_1785788122578",
+          "symbol": "GOOG",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785759706000,
+          "exitTime": 1785763560000,
+          "realizedPnl": -5359.070000000034,
+          "totalEntryQty": 8000,
+          "totalExitQty": 8000,
+          "avgEntry": 362.2077712500003,
+          "avgExit": 362.8776549999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_PBF_1785788122579",
+          "symbol": "PBF",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1785761180000,
+          "exitTime": 1785763800000,
+          "realizedPnl": 840.7200000000166,
+          "totalEntryQty": 4434,
+          "totalExitQty": 4434,
+          "avgEntry": 69.12960757780786,
+          "avgExit": 68.94,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/3/26"
     }
   },
   "annotations": {
@@ -5024,5 +5071,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-03T14:00:20.948Z"
+  "updated": "2026-08-03T20:15:22.580Z"
 }
