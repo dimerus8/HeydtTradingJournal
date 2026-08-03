@@ -4070,16 +4070,16 @@
         {
           "id": "man_AAPL_1785765490911",
           "symbol": "AAPL",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": null,
           "exitTime": null,
           "realizedPnl": 29765,
-          "totalEntryQty": 1,
-          "totalExitQty": 1,
-          "avgEntry": 1,
-          "avgExit": 1,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 308.2014829,
+          "avgExit": 307.011,
           "status": "closed",
           "tradeType": "Imbal PM",
           "notes": "",
@@ -4975,5 +4975,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-03T13:58:10.913Z"
+  "updated": "2026-08-03T13:58:54.602Z"
 }
