@@ -4161,7 +4161,7 @@
           "avgEntry": 362.2077712500003,
           "avgExit": 362.8776549999998,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Imbal AM",
           "notes": "for unlock, came out to buy",
           "entryDateStr": "8/3/26",
           "exitDateStr": ""
@@ -5087,7 +5087,7 @@
       "notes": "for unlock, was to buy"
     },
     "t_GOOG_1785788122578": {
-      "tradeType": "",
+      "tradeType": "Imbal AM",
       "notes": "for unlock, came out to buy"
     },
     "t_PBF_1785788122579": {
@@ -5095,5 +5095,5 @@
       "notes": "-12m for sale (ADV scanner)"
     }
   },
-  "updated": "2026-08-03T20:15:58.790Z"
+  "updated": "2026-08-03T20:16:03.638Z"
 }
