@@ -4152,7 +4152,7 @@
           "symbol": "GOOG",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785759706000,
           "exitTime": 1785763560000,
           "realizedPnl": -5359.070000000034,
@@ -4160,7 +4160,11 @@
           "totalExitQty": 8000,
           "avgEntry": 362.2077712500003,
           "avgExit": 362.8776549999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "for unlock, came out to buy",
+          "entryDateStr": "8/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_PBF_1785788122579",
@@ -5077,7 +5081,11 @@
     "t_GOOGL_1785788122577": {
       "tradeType": "Imbal AM",
       "notes": "for unlock, was to buy"
+    },
+    "t_GOOG_1785788122578": {
+      "tradeType": "",
+      "notes": "for unlock, came out to buy"
     }
   },
-  "updated": "2026-08-03T20:15:34.133Z"
+  "updated": "2026-08-03T20:15:47.989Z"
 }
