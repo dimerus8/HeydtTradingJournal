@@ -4180,7 +4180,7 @@
           "avgEntry": 69.12960757780786,
           "avgExit": 68.94,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Imbal AM",
           "notes": "-12m for sale (ADV scanner)",
           "entryDateStr": "8/3/26",
           "exitDateStr": ""
@@ -5091,9 +5091,9 @@
       "notes": "for unlock, came out to buy"
     },
     "t_PBF_1785788122579": {
-      "tradeType": "",
+      "tradeType": "Imbal AM",
       "notes": "-12m for sale (ADV scanner)"
     }
   },
-  "updated": "2026-08-03T20:16:03.638Z"
+  "updated": "2026-08-03T20:16:10.630Z"
 }
