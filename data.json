@@ -4085,6 +4085,25 @@
           "notes": "",
           "entryDateStr": "7/31/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_RDDT_1785765578138",
+          "symbol": "RDDT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 1601.9000000000005,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 146.7449,
+          "avgExit": 145.143,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "7/31/26",
+          "exitDateStr": ""
         }
       ]
     }
@@ -4973,7 +4992,11 @@
     "man_AAPL_1785765490911": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "man_RDDT_1785765578138": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-08-03T13:58:54.602Z"
+  "updated": "2026-08-03T13:59:38.139Z"
 }
