@@ -4133,7 +4133,7 @@
           "symbol": "GOOGL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1785757594000,
           "exitTime": 1785757805000,
           "realizedPnl": 78.77999999998974,
@@ -4141,7 +4141,11 @@
           "totalExitQty": 500,
           "avgEntry": 362.83756,
           "avgExit": 362.68000000000006,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "for unlock, was to buy",
+          "entryDateStr": "8/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_GOOG_1785788122578",
@@ -5069,7 +5073,11 @@
     "man_APP_1785765616857": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_GOOGL_1785788122577": {
+      "tradeType": "Imbal AM",
+      "notes": "for unlock, was to buy"
     }
   },
-  "updated": "2026-08-03T20:15:22.580Z"
+  "updated": "2026-08-03T20:15:34.133Z"
 }
