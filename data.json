@@ -4242,7 +4242,7 @@
         {
           "id": "man_PLTR_1785937976541",
           "symbol": "PLTR",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": 1785835800000,
@@ -5172,5 +5172,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-05T13:58:11.510Z"
+  "updated": "2026-08-05T13:58:24.302Z"
 }
