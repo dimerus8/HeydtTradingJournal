@@ -4215,14 +4215,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1785922200000,
+          "entryTime": 1785835800000,
           "exitTime": 1785945600000,
           "realizedPnl": 1470,
           "totalEntryQty": 521,
           "totalExitQty": 521,
           "avgEntry": 532.589,
           "avgExit": 535.41,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "8/4/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_SNDK_1785937976540",
@@ -5178,7 +5182,11 @@
     "man_SNDK_1785937976540": {
       "tradeType": "Imbal AM",
       "notes": "to buy and paired by 9.27"
+    },
+    "man_FN_1785937976539": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-05T13:58:45.263Z"
+  "updated": "2026-08-05T13:58:54.025Z"
 }
