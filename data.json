@@ -4202,8 +4202,6 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 7231,
           "totalEntryQty": 490,
           "totalExitQty": 490,
@@ -4219,8 +4217,6 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 1470,
           "totalEntryQty": 521,
           "totalExitQty": 521,
@@ -4236,8 +4232,6 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": -4980,
           "totalEntryQty": 1500,
           "totalExitQty": 1500,
@@ -4251,16 +4245,18 @@
           "direction": "LONG",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1785922200000,
+          "entryTime": 1785835800000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": -14229,
           "totalEntryQty": 12500,
           "totalExitQty": 12500,
           "avgEntry": 146.081,
           "avgExit": 144.943,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "8/4/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/4/2026"
@@ -5170,7 +5166,11 @@
     "t_PBF_1785788122579": {
       "tradeType": "Imbal AM",
       "notes": "-12m for sale (ADV scanner)"
+    },
+    "man_PLTR_1785937976541": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-08-05T13:49:55.909Z"
+  "updated": "2026-08-05T13:58:11.510Z"
 }
