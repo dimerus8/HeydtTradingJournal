@@ -4208,7 +4208,7 @@
           "avgEntry": 1280.59,
           "avgExit": 1295.347,
           "status": "closed",
-          "tradeType": "Imbal PM",
+          "tradeType": "Imbal AM",
           "notes": "",
           "entryDateStr": "8/4/26",
           "exitDateStr": ""
@@ -5192,9 +5192,9 @@
       "notes": ""
     },
     "man_GWW_1785937976538": {
-      "tradeType": "Imbal PM",
+      "tradeType": "Imbal AM",
       "notes": ""
     }
   },
-  "updated": "2026-08-05T14:09:00.701Z"
+  "updated": "2026-08-05T14:09:13.965Z"
 }
