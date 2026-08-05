@@ -4265,7 +4265,7 @@
           "avgEntry": 146.081,
           "avgExit": 144.943,
           "status": "closed",
-          "tradeType": "Off Open Green",
+          "tradeType": "Earnings",
           "notes": "",
           "entryDateStr": "8/4/26",
           "exitDateStr": ""
@@ -5180,7 +5180,7 @@
       "notes": "-12m for sale (ADV scanner)"
     },
     "man_PLTR_1785937976541": {
-      "tradeType": "Off Open Green",
+      "tradeType": "Earnings",
       "notes": ""
     },
     "man_SNDK_1785937976540": {
@@ -5196,5 +5196,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-05T14:09:13.965Z"
+  "updated": "2026-08-05T14:09:32.061Z"
 }
