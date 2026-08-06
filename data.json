@@ -4295,7 +4295,7 @@
           "symbol": "HONA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786022726000,
           "exitTime": 1786023000000,
           "realizedPnl": 42256.09999999996,
@@ -4303,7 +4303,11 @@
           "totalExitQty": 6000,
           "avgEntry": 160.65268333333333,
           "avgExit": 153.60999999999993,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/6/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AXIA_1786048166235",
@@ -5264,7 +5268,11 @@
     "t_SPCX_1785960885254": {
       "tradeType": "Other",
       "notes": "into imbal and for unlock tomorrow"
+    },
+    "t_HONA_1786048166234": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-06T20:29:26.234Z"
+  "updated": "2026-08-06T20:29:41.046Z"
 }
