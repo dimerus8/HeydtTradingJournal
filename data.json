@@ -4275,7 +4275,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "8/5/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/5/2026"
@@ -5380,7 +5384,11 @@
     "man_PLTR_1786048304224": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_AMD_1786048304225": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-08-06T20:32:50.111Z"
+  "updated": "2026-08-06T20:32:59.199Z"
 }
