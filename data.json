@@ -4237,7 +4237,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_PLTR_1786048304224",
@@ -5364,7 +5368,11 @@
     "man_DVA_1786048304222": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "man_SHOP_1786048304223": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-06T20:32:37.655Z"
+  "updated": "2026-08-06T20:32:42.952Z"
 }
