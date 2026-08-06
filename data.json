@@ -4203,7 +4203,11 @@
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_DVA_1786048304222",
@@ -5388,7 +5392,11 @@
     "man_AMD_1786048304225": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "man_SPCX_1786048304221": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-06T20:32:59.199Z"
+  "updated": "2026-08-06T20:33:03.486Z"
 }
