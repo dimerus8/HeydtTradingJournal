@@ -4198,8 +4198,6 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 6847,
           "totalEntryQty": 0,
           "totalExitQty": 0,
@@ -4215,14 +4213,16 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": 2946,
           "totalEntryQty": 0,
           "totalExitQty": 0,
           "avgEntry": 0,
           "avgExit": 0,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "8/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "man_SHOP_1786048304223",
@@ -4232,8 +4232,6 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": -79,
           "totalEntryQty": 0,
           "totalExitQty": 0,
@@ -4249,8 +4247,6 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": -3879,
           "totalEntryQty": 0,
           "totalExitQty": 0,
@@ -4266,8 +4262,6 @@
           "isManual": true,
           "entryTime": 1785922200000,
           "exitTime": 1785945600000,
-          "entryFills": [],
-          "exitFills": [],
           "realizedPnl": -10203,
           "totalEntryQty": 0,
           "totalExitQty": 0,
@@ -5366,7 +5360,11 @@
     "t_AXIA_1786048166235": {
       "tradeType": "Imbal PM",
       "notes": "paired at 58"
+    },
+    "man_DVA_1786048304222": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-06T20:29:54.110Z"
+  "updated": "2026-08-06T20:32:37.655Z"
 }
