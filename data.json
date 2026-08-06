@@ -4314,7 +4314,7 @@
           "symbol": "AXIA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786046360000,
           "exitTime": 1786046408000,
           "realizedPnl": -4472.87000000002,
@@ -4322,7 +4322,11 @@
           "totalExitQty": 50000,
           "avgEntry": 10.130542600000002,
           "avgExit": 10.220000000000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "paired at 58",
+          "entryDateStr": "8/6/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/6/26"
@@ -5272,7 +5276,11 @@
     "t_HONA_1786048166234": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_AXIA_1786048166235": {
+      "tradeType": "Imbal PM",
+      "notes": "paired at 58"
     }
   },
-  "updated": "2026-08-06T20:29:41.046Z"
+  "updated": "2026-08-06T20:29:54.110Z"
 }
