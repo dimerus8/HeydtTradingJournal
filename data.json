@@ -4428,7 +4428,69 @@
       "dateStr": "8/6/26"
     },
     "2026-08-07": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_AAOI_1786134458271",
+          "symbol": "AAOI",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786107057000,
+          "exitTime": 1786109444000,
+          "realizedPnl": 3605.629999999987,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 141.47772000000003,
+          "avgExit": 140.57631250000003,
+          "status": "closed"
+        },
+        {
+          "id": "t_HTZ_1786134458272",
+          "symbol": "HTZ",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786108123000,
+          "exitTime": 1786109445000,
+          "realizedPnl": 5515.9,
+          "totalEntryQty": 22300,
+          "totalExitQty": 22300,
+          "avgEntry": 2.6769506726457397,
+          "avgExit": 2.429600896860986,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1786134458273",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786132428000,
+          "exitTime": 1786132473000,
+          "realizedPnl": -26.264999999953858,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 131.79800600000002,
+          "avgExit": 131.7875,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1786134458274",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786132800000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 15000,
+          "totalExitQty": 0,
+          "avgEntry": 133.11,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "8/7/26"
     }
   },
   "annotations": {
@@ -5401,5 +5463,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-07T20:27:35.573Z"
+  "updated": "2026-08-07T20:27:38.272Z"
 }
