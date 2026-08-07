@@ -4463,7 +4463,7 @@
           "avgExit": 2.429600896860986,
           "status": "closed",
           "tradeType": "Off Open Green",
-          "notes": "",
+          "notes": "day before came off too",
           "entryDateStr": "8/7/26",
           "exitDateStr": ""
         },
@@ -5465,12 +5465,12 @@
     },
     "t_HTZ_1786134458272": {
       "tradeType": "Off Open Green",
-      "notes": ""
+      "notes": "day before came off too"
     },
     "t_AAOI_1786134458271": {
       "tradeType": "Off Open Green",
       "notes": ""
     }
   },
-  "updated": "2026-08-07T20:28:27.901Z"
+  "updated": "2026-08-07T20:28:40.934Z"
 }
