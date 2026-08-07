@@ -4449,7 +4449,7 @@
           "symbol": "HTZ",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786108123000,
           "exitTime": 1786109445000,
           "realizedPnl": 5515.9,
@@ -4457,7 +4457,11 @@
           "totalExitQty": 22300,
           "avgEntry": 2.6769506726457397,
           "avgExit": 2.429600896860986,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "8/7/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1786134458274",
@@ -5454,7 +5458,11 @@
     "t_SPCX_1786134458274": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_HTZ_1786134458272": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-08-07T20:28:17.973Z"
+  "updated": "2026-08-07T20:28:22.789Z"
 }
