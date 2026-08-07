@@ -4434,7 +4434,7 @@
           "symbol": "AAOI",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786107057000,
           "exitTime": 1786109444000,
           "realizedPnl": 3605.629999999987,
@@ -4442,7 +4442,11 @@
           "totalExitQty": 4000,
           "avgEntry": 141.47772000000003,
           "avgExit": 140.57631250000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "8/7/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_HTZ_1786134458272",
@@ -5462,7 +5466,11 @@
     "t_HTZ_1786134458272": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_AAOI_1786134458271": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-08-07T20:28:22.789Z"
+  "updated": "2026-08-07T20:28:27.901Z"
 }
