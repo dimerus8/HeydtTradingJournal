@@ -4496,7 +4496,7 @@
           "symbol": "INTC",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786368426000,
           "exitTime": 1786368609000,
           "realizedPnl": -580.4999999999882,
@@ -4504,7 +4504,11 @@
           "totalExitQty": 2500,
           "avgEntry": 97.90176399999999,
           "avgExit": 98.133964,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Secondary Offering",
+          "notes": "",
+          "entryDateStr": "8/10/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1786386756628",
@@ -5505,7 +5509,11 @@
     "t_AAOI_1786134458271": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_INTC_1786386756627": {
+      "tradeType": "Secondary Offering",
+      "notes": ""
     }
   },
-  "updated": "2026-08-10T18:32:36.627Z"
+  "updated": "2026-08-10T18:33:09.195Z"
 }
