@@ -103,7 +103,7 @@ td{padding:10px;white-space:nowrap}td.ar{text-align:right}
 <button class="btn bp" id="upBtn">Upload</button><input type="file" id="fi2" accept=".txt,.csv,.log">
 <button class="btn" id="addBtn">+ Trade</button>
 <button class="btn" id="typeMgrBtn" style="font-size:10px">+ Type</button>
-<button class="btn" id="resetBtn">Next Day</button>
+<button class="btn" id="resetBtn">Next Day</button><button class="btn" id="carryBtn" style="font-size:10px;color:var(--amb)">Carry O/N</button>
 <button class="btn" id="exportBtn" style="font-size:10px">Export</button>
 <button class="btn" id="importBtn" style="font-size:10px">Import</button><input type="file" id="impFile" accept=".json" style="display:none">
 </div>
@@ -261,7 +261,14 @@ function parseAny(text){if(text.indexOf('Time-Date:')>=0&&text.indexOf('|')>=0)r
 function mkDk(ds){var p=ds.split('/'),y=parseInt(p[2]);if(y<100)y+=2000;return y+'-'+String(parseInt(p[0])).padStart(2,'0')+'-'+String(parseInt(p[1])).padStart(2,'0')}
 function buildTrades(fills){var byS={};fills.forEach(function(f){if(!byS[f.symbol])byS[f.symbol]=[];byS[f.symbol].push(f)});var trades=[],tid=Date.now();Object.keys(byS).forEach(function(sym){var sf=byS[sym].sort(function(a,b){return a.time-b.time}),lq=[],sq=[],lt=null,st=null;function mk(dir){return{id:'t_'+sym+'_'+(++tid),symbol:sym,direction:dir,isFutures:isFut(sym),isManual:false,entryTime:null,exitTime:null,entryFills:[],exitFills:[],realizedPnl:0,totalEntryQty:0,totalExitQty:0,avgEntry:0,avgExit:0,status:'open'}}function wavg(f){var q=0,s=0;f.forEach(function(x){q+=x.execQty;s+=x.execQty*x.execPrice});return q?s/q:0}function cl(t){t.status='closed';t.avgEntry=wavg(t.entryFills);t.avgExit=wavg(t.exitFills);trades.push(JSON.parse(JSON.stringify(t)))}sf.forEach(function(f){if(f.side==='buy'&&!f.isShort){var rem=f.execQty;while(rem>0&&sq.length>0){var lot=sq[0],m=Math.min(rem,lot.qty);if(st){st.realizedPnl+=(lot.px-f.execPrice)*m;st.totalExitQty+=m;st.exitFills.push(Object.assign({},f,{execQty:m}));if(!st.exitTime||f.time>st.exitTime)st.exitTime=f.time}lot.qty-=m;rem-=m;if(!lot.qty)sq.shift()}if(!sq.length&&st){cl(st);st=null}if(rem>0){if(!lt)lt=mk('LONG');if(!lt.entryTime)lt.entryTime=f.time;lt.entryFills.push(Object.assign({},f,{execQty:rem}));lt.totalEntryQty+=rem;lq.push({px:f.execPrice,qty:rem})}}else if(f.side==='sell'&&!f.isShort){var rem=f.execQty;while(rem>0&&lq.length>0){var lot=lq[0],m=Math.min(rem,lot.qty);if(lt){lt.realizedPnl+=(f.execPrice-lot.px)*m;lt.totalExitQty+=m;lt.exitFills.push(Object.assign({},f,{execQty:m}));if(!lt.exitTime||f.time>lt.exitTime)lt.exitTime=f.time}lot.qty-=m;rem-=m;if(!lot.qty)lq.shift()}if(!lq.length&&lt){cl(lt);lt=null}}else if(f.isShort){if(!st)st=mk('SHORT');if(!st.entryTime)st.entryTime=f.time;st.entryFills.push(f);st.totalEntryQty+=f.execQty;sq.push({px:f.execPrice,qty:f.execQty})}});if(lt){lt.avgEntry=wavg(lt.entryFills);lt.avgExit=wavg(lt.exitFills);trades.push(JSON.parse(JSON.stringify(lt)))}if(st){st.avgEntry=wavg(st.entryFills);st.avgExit=wavg(st.exitFills);trades.push(JSON.parse(JSON.stringify(st)))}});return trades.sort(function(a,b){return(a.entryTime||0)-(b.entryTime||0)})}
 function collapseTrade(t,exitPx){t.avgExit=exitPx;t.totalExitQty=t.totalEntryQty;t.exitTime=Date.now();t.status='closed';if(t.direction==='LONG')t.realizedPnl=(exitPx-t.avgEntry)*t.totalEntryQty;else t.realizedPnl=(t.avgEntry-exitPx)*t.totalEntryQty;if(db[curDk])db[curDk].trades=db[curDk].trades.map(function(x){return x.id===t.id?t:x});save();updateBar();renderEq();renderFut()}
-function processText(text){var fills=parseAny(text);if(!fills.length){document.getElementById('status').textContent='No fills found.';document.getElementById('status').style.color='var(--red)';return}var dateCounts={};fills.forEach(function(f){dateCounts[f.dateStr]=(dateCounts[f.dateStr]||0)+1});var bestDate=fills[0].dateStr,bestCount=0;Object.keys(dateCounts).forEach(function(d){if(dateCounts[d]>bestCount){bestCount=dateCounts[d];bestDate=d}});var dk=mkDk(bestDate);var manual=(db[dk]&&db[dk].trades||[]).filter(function(t){return t.isManual});db[dk]={trades:manual.concat(buildTrades(fills)),fills:fills,dateStr:bestDate};save();document.getElementById('status').textContent=fills.length+' fills -> '+db[dk].trades.length+' trades';showDay(dk)}
+function processText(text){var fills=parseAny(text);if(!fills.length){document.getElementById('status').textContent='No fills found.';document.getElementById('status').style.color='var(--red)';return}var dateCounts={};fills.forEach(function(f){dateCounts[f.dateStr]=(dateCounts[f.dateStr]||0)+1});var bestDate=fills[0].dateStr,bestCount=0;Object.keys(dateCounts).forEach(function(d){if(dateCounts[d]>bestCount){bestCount=dateCounts[d];bestDate=d}});var dk=mkDk(bestDate);var existing=(db[dk]&&db[dk].trades||[]);
+var manual=existing.filter(function(t){return t.isManual});
+var newTrades=buildTrades(fills);
+if(existing.length>0){
+var choice=confirm('Day already has '+existing.length+' trades.\n\nOK = Replace parsed trades (keep manual)\nCancel = Add to existing trades');
+if(choice){db[dk]={trades:manual.concat(newTrades),fills:fills,dateStr:bestDate}}
+else{var existingIds={};existing.forEach(function(t){existingIds[t.symbol+'_'+t.direction]=true});var added=0;newTrades.forEach(function(t){if(!existingIds[t.symbol+'_'+t.direction]){existing.push(t);added++}});db[dk]={trades:existing,fills:(db[dk].fills||[]).concat(fills),dateStr:bestDate};alert('Added '+added+' new trades')}}
+else{db[dk]={trades:newTrades,fills:fills,dateStr:bestDate}}save();document.getElementById('status').textContent=fills.length+' fills -> '+db[dk].trades.length+' trades';showDay(dk)}
 
 // WIRE INPUTS
 document.getElementById('parseBtn').addEventListener('click',function(){var t=document.getElementById('ta').value.trim();if(!t){alert('Paste blotter text first');return}processText(t)});
@@ -328,6 +335,35 @@ function fK(n){n=Math.abs(n||0);if(n>=1e6)return(n/1e6).toFixed(2)+'M';if(n>=1e3
 function ft(ms){if(!ms)return'-';return new Date(ms).toTimeString().slice(0,8)}
 function hold(t){if(!t.entryTime||!t.exitTime||t.status==='open')return'-';var m=Math.round(Math.abs(t.exitTime-t.entryTime)/60000);return m<60?m+'m':(m/60).toFixed(1)+'h'}
 function chip(type){if(!type)return'<span style="color:var(--dim)">-</span>';var cls='ch-'+type.toLowerCase().replace(/[^a-z0-9]+/g,'-');var col=typeColors[type];var style=col?'background:'+col+'20;color:'+col+';border:1px solid '+col+'60':'';return'<span class="chip '+cls+'"'+(style?' style="'+style+'"':'')+'>'+type+'</span>'}
+
+// CARRY OVERNIGHT - find open positions from previous days and bring to current day
+document.getElementById('carryBtn').addEventListener('click', function() {
+    if (!curDk) return;
+    var prevDays = Object.keys(db).filter(function(dk) { return dk < curDk }).sort();
+    var carried = 0;
+    var existingIds = {};
+    (db[curDk] && db[curDk].trades || []).forEach(function(t) { existingIds[t.id] = true });
+    prevDays.forEach(function(dk) {
+        (db[dk].trades || []).forEach(function(t) {
+            if (t.status === 'open' && !existingIds['carry_' + t.id]) {
+                var carry = JSON.parse(JSON.stringify(t));
+                carry.id = 'carry_' + t.id;
+                carry.notes = (carry.notes || '') + ' [Carried from ' + dk + ']';
+                carry.isManual = true;
+                if (!db[curDk]) db[curDk] = {trades: [], fills: []};
+                db[curDk].trades.push(carry);
+                carried++;
+            }
+        });
+    });
+    if (carried > 0) {
+        save();
+        updateBar(); renderEq(); renderFut();
+        alert('Carried ' + carried + ' open position(s) from previous days');
+    } else {
+        alert('No open positions to carry');
+    }
+});
 
 // INIT
 loadFromCloud(function(){
