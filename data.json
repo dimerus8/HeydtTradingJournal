@@ -4372,21 +4372,6 @@
     "2026-08-06": {
       "trades": [
         {
-          "id": "t_SPCX_1786048166233",
-          "symbol": "SPCX",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1786010520000,
-          "exitTime": 1786023927000,
-          "realizedPnl": -4700.754999999999,
-          "totalEntryQty": 17500,
-          "totalExitQty": 10000,
-          "avgEntry": 109.41201497714282,
-          "avgExit": 107.45459649999998,
-          "status": "open"
-        },
-        {
           "id": "t_HONA_1786048166234",
           "symbol": "HONA",
           "direction": "SHORT",
@@ -5523,5 +5508,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-10T18:41:51.204Z"
+  "updated": "2026-08-10T18:42:20.215Z"
 }
