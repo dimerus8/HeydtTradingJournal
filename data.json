@@ -4515,7 +4515,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786368443000,
           "exitTime": 1786368601000,
           "realizedPnl": 10507.46999999997,
@@ -4523,7 +4523,11 @@
           "totalExitQty": 1500,
           "avgEntry": 864.1149800000002,
           "avgExit": 857.11,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "8/10/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/10/26"
@@ -5513,7 +5517,11 @@
     "t_INTC_1786386756627": {
       "tradeType": "Secondary Offering",
       "notes": ""
+    },
+    "t_MU_1786386756628": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-08-10T18:33:09.195Z"
+  "updated": "2026-08-10T18:33:16.460Z"
 }
