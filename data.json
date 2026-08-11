@@ -4516,6 +4516,9 @@
         }
       ],
       "dateStr": "8/10/26"
+    },
+    "2026-08-11": {
+      "trades": []
     }
   },
   "annotations": {
@@ -4736,7 +4739,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "Overnight",
+      "tradeType": "MSCI Sell",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -4832,7 +4835,7 @@
       "notes": ""
     },
     "t_MU_1780426544590": {
-      "tradeType": "Off Open Green",
+      "tradeType": "Imbal Buy",
       "notes": ""
     },
     "t_MRVL_1780496868326": {
@@ -5055,12 +5058,12 @@
       "tradeType": "Imbal AM",
       "notes": ""
     },
-    "man_MU_1782397804840": {
-      "tradeType": "Earnings",
-      "notes": ""
-    },
     "t_MU_1782414538057": {
       "tradeType": "Off Open Green",
+      "notes": ""
+    },
+    "man_MU_1782397804840": {
+      "tradeType": "Earnings",
       "notes": ""
     },
     "t_ABBV_1782741204829": {
@@ -5127,20 +5130,20 @@
       "tradeType": "Russell Recon",
       "notes": ""
     },
-    "man_TSLA_1782850983036": {
-      "tradeType": "Off Open Red",
-      "notes": ""
-    },
-    "man_SPCX_1782850983035": {
-      "tradeType": "Imbal AM",
+    "man_BLD_1782850983033": {
+      "tradeType": "Imbal PM",
       "notes": ""
     },
     "man_QXO_1782850983034": {
-      "tradeType": "Deal Closing",
+      "tradeType": "Imbal PM",
       "notes": ""
     },
-    "man_BLD_1782850983033": {
-      "tradeType": "Deal Closing",
+    "man_SPCX_1782850983035": {
+      "tradeType": "Imbal PM",
+      "notes": ""
+    },
+    "man_TSLA_1782850983036": {
+      "tradeType": "Off Open Red",
       "notes": ""
     },
     "t_NBIS_1782931222468": {
@@ -5184,7 +5187,7 @@
       "notes": ""
     },
     "t_MBGL_1783451861683": {
-      "tradeType": "Spin off",
+      "tradeType": "Off Open Green",
       "notes": ""
     },
     "t_MU_1783535322190": {
@@ -5468,7 +5471,7 @@
       "notes": "paired at 58"
     },
     "man_DVA_1786048304222": {
-      "tradeType": "Imbal AM",
+      "tradeType": "Imbal PM",
       "notes": ""
     },
     "man_SHOP_1786048304223": {
@@ -5496,7 +5499,7 @@
       "notes": "day before came off too"
     },
     "t_AAOI_1786134458271": {
-      "tradeType": "Earnings",
+      "tradeType": "Off Open Green",
       "notes": ""
     },
     "t_INTC_1786386756627": {
@@ -5508,5 +5511,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-11T19:06:00.459Z"
+  "updated": "2026-08-11T20:10:08.541Z"
 }
