@@ -4539,7 +4539,7 @@
           "symbol": "LITE",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786454520000,
           "exitTime": 1786455004000,
           "realizedPnl": 8443.30000000003,
@@ -4547,7 +4547,11 @@
           "totalExitQty": 750,
           "avgEntry": 814.9277333333334,
           "avgExit": 803.6699999999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "stat trade",
+          "entryDateStr": "8/11/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ABNB_1786479012640",
@@ -5564,7 +5568,11 @@
     "t_ABNB_1786479012640": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_LITE_1786479012639": {
+      "tradeType": "Off Open Green",
+      "notes": "stat trade"
     }
   },
-  "updated": "2026-08-11T20:10:26.101Z"
+  "updated": "2026-08-11T20:10:37.965Z"
 }
