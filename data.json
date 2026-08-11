@@ -4518,7 +4518,54 @@
       "dateStr": "8/10/26"
     },
     "2026-08-11": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_INTC_1786479012638",
+          "symbol": "INTC",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786454280000,
+          "exitTime": 1786455110000,
+          "realizedPnl": 522.3500000000067,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 96.48422000000001,
+          "avgExit": 96.745395,
+          "status": "closed"
+        },
+        {
+          "id": "t_LITE_1786479012639",
+          "symbol": "LITE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786454520000,
+          "exitTime": 1786455004000,
+          "realizedPnl": 8443.30000000003,
+          "totalEntryQty": 750,
+          "totalExitQty": 750,
+          "avgEntry": 814.9277333333334,
+          "avgExit": 803.6699999999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_ABNB_1786479012640",
+          "symbol": "ABNB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786454870000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 930,
+          "totalExitQty": 0,
+          "avgEntry": 178.01,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "8/11/26"
     }
   },
   "annotations": {
@@ -5511,5 +5558,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-11T20:10:08.541Z"
+  "updated": "2026-08-11T20:10:12.638Z"
 }
