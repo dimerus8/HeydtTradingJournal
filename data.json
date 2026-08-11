@@ -4428,7 +4428,7 @@
           "avgEntry": 141.47772000000003,
           "avgExit": 140.57631250000003,
           "status": "closed",
-          "tradeType": "Off Open Green",
+          "tradeType": "Earnings",
           "notes": "",
           "entryDateStr": "8/7/26",
           "exitDateStr": ""
@@ -4736,7 +4736,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -4832,7 +4832,7 @@
       "notes": ""
     },
     "t_MU_1780426544590": {
-      "tradeType": "Imbal Buy",
+      "tradeType": "Off Open Green",
       "notes": ""
     },
     "t_MRVL_1780496868326": {
@@ -5055,12 +5055,12 @@
       "tradeType": "Imbal AM",
       "notes": ""
     },
-    "t_MU_1782414538057": {
-      "tradeType": "Off Open Green",
-      "notes": ""
-    },
     "man_MU_1782397804840": {
       "tradeType": "Earnings",
+      "notes": ""
+    },
+    "t_MU_1782414538057": {
+      "tradeType": "Off Open Green",
       "notes": ""
     },
     "t_ABBV_1782741204829": {
@@ -5127,20 +5127,20 @@
       "tradeType": "Russell Recon",
       "notes": ""
     },
-    "man_BLD_1782850983033": {
-      "tradeType": "Imbal PM",
-      "notes": ""
-    },
-    "man_QXO_1782850983034": {
-      "tradeType": "Imbal PM",
+    "man_TSLA_1782850983036": {
+      "tradeType": "Off Open Red",
       "notes": ""
     },
     "man_SPCX_1782850983035": {
-      "tradeType": "Imbal PM",
+      "tradeType": "Imbal AM",
       "notes": ""
     },
-    "man_TSLA_1782850983036": {
-      "tradeType": "Off Open Red",
+    "man_QXO_1782850983034": {
+      "tradeType": "Deal Closing",
+      "notes": ""
+    },
+    "man_BLD_1782850983033": {
+      "tradeType": "Deal Closing",
       "notes": ""
     },
     "t_NBIS_1782931222468": {
@@ -5184,7 +5184,7 @@
       "notes": ""
     },
     "t_MBGL_1783451861683": {
-      "tradeType": "Off Open Green",
+      "tradeType": "Spin off",
       "notes": ""
     },
     "t_MU_1783535322190": {
@@ -5496,7 +5496,7 @@
       "notes": "day before came off too"
     },
     "t_AAOI_1786134458271": {
-      "tradeType": "Off Open Green",
+      "tradeType": "Earnings",
       "notes": ""
     },
     "t_INTC_1786386756627": {
@@ -5508,5 +5508,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-10T18:42:20.215Z"
+  "updated": "2026-08-11T19:05:08.027Z"
 }
