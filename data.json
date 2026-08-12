@@ -4580,7 +4580,69 @@
       "dateStr": "8/11/26"
     },
     "2026-08-12": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_NBIS_1786564864143",
+          "symbol": "NBIS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786540117000,
+          "exitTime": 1786541117000,
+          "realizedPnl": -6684.240000000015,
+          "totalEntryQty": 6000,
+          "totalExitQty": 6000,
+          "avgEntry": 227.19834166666664,
+          "avgExit": 228.31238166666674,
+          "status": "closed"
+        },
+        {
+          "id": "t_ONON_1786564864145",
+          "symbol": "ONON",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786541255000,
+          "exitTime": 1786541429000,
+          "realizedPnl": 2176.680000000001,
+          "totalEntryQty": 5000,
+          "totalExitQty": 4400,
+          "avgEntry": 31.281256,
+          "avgExit": 31.77,
+          "status": "open"
+        },
+        {
+          "id": "t_ONON_1786564864146",
+          "symbol": "ONON",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786541429000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 600,
+          "totalExitQty": 0,
+          "avgEntry": 31.77,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NBIS_1786564864144",
+          "symbol": "NBIS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786564312000,
+          "exitTime": 1786564509000,
+          "realizedPnl": 5559.890400000002,
+          "totalEntryQty": 3226,
+          "totalExitQty": 3226,
+          "avgEntry": 254.84026336019843,
+          "avgExit": 256.56372597644145,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/12/26"
     }
   },
   "annotations": {
@@ -5585,5 +5647,5 @@
       "notes": "day 2, priced $95"
     }
   },
-  "updated": "2026-08-12T20:01:00.301Z"
+  "updated": "2026-08-12T20:01:04.144Z"
 }
