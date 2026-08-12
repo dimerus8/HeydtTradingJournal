@@ -4612,21 +4612,6 @@
           "status": "open"
         },
         {
-          "id": "t_ONON_1786564864146",
-          "symbol": "ONON",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1786541429000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 600,
-          "totalExitQty": 0,
-          "avgEntry": 31.77,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_NBIS_1786564864144",
           "symbol": "NBIS",
           "direction": "LONG",
@@ -5647,5 +5632,5 @@
       "notes": "day 2, priced $95"
     }
   },
-  "updated": "2026-08-12T20:01:04.144Z"
+  "updated": "2026-08-12T20:01:11.341Z"
 }
