@@ -4601,15 +4601,19 @@
           "symbol": "ONON",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786541255000,
           "exitTime": 1786541429000,
-          "realizedPnl": 2176.680000000001,
+          "realizedPnl": 2419,
           "totalEntryQty": 5000,
-          "totalExitQty": 4400,
+          "totalExitQty": 5000,
           "avgEntry": 31.281256,
           "avgExit": 31.77,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NBIS_1786564864144",
@@ -5630,7 +5634,11 @@
     "t_INTC_1786479012638": {
       "tradeType": "Secondary Offering",
       "notes": "day 2, priced $95"
+    },
+    "t_ONON_1786564864145": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-12T20:01:11.341Z"
+  "updated": "2026-08-12T20:01:26.981Z"
 }
