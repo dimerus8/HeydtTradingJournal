@@ -4639,25 +4639,6 @@
     "2026-08-14": {
       "trades": [
         {
-          "id": "t_RDDT_1786733312663",
-          "symbol": "RDDT",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1786712159000,
-          "exitTime": 1786714325000,
-          "realizedPnl": 1305.2200000000025,
-          "totalEntryQty": 500,
-          "totalExitQty": 500,
-          "avgEntry": 175.90655999999998,
-          "avgExit": 178.517,
-          "status": "closed",
-          "tradeType": "SP500 Add",
-          "notes": "",
-          "entryDateStr": "8/14/26",
-          "exitDateStr": ""
-        },
-        {
           "id": "t_RDDTH1426185.000_1786733312665",
           "symbol": "RDDTH1426185.000",
           "direction": "LONG",
@@ -5695,11 +5676,7 @@
     "t_ONON_1786564864145": {
       "tradeType": "Imbal AM",
       "notes": ""
-    },
-    "t_RDDT_1786733312663": {
-      "tradeType": "SP500 Add",
-      "notes": ""
     }
   },
-  "updated": "2026-08-14T18:49:35.885Z"
+  "updated": "2026-08-14T18:49:39.413Z"
 }
