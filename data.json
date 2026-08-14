@@ -4639,21 +4639,6 @@
     "2026-08-14": {
       "trades": [
         {
-          "id": "t_285A_1786733312662",
-          "symbol": "285A",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1786705730000,
-          "exitTime": 1786705762000,
-          "realizedPnl": 224000,
-          "totalEntryQty": 800,
-          "totalExitQty": 800,
-          "avgEntry": 55180,
-          "avgExit": 55460,
-          "status": "closed"
-        },
-        {
           "id": "t_RDDT_1786733312663",
           "symbol": "RDDT",
           "direction": "LONG",
@@ -5731,5 +5716,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-14T18:48:57.997Z"
+  "updated": "2026-08-14T18:49:15.294Z"
 }
