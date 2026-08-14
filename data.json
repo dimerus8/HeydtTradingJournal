@@ -4635,6 +4635,86 @@
     },
     "2026-08-13": {
       "trades": []
+    },
+    "2026-08-14": {
+      "trades": [
+        {
+          "id": "t_285A_1786733312662",
+          "symbol": "285A",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786705730000,
+          "exitTime": 1786705762000,
+          "realizedPnl": 224000,
+          "totalEntryQty": 800,
+          "totalExitQty": 800,
+          "avgEntry": 55180,
+          "avgExit": 55460,
+          "status": "closed"
+        },
+        {
+          "id": "t_RDDT_1786733312663",
+          "symbol": "RDDT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786712159000,
+          "exitTime": 1786714325000,
+          "realizedPnl": 1305.2200000000025,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 175.90655999999998,
+          "avgExit": 178.517,
+          "status": "closed"
+        },
+        {
+          "id": "t_P_1786733312664",
+          "symbol": "P",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786714272000,
+          "exitTime": 1786714281000,
+          "realizedPnl": 400.8500000000054,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 117.76,
+          "avgExit": 117.35915000000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_RDDTH1426185.000_1786733312665",
+          "symbol": "RDDTH1426185.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786716849000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5,
+          "totalExitQty": 0,
+          "avgEntry": 1.5439999999999998,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_QQQH1426730.000_1786733312666",
+          "symbol": "QQQH1426730.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1786721357000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5,
+          "totalExitQty": 0,
+          "avgEntry": 0.78,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "8/14/26"
     }
   },
   "annotations": {
@@ -5643,5 +5723,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-14T18:48:02.916Z"
+  "updated": "2026-08-14T18:48:32.662Z"
 }
