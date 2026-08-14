@@ -4662,15 +4662,19 @@
           "symbol": "P",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786714272000,
           "exitTime": 1786714281000,
-          "realizedPnl": 400.8500000000054,
+          "realizedPnl": 1000,
           "totalEntryQty": 1000,
           "totalExitQty": 1000,
           "avgEntry": 117.76,
           "avgExit": 117.35915000000001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "8/14/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_RDDTH1426185.000_1786733312665",
@@ -5714,7 +5718,11 @@
     "t_RDDT_1786733312663": {
       "tradeType": "SP500 Add",
       "notes": ""
+    },
+    "t_P_1786733312664": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-08-14T18:49:15.294Z"
+  "updated": "2026-08-14T18:49:31.909Z"
 }
