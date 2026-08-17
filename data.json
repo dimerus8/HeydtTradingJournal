@@ -4744,7 +4744,7 @@
           "avgEntry": 1779.4,
           "avgExit": 0,
           "status": "open",
-          "tradeType": "",
+          "tradeType": "Overnight",
           "notes": "",
           "entryDateStr": "8/17/26",
           "exitDateStr": ""
@@ -5805,7 +5805,7 @@
       "notes": ""
     },
     "man_SNDK_1786997755386": {
-      "tradeType": "",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_META_1786997820323": {
@@ -5825,5 +5825,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-17T20:36:29.906Z"
+  "updated": "2026-08-17T20:36:40.793Z"
 }
