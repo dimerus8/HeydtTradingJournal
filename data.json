@@ -4708,15 +4708,19 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786973165000,
           "exitTime": 1786973409000,
           "realizedPnl": -9723.085000000014,
-          "totalEntryQty": 1600,
-          "totalExitQty": 1600,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
           "avgEntry": 998.6784437499997,
           "avgExit": 1004.7553718749996,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "8/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1786977713242",
@@ -5745,7 +5749,11 @@
     "t_RDDT_1786733312663": {
       "tradeType": "SP500 Add",
       "notes": ""
+    },
+    "t_MU_1786977713241": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-08-17T14:41:53.239Z"
+  "updated": "2026-08-17T14:42:49.614Z"
 }
