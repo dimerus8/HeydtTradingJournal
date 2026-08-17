@@ -4721,21 +4721,6 @@
           "notes": "",
           "entryDateStr": "8/17/26",
           "exitDateStr": ""
-        },
-        {
-          "id": "t_MU_1786977713242",
-          "symbol": "MU",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1786973409000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 400,
-          "totalExitQty": 0,
-          "avgEntry": 1004.4695000000002,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "8/17/26"
@@ -5755,5 +5740,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-17T14:43:12.293Z"
+  "updated": "2026-08-17T14:43:16.774Z"
 }
