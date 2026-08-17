@@ -4737,7 +4737,7 @@
           "realizedPnl": 0,
           "totalEntryQty": 750,
           "totalExitQty": 0,
-          "avgEntry": 1804,
+          "avgEntry": 1779.4,
           "avgExit": 0,
           "status": "open",
           "tradeType": "",
@@ -5794,5 +5794,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-17T20:17:50.918Z"
+  "updated": "2026-08-17T20:18:09.176Z"
 }
