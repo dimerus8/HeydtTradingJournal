@@ -4763,6 +4763,25 @@
           "notes": "",
           "entryDateStr": "8/17/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_EQR_1786998904461",
+          "symbol": "EQR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1786996709000,
+          "exitTime": null,
+          "realizedPnl": -1863.99999999999,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 63.4736,
+          "avgExit": 63.66,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "8/17/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/17/26"
@@ -5792,7 +5811,11 @@
     "t_SNDK_1786977713240": {
       "tradeType": "",
       "notes": ""
+    },
+    "man_EQR_1786998904461": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-17T20:18:09.176Z"
+  "updated": "2026-08-17T20:35:04.461Z"
 }
