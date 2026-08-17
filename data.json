@@ -4702,7 +4702,7 @@
           "avgEntry": 1699.2083400000001,
           "avgExit": 1713.073935,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Imbal AM",
           "notes": "",
           "entryDateStr": "8/17/26",
           "exitDateStr": ""
@@ -5809,7 +5809,7 @@
       "notes": ""
     },
     "t_SNDK_1786977713240": {
-      "tradeType": "",
+      "tradeType": "Imbal AM",
       "notes": ""
     },
     "man_EQR_1786998904461": {
@@ -5817,5 +5817,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-17T20:35:54.767Z"
+  "updated": "2026-08-17T20:36:01.255Z"
 }
