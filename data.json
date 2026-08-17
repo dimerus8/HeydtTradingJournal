@@ -4693,7 +4693,7 @@
           "symbol": "SNDK",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786973152000,
           "exitTime": 1786973422000,
           "realizedPnl": -13865.595,
@@ -4701,7 +4701,11 @@
           "totalExitQty": 1000,
           "avgEntry": 1699.2083400000001,
           "avgExit": 1713.073935,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "8/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1786977713241",
@@ -5784,7 +5788,11 @@
     "man_META_1786997820323": {
       "tradeType": "",
       "notes": ""
+    },
+    "t_SNDK_1786977713240": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-08-17T20:17:39.542Z"
+  "updated": "2026-08-17T20:17:50.918Z"
 }
