@@ -4893,7 +4893,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -5679,7 +5679,11 @@
     "t_ONON_1786564864145": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_RDDT_1786733312663": {
+      "tradeType": "SP500 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-08-14T19:00:33.867Z"
+  "updated": "2026-08-17T14:41:41.421Z"
 }
