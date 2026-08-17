@@ -4763,7 +4763,7 @@
           "avgEntry": 0,
           "avgExit": 552.6,
           "status": "open",
-          "tradeType": "Imbal PM",
+          "tradeType": "Overnight",
           "notes": "",
           "entryDateStr": "8/17/26",
           "exitDateStr": ""
@@ -5809,7 +5809,7 @@
       "notes": ""
     },
     "man_META_1786997820323": {
-      "tradeType": "Imbal PM",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "t_SNDK_1786977713240": {
@@ -5825,5 +5825,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-17T20:36:40.793Z"
+  "updated": "2026-08-17T20:36:50.073Z"
 }
