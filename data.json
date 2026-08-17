@@ -4678,7 +4678,7 @@
           "symbol": "RIVN",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1786969864000,
           "exitTime": 1786973100000,
           "realizedPnl": 3823.3600000000074,
@@ -4686,7 +4686,11 @@
           "totalExitQty": 25000,
           "avgEntry": 15.262934399999999,
           "avgExit": 15.109999999999992,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Other",
+          "notes": "",
+          "entryDateStr": "8/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNDK_1786977713240",
@@ -5815,7 +5819,11 @@
     "man_EQR_1786998904461": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_RIVN_1786977713239": {
+      "tradeType": "Other",
+      "notes": ""
     }
   },
-  "updated": "2026-08-17T20:36:01.255Z"
+  "updated": "2026-08-17T20:36:29.906Z"
 }
