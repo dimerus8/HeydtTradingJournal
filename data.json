@@ -4819,14 +4819,14 @@
           "isManual": true,
           "entryTime": 1787059061000,
           "exitTime": 1787059507000,
-          "realizedPnl": 13283.190000000171,
+          "realizedPnl": 6852.5,
           "totalEntryQty": 5000,
           "totalExitQty": 5000,
           "avgEntry": 560.396486,
-          "avgExit": 557.7398479999998,
+          "avgExit": 559.026,
           "status": "closed",
-          "tradeType": "",
-          "notes": "",
+          "tradeType": "Other",
+          "notes": "Unlock",
           "entryDateStr": "8/18/26",
           "exitDateStr": ""
         },
@@ -5963,9 +5963,9 @@
       "notes": ""
     },
     "t_META_1787085825405": {
-      "tradeType": "",
-      "notes": ""
+      "tradeType": "Other",
+      "notes": "Unlock"
     }
   },
-  "updated": "2026-08-18T20:46:34.657Z"
+  "updated": "2026-08-18T20:47:30.112Z"
 }
