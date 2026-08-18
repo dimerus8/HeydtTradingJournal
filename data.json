@@ -4888,21 +4888,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_MU_1787085825407",
-          "symbol": "MU",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787059819000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1143,
-          "totalExitQty": 0,
-          "avgEntry": 965.069256342957,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_WBS_1787085825408",
           "symbol": "WBS",
           "direction": "LONG",
@@ -5991,5 +5976,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:50:23.234Z"
+  "updated": "2026-08-18T20:50:28.780Z"
 }
