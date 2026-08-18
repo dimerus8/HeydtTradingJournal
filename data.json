@@ -4791,23 +4791,7 @@
       "dateStr": "8/17/26"
     },
     "2026-08-18": {
-      "trades": [
-        {
-          "id": "t_WBS_1787085323601",
-          "symbol": "WBS",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787067922000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 2648,
-          "totalExitQty": 0,
-          "avgEntry": 77.8996209592145,
-          "avgExit": 0,
-          "status": "open"
-        }
-      ],
+      "trades": [],
       "dateStr": "8/18/26"
     }
   },
@@ -5849,5 +5833,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:35:23.602Z"
+  "updated": "2026-08-18T20:35:48.288Z"
 }
