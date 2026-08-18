@@ -4871,16 +4871,16 @@
         {
           "id": "t_SNDK_1787085825403",
           "symbol": "SNDK",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": 1787059817000,
           "exitTime": null,
-          "realizedPnl": -20750,
+          "realizedPnl": -21000,
           "totalEntryQty": 250,
           "totalExitQty": 250,
           "avgEntry": 1786,
-          "avgExit": 1703,
+          "avgExit": 1702,
           "status": "closed",
           "tradeType": "Overnight",
           "notes": "",
@@ -5976,5 +5976,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:50:28.780Z"
+  "updated": "2026-08-18T20:51:25.683Z"
 }
