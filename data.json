@@ -4738,12 +4738,12 @@
           "isManual": true,
           "entryTime": 1786996800000,
           "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 750,
-          "totalExitQty": 0,
+          "realizedPnl": 12300,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
           "avgEntry": 1779.4,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 1804,
+          "status": "closed",
           "tradeType": "Overnight",
           "notes": "",
           "entryDateStr": "8/17/26",
@@ -5984,5 +5984,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:53:24.684Z"
+  "updated": "2026-08-18T20:54:21.773Z"
 }
