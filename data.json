@@ -4854,15 +4854,19 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787059524000,
           "exitTime": 1787059819000,
-          "realizedPnl": -18132.170000000002,
-          "totalEntryQty": 3857,
-          "totalExitQty": 3857,
+          "realizedPnl": -21366,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
           "avgEntry": 959.520311122634,
           "avgExit": 964.2214182006747,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNDK_1787085825403",
@@ -5981,7 +5985,11 @@
     "t_SNDK_1787085825402": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_MU_1787085825406": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-18T20:49:58.587Z"
+  "updated": "2026-08-18T20:50:23.234Z"
 }
