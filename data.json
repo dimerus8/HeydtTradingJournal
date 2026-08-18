@@ -4838,10 +4838,10 @@
           "isManual": true,
           "entryTime": 1787059517000,
           "exitTime": 1787059817000,
-          "realizedPnl": -30378,
+          "realizedPnl": -33100,
           "totalEntryQty": 2000,
           "totalExitQty": 2000,
-          "avgEntry": 1679.8622240000002,
+          "avgEntry": 1678.5,
           "avgExit": 1695.049684,
           "status": "closed",
           "tradeType": "Imbal AM",
@@ -5984,5 +5984,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:51:40.067Z"
+  "updated": "2026-08-18T20:53:18.636Z"
 }
