@@ -4803,7 +4803,7 @@
           "realizedPnl": 0,
           "totalEntryQty": 5000,
           "totalExitQty": 5000,
-          "avgEntry": 560.31218,
+          "avgEntry": 568.97,
           "avgExit": 559.3965,
           "status": "closed",
           "tradeType": "Overnight",
@@ -5967,5 +5967,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:45:54.208Z"
+  "updated": "2026-08-18T20:46:03.680Z"
 }
