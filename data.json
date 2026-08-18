@@ -4791,7 +4791,113 @@
       "dateStr": "8/17/26"
     },
     "2026-08-18": {
-      "trades": [],
+      "trades": [
+        {
+          "id": "t_META_1787085825404",
+          "symbol": "META",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787054378000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 560.31218,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_META_1787085825405",
+          "symbol": "META",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787059061000,
+          "exitTime": 1787059507000,
+          "realizedPnl": 13283.190000000171,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 560.396486,
+          "avgExit": 557.7398479999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1787085825402",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787059517000,
+          "exitTime": 1787059817000,
+          "realizedPnl": -18984.325000000033,
+          "totalEntryQty": 1250,
+          "totalExitQty": 1250,
+          "avgEntry": 1679.8622240000002,
+          "avgExit": 1695.049684,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1787085825406",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787059524000,
+          "exitTime": 1787059819000,
+          "realizedPnl": -18132.170000000002,
+          "totalEntryQty": 3857,
+          "totalExitQty": 3857,
+          "avgEntry": 959.520311122634,
+          "avgExit": 964.2214182006747,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1787085825403",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787059817000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 750,
+          "totalExitQty": 0,
+          "avgEntry": 1702.537906666667,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1787085825407",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787059819000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1143,
+          "totalExitQty": 0,
+          "avgEntry": 965.069256342957,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_WBS_1787085825408",
+          "symbol": "WBS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787083210000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 25000,
+          "totalExitQty": 0,
+          "avgEntry": 77.97,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
       "dateStr": "8/18/26"
     }
   },
@@ -5831,7 +5937,19 @@
     "man_SNDK_1787057812733": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "t_MU_1787085416040": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_SNDK_1787085416036": {
+      "tradeType": "Imbal AM",
+      "notes": ""
+    },
+    "t_META_1787085416039": {
+      "tradeType": "Other",
+      "notes": "Unlock"
     }
   },
-  "updated": "2026-08-18T20:36:39.672Z"
+  "updated": "2026-08-18T20:43:45.403Z"
 }
