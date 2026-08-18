@@ -4835,15 +4835,19 @@
           "symbol": "SNDK",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787059517000,
           "exitTime": 1787059817000,
-          "realizedPnl": -18984.325000000033,
-          "totalEntryQty": 1250,
-          "totalExitQty": 1250,
+          "realizedPnl": -30378,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
           "avgEntry": 1679.8622240000002,
           "avgExit": 1695.049684,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1787085825406",
@@ -5973,7 +5977,11 @@
     "t_SNDK_1787085825403": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "t_SNDK_1787085825402": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-18T20:49:15.346Z"
+  "updated": "2026-08-18T20:49:58.587Z"
 }
