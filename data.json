@@ -4795,7 +4795,7 @@
         {
           "id": "t_META_1787085825404",
           "symbol": "META",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": 1787054378000,
@@ -5984,5 +5984,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:54:21.773Z"
+  "updated": "2026-08-18T20:54:40.413Z"
 }
