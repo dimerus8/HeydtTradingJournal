@@ -4865,15 +4865,19 @@
           "symbol": "SNDK",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787059817000,
           "exitTime": null,
           "realizedPnl": 0,
-          "totalEntryQty": 750,
-          "totalExitQty": 0,
-          "avgEntry": 1702.537906666667,
-          "avgExit": 0,
-          "status": "open"
+          "totalEntryQty": 250,
+          "totalExitQty": 250,
+          "avgEntry": 1786,
+          "avgExit": 1703,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "8/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1787085825407",
@@ -5965,7 +5969,11 @@
     "t_META_1787085825405": {
       "tradeType": "Other",
       "notes": "Unlock"
+    },
+    "t_SNDK_1787085825403": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-08-18T20:47:30.112Z"
+  "updated": "2026-08-18T20:48:53.361Z"
 }
