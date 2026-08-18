@@ -4892,7 +4892,7 @@
           "symbol": "WBS",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787083210000,
           "exitTime": null,
           "realizedPnl": 0,
@@ -4900,7 +4900,11 @@
           "totalExitQty": 0,
           "avgEntry": 77.97,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "8/18/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/18/26"
@@ -5974,7 +5978,11 @@
     "t_MU_1787085825406": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_WBS_1787085825408": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-08-18T20:51:25.683Z"
+  "updated": "2026-08-18T20:51:40.067Z"
 }
