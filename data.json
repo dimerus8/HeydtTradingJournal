@@ -4992,15 +4992,19 @@
           "symbol": "SAN",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787152091000,
           "exitTime": 1787152167000,
           "realizedPnl": 69.43799999999742,
           "totalEntryQty": 515330,
-          "totalExitQty": 1630,
+          "totalExitQty": 515330,
           "avgEntry": 12.2366,
           "avgExit": 12.194,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Other",
+          "notes": "",
+          "entryDateStr": "8/19/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MRNA_1787174012032",
@@ -6124,7 +6128,11 @@
     "t_WBS_1787174012035": {
       "tradeType": "Other",
       "notes": ""
+    },
+    "t_SAN_1787174012036": {
+      "tradeType": "Other",
+      "notes": ""
     }
   },
-  "updated": "2026-08-19T21:15:26.805Z"
+  "updated": "2026-08-19T21:15:34.029Z"
 }
