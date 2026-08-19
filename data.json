@@ -5020,7 +5020,7 @@
           "avgEntry": 159.49,
           "avgExit": 168,
           "status": "closed",
-          "tradeType": "Overnight",
+          "tradeType": "Scalp",
           "notes": "",
           "entryDateStr": "8/19/26",
           "exitDateStr": ""
@@ -6142,7 +6142,7 @@
       "notes": ""
     },
     "t_MRNA_1787174012032": {
-      "tradeType": "Overnight",
+      "tradeType": "Scalp",
       "notes": ""
     },
     "t_MRNA_1787174012033": {
@@ -6150,5 +6150,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-19T21:15:55.069Z"
+  "updated": "2026-08-19T21:16:01.141Z"
 }
