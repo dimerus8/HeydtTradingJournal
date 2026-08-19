@@ -4910,7 +4910,114 @@
       "dateStr": "8/18/26"
     },
     "2026-08-19": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MRNA_1787174012030",
+          "symbol": "MRNA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787144968000,
+          "exitTime": 1787145935000,
+          "realizedPnl": 2962.420000000014,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 120.07494666666668,
+          "avgExit": 118.10000000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1787174012034",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787146104000,
+          "exitTime": 1787146220000,
+          "realizedPnl": 20005.61500000001,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 1685.0340899999999,
+          "avgExit": 1665.0284750000003,
+          "status": "closed"
+        },
+        {
+          "id": "t_MRNA_1787174012031",
+          "symbol": "MRNA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787146108000,
+          "exitTime": 1787146300000,
+          "realizedPnl": -6803.355000000001,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 117.57682199999999,
+          "avgExit": 118.93749300000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_WBS_1787174012035",
+          "symbol": "WBS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787152045000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 275000,
+          "totalExitQty": 0,
+          "avgEntry": 77.78503339418192,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SAN_1787174012036",
+          "symbol": "SAN",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787152091000,
+          "exitTime": 1787152167000,
+          "realizedPnl": 69.43799999999742,
+          "totalEntryQty": 515330,
+          "totalExitQty": 1630,
+          "avgEntry": 12.2366,
+          "avgExit": 12.194,
+          "status": "open"
+        },
+        {
+          "id": "t_MRNA_1787174012032",
+          "symbol": "MRNA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787167641000,
+          "exitTime": 1787168373000,
+          "realizedPnl": 2127.5000000000005,
+          "totalEntryQty": 250,
+          "totalExitQty": 250,
+          "avgEntry": 159.49,
+          "avgExit": 168,
+          "status": "closed"
+        },
+        {
+          "id": "t_MRNA_1787174012033",
+          "symbol": "MRNA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787168965000,
+          "exitTime": 1787171317000,
+          "realizedPnl": 49985.18,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 172.575928,
+          "avgExit": 192.57000000000002,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/19/26"
     }
   },
   "annotations": {
@@ -5987,5 +6094,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-18T20:55:57.421Z"
+  "updated": "2026-08-19T21:13:32.031Z"
 }
