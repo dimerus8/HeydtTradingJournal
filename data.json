@@ -4973,7 +4973,7 @@
           "symbol": "WBS",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787152045000,
           "exitTime": null,
           "realizedPnl": 0,
@@ -4981,7 +4981,11 @@
           "totalExitQty": 0,
           "avgEntry": 77.78503339418192,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Other",
+          "notes": "",
+          "entryDateStr": "8/19/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SAN_1787174012036",
@@ -6116,7 +6120,11 @@
     "t_MRNA_1787174012031": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_WBS_1787174012035": {
+      "tradeType": "Other",
+      "notes": ""
     }
   },
-  "updated": "2026-08-19T21:15:15.253Z"
+  "updated": "2026-08-19T21:15:26.805Z"
 }
