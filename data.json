@@ -5030,7 +5030,7 @@
           "symbol": "MRNA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787168965000,
           "exitTime": 1787171317000,
           "realizedPnl": 49985.18,
@@ -5038,7 +5038,11 @@
           "totalExitQty": 2500,
           "avgEntry": 172.575928,
           "avgExit": 192.57000000000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "8/19/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/19/26"
@@ -6140,7 +6144,11 @@
     "t_MRNA_1787174012032": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "t_MRNA_1787174012033": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-08-19T21:15:43.197Z"
+  "updated": "2026-08-19T21:15:55.069Z"
 }
