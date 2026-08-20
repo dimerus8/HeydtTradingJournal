@@ -5048,7 +5048,54 @@
       "dateStr": "8/19/26"
     },
     "2026-08-20": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MRNA_1787257976025",
+          "symbol": "MRNA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787232305000,
+          "exitTime": 1787232600000,
+          "realizedPnl": 20150.920000000006,
+          "totalEntryQty": 8900,
+          "totalExitQty": 8900,
+          "avgEntry": 151.78999101123594,
+          "avgExit": 149.52584269662924,
+          "status": "closed"
+        },
+        {
+          "id": "t_MRNA_1787257976026",
+          "symbol": "MRNA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787232600000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1100,
+          "totalExitQty": 0,
+          "avgEntry": 150,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_WMT_1787257976027",
+          "symbol": "WMT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787255584000,
+          "exitTime": 1787255717000,
+          "realizedPnl": -1621.6949999999892,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 103.98231099999998,
+          "avgExit": 103.82014149999999,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/20/26"
     }
   },
   "annotations": {
@@ -6153,5 +6200,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-19T21:16:08.885Z"
+  "updated": "2026-08-20T20:32:56.026Z"
 }
