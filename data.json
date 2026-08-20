@@ -5054,15 +5054,19 @@
           "symbol": "MRNA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787232305000,
           "exitTime": 1787232600000,
-          "realizedPnl": 20150.920000000006,
-          "totalEntryQty": 8900,
-          "totalExitQty": 8900,
+          "realizedPnl": 26801,
+          "totalEntryQty": 9000,
+          "totalExitQty": 9000,
           "avgEntry": 151.78999101123594,
           "avgExit": 149.52584269662924,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/20/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MRNA_1787257976026",
@@ -6198,7 +6202,11 @@
     "t_MRNA_1787174012033": {
       "tradeType": "Overnight",
       "notes": ""
+    },
+    "t_MRNA_1787257976025": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-20T20:32:56.026Z"
+  "updated": "2026-08-20T20:33:22.599Z"
 }
