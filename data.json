@@ -5069,21 +5069,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_MRNA_1787257976026",
-          "symbol": "MRNA",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787232600000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1100,
-          "totalExitQty": 0,
-          "avgEntry": 150,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_WMT_1787257976027",
           "symbol": "WMT",
           "direction": "LONG",
@@ -6216,5 +6201,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-20T20:33:32.191Z"
+  "updated": "2026-08-20T20:33:37.871Z"
 }
