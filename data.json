@@ -5088,7 +5088,7 @@
           "symbol": "WMT",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787255584000,
           "exitTime": 1787255717000,
           "realizedPnl": -1621.6949999999892,
@@ -5096,7 +5096,11 @@
           "totalExitQty": 10000,
           "avgEntry": 103.98231099999998,
           "avgExit": 103.82014149999999,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "8/20/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/20/26"
@@ -6206,7 +6210,11 @@
     "t_MRNA_1787257976025": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_WMT_1787257976027": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-20T20:33:22.599Z"
+  "updated": "2026-08-20T20:33:32.191Z"
 }
