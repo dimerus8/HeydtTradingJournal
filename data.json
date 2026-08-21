@@ -5091,7 +5091,54 @@
       "dateStr": "8/20/26"
     },
     "2026-08-21": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_UI_1787343499428",
+          "symbol": "UI",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787318668000,
+          "exitTime": 1787318989000,
+          "realizedPnl": -2260.3999999999965,
+          "totalEntryQty": 400,
+          "totalExitQty": 400,
+          "avgEntry": 593.1775,
+          "avgExit": 598.8285,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSTR_1787343499429",
+          "symbol": "MSTR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787318701000,
+          "exitTime": 1787319021000,
+          "realizedPnl": 15085.605000000029,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 120.01991999999994,
+          "avgExit": 118.51135949999997,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCXI1826145.000_1787343499430",
+          "symbol": "SPCXI1826145.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787325864000,
+          "exitTime": 1787334082000,
+          "realizedPnl": 0.1999999999999984,
+          "totalEntryQty": 25,
+          "totalExitQty": 25,
+          "avgEntry": 5.82,
+          "avgExit": 5.828,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/21/26"
     }
   },
   "annotations": {
@@ -5312,7 +5359,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "Overnight",
+      "tradeType": "MSCI Sell",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -6204,5 +6251,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-20T20:34:31.264Z"
+  "updated": "2026-08-21T20:18:19.429Z"
 }
