@@ -5112,7 +5112,7 @@
           "symbol": "MSTR",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787318701000,
           "exitTime": 1787319021000,
           "realizedPnl": 15085.605000000029,
@@ -5120,7 +5120,11 @@
           "totalExitQty": 10000,
           "avgEntry": 120.01991999999994,
           "avgExit": 118.51135949999997,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "8/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCXI1826145.000_1787343499430",
@@ -6249,7 +6253,11 @@
     "t_WMT_1787257976027": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MSTR_1787343499429": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-08-21T20:18:19.429Z"
+  "updated": "2026-08-21T20:18:39.952Z"
 }
