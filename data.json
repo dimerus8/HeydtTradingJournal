@@ -5097,7 +5097,7 @@
           "symbol": "UI",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787318668000,
           "exitTime": 1787318989000,
           "realizedPnl": -2260.3999999999965,
@@ -5105,7 +5105,11 @@
           "totalExitQty": 400,
           "avgEntry": 593.1775,
           "avgExit": 598.8285,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSTR_1787343499429",
@@ -6257,7 +6261,11 @@
     "t_MSTR_1787343499429": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_UI_1787343499428": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-21T20:18:39.952Z"
+  "updated": "2026-08-21T20:18:44.681Z"
 }
