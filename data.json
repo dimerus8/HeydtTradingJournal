@@ -5370,7 +5370,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -6270,5 +6270,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-21T20:18:49.993Z"
+  "updated": "2026-08-25T18:40:41.240Z"
 }
