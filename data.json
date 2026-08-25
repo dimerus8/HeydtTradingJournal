@@ -5152,7 +5152,54 @@
       "trades": []
     },
     "2026-08-25": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MSTR_1787689182337",
+          "symbol": "MSTR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787663108000,
+          "exitTime": 1787664643000,
+          "realizedPnl": -2485.039999999999,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 119.97785500000003,
+          "avgExit": 120.226359,
+          "status": "closed"
+        },
+        {
+          "id": "t_DKS_1787689182338",
+          "symbol": "DKS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787664114000,
+          "exitTime": 1787664490000,
+          "realizedPnl": -768.1399999999999,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 142,
+          "avgExit": 142.76814,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1787689182339",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787664375000,
+          "exitTime": 1787664616000,
+          "realizedPnl": 7579.140000000016,
+          "totalEntryQty": 750,
+          "totalExitQty": 750,
+          "avgEntry": 1539.9834799999999,
+          "avgExit": 1529.87796,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/25/26"
     }
   },
   "annotations": {
@@ -6273,5 +6320,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-25T20:19:39.204Z"
+  "updated": "2026-08-25T20:19:42.340Z"
 }
