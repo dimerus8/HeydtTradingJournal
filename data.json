@@ -5158,7 +5158,7 @@
           "symbol": "MSTR",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787663108000,
           "exitTime": 1787664643000,
           "realizedPnl": -2485.039999999999,
@@ -5166,7 +5166,11 @@
           "totalExitQty": 10000,
           "avgEntry": 119.97785500000003,
           "avgExit": 120.226359,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "8/25/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_DKS_1787689182338",
@@ -6326,7 +6330,11 @@
     "t_SNDK_1787689182339": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_MSTR_1787689182337": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-08-25T20:19:50.494Z"
+  "updated": "2026-08-25T20:19:54.731Z"
 }
