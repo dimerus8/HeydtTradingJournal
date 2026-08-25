@@ -5177,7 +5177,7 @@
           "symbol": "DKS",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787664114000,
           "exitTime": 1787664490000,
           "realizedPnl": -768.1399999999999,
@@ -5185,7 +5185,11 @@
           "totalExitQty": 1000,
           "avgEntry": 142,
           "avgExit": 142.76814,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/25/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNDK_1787689182339",
@@ -6334,7 +6338,11 @@
     "t_MSTR_1787689182337": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_DKS_1787689182338": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-25T20:19:54.731Z"
+  "updated": "2026-08-25T20:19:59.219Z"
 }
