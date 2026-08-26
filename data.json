@@ -5153,17 +5153,17 @@
         {
           "id": "man_MSTR_1787756258941",
           "symbol": "MSTR",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": null,
           "exitTime": null,
           "realizedPnl": -7436,
-          "totalEntryQty": 0,
-          "totalExitQty": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
           "avgEntry": 1,
           "avgExit": 1,
-          "status": "open",
+          "status": "closed",
           "tradeType": "Off Open Green",
           "notes": "",
           "entryDateStr": "8/24/26",
@@ -6371,5 +6371,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-26T14:57:38.941Z"
+  "updated": "2026-08-26T14:57:49.605Z"
 }
