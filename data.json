@@ -5149,7 +5149,27 @@
       "dateStr": "8/21/26"
     },
     "2026-08-24": {
-      "trades": []
+      "trades": [
+        {
+          "id": "man_MSTR_1787756258941",
+          "symbol": "MSTR",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -7436,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 1,
+          "avgExit": 1,
+          "status": "open",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "8/24/26",
+          "exitDateStr": ""
+        }
+      ]
     },
     "2026-08-25": {
       "trades": [
@@ -6345,7 +6365,11 @@
     "t_DKS_1787689182338": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "man_MSTR_1787756258941": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-08-26T14:57:15.781Z"
+  "updated": "2026-08-26T14:57:38.941Z"
 }
