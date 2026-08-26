@@ -5255,7 +5255,7 @@
           "symbol": "OKTA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787774396000,
           "exitTime": 1787774400000,
           "realizedPnl": 4290.600000000101,
@@ -5263,7 +5263,11 @@
           "totalExitQty": 10000,
           "avgEntry": 134.84906,
           "avgExit": 134.42,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "8/26/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/26/26"
@@ -6401,7 +6405,11 @@
     "man_MSTR_1787756258941": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_OKTA_1787775546774": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-26T20:19:06.774Z"
+  "updated": "2026-08-26T20:19:40.970Z"
 }
