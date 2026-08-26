@@ -5234,7 +5234,39 @@
       "dateStr": "8/25/26"
     },
     "2026-08-26": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_META_1787775546773",
+          "symbol": "META",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787750895000,
+          "exitTime": 1787751023000,
+          "realizedPnl": 3025.660000000004,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 591.62425,
+          "avgExit": 590.8678349999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_OKTA_1787775546774",
+          "symbol": "OKTA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787774396000,
+          "exitTime": 1787774400000,
+          "realizedPnl": 4290.600000000101,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 134.84906,
+          "avgExit": 134.42,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/26/26"
     }
   },
   "annotations": {
@@ -6371,5 +6403,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-26T14:57:53.605Z"
+  "updated": "2026-08-26T20:19:06.774Z"
 }
