@@ -5340,7 +5340,7 @@
           "symbol": "SMJF",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787845207000,
           "exitTime": 1787846452000,
           "realizedPnl": 9500,
@@ -5348,7 +5348,11 @@
           "totalExitQty": 10000,
           "avgEntry": 1,
           "avgExit": 1.95,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Halt",
+          "notes": "",
+          "entryDateStr": "8/27/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/27/26"
@@ -6506,7 +6510,11 @@
     "t_NVDA_1787861727322": {
       "tradeType": "Imbal AM",
       "notes": "cut this first"
+    },
+    "t_SMJF_1787861727328": {
+      "tradeType": "Halt",
+      "notes": ""
     }
   },
-  "updated": "2026-08-27T20:17:37.381Z"
+  "updated": "2026-08-27T20:17:51.719Z"
 }
