@@ -5277,7 +5277,113 @@
       "dateStr": "8/26/26"
     },
     "2026-08-27": {
-      "trades": [],
+      "trades": [
+        {
+          "id": "t_NVDA_1787861727322",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787836593000,
+          "exitTime": 1787837118000,
+          "realizedPnl": -2962.5800000000086,
+          "totalEntryQty": 12500,
+          "totalExitQty": 12500,
+          "avgEntry": 223.09175280000008,
+          "avgExit": 223.32875920000006,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1787861727323",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837152000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 12139,
+          "totalExitQty": 0,
+          "avgEntry": 222.03935002883284,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_OKTA_1787861727326",
+          "symbol": "OKTA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837261000,
+          "exitTime": 1787837400000,
+          "realizedPnl": -2284.3899999999962,
+          "totalEntryQty": 2473,
+          "totalExitQty": 1423,
+          "avgEntry": 168.37322280630812,
+          "avgExit": 166.12775825720306,
+          "status": "open"
+        },
+        {
+          "id": "t_OKTA_1787861727327",
+          "symbol": "OKTA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837299000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1050,
+          "totalExitQty": 0,
+          "avgEntry": 166.12142857142857,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NVDA_1787861727324",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837311000,
+          "exitTime": 1787837401000,
+          "realizedPnl": 5346.93000000005,
+          "totalEntryQty": 5361,
+          "totalExitQty": 5361,
+          "avgEntry": 222.61914941242284,
+          "avgExit": 221.62177392277576,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1787861727325",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837402000,
+          "exitTime": 1787837413000,
+          "realizedPnl": -124.54499999999959,
+          "totalEntryQty": 10000,
+          "totalExitQty": 361,
+          "avgEntry": 222.94,
+          "avgExit": 223.285,
+          "status": "open"
+        },
+        {
+          "id": "t_SMJF_1787861727328",
+          "symbol": "SMJF",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787845207000,
+          "exitTime": 1787846452000,
+          "realizedPnl": 9500,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 1,
+          "avgExit": 1.95,
+          "status": "closed"
+        }
+      ],
       "dateStr": "8/27/26"
     }
   },
@@ -6423,5 +6529,5 @@
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
     }
   },
-  "updated": "2026-08-27T20:15:05.762Z"
+  "updated": "2026-08-27T20:15:27.328Z"
 }
