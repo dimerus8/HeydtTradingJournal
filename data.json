@@ -5298,15 +5298,19 @@
           "symbol": "OKTA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787837261000,
           "exitTime": 1787837400000,
-          "realizedPnl": -2284.3899999999962,
+          "realizedPnl": -5560,
           "totalEntryQty": 2473,
-          "totalExitQty": 1423,
+          "totalExitQty": 2473,
           "avgEntry": 168.37322280630812,
           "avgExit": 166.12775825720306,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "8/27/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1787861727324",
@@ -6497,7 +6501,11 @@
     "t_META_1787775546773": {
       "tradeType": "Off Open Green",
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
+    },
+    "t_OKTA_1787861727326": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-27T20:16:09.748Z"
+  "updated": "2026-08-27T20:16:24.917Z"
 }
