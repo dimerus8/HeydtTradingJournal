@@ -5279,21 +5279,6 @@
     "2026-08-27": {
       "trades": [
         {
-          "id": "t_NVDA_1787861633951",
-          "symbol": "NVDA",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787837348000,
-          "exitTime": 1787837407000,
-          "realizedPnl": 194.0000000000083,
-          "totalEntryQty": 1000,
-          "totalExitQty": 1000,
-          "avgEntry": 222.572,
-          "avgExit": 222.378,
-          "status": "closed"
-        },
-        {
           "id": "t_HPQ_1787861633952",
           "symbol": "HPQ",
           "direction": "LONG",
@@ -6514,5 +6499,5 @@
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
     }
   },
-  "updated": "2026-08-27T20:14:16.171Z"
+  "updated": "2026-08-27T20:14:18.451Z"
 }
