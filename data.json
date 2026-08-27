@@ -5309,21 +5309,6 @@
           "status": "open"
         },
         {
-          "id": "t_OKTA_1787861727327",
-          "symbol": "OKTA",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787837299000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1050,
-          "totalExitQty": 0,
-          "avgEntry": 166.12142857142857,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_NVDA_1787861727324",
           "symbol": "NVDA",
           "direction": "SHORT",
@@ -6514,5 +6499,5 @@
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
     }
   },
-  "updated": "2026-08-27T20:15:55.741Z"
+  "updated": "2026-08-27T20:16:09.748Z"
 }
