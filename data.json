@@ -5279,21 +5279,6 @@
     "2026-08-27": {
       "trades": [
         {
-          "id": "t_HPQ_1787861633952",
-          "symbol": "HPQ",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787837449000,
-          "exitTime": 1787837456000,
-          "realizedPnl": -662.9199999999976,
-          "totalEntryQty": 3500,
-          "totalExitQty": 3500,
-          "avgEntry": 27.25,
-          "avgExit": 27.060594285714295,
-          "status": "closed"
-        },
-        {
           "id": "t_SMJF_1787861633953",
           "symbol": "SMJF",
           "direction": "LONG",
@@ -6499,5 +6484,5 @@
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
     }
   },
-  "updated": "2026-08-27T20:14:18.451Z"
+  "updated": "2026-08-27T20:14:21.324Z"
 }
