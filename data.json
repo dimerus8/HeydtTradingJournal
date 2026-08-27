@@ -5279,21 +5279,6 @@
     "2026-08-27": {
       "trades": [
         {
-          "id": "t_MU_1787861633950",
-          "symbol": "MU",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787860639000,
-          "exitTime": 1787860740000,
-          "realizedPnl": -366.49999999999636,
-          "totalEntryQty": 200,
-          "totalExitQty": 200,
-          "avgEntry": 937.76,
-          "avgExit": 935.9275,
-          "status": "closed"
-        },
-        {
           "id": "t_CRM_1787861633955",
           "symbol": "CRM",
           "direction": "LONG",
@@ -6454,5 +6439,5 @@
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
     }
   },
-  "updated": "2026-08-27T20:14:26.059Z"
+  "updated": "2026-08-27T20:14:28.450Z"
 }
