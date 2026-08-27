@@ -5279,21 +5279,6 @@
     "2026-08-27": {
       "trades": [
         {
-          "id": "t_SHEL_1787861633954",
-          "symbol": "SHEL",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1787847187000,
-          "exitTime": 1787851864000,
-          "realizedPnl": -1109.9799999999955,
-          "totalEntryQty": 2500,
-          "totalExitQty": 2500,
-          "avgEntry": 90.1778,
-          "avgExit": 90.621792,
-          "status": "closed"
-        },
-        {
           "id": "t_MU_1787861633950",
           "symbol": "MU",
           "direction": "LONG",
@@ -6469,5 +6454,5 @@
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
     }
   },
-  "updated": "2026-08-27T20:14:23.562Z"
+  "updated": "2026-08-27T20:14:26.059Z"
 }
