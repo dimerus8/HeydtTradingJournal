@@ -5277,7 +5277,113 @@
       "dateStr": "8/26/26"
     },
     "2026-08-27": {
-      "trades": [],
+      "trades": [
+        {
+          "id": "t_MU_1787861678620",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837289000,
+          "exitTime": 1787837405000,
+          "realizedPnl": 558.929999999999,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 966.7996499999999,
+          "avgExit": 964.005,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1787861678622",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837348000,
+          "exitTime": 1787837407000,
+          "realizedPnl": 194.0000000000083,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 222.572,
+          "avgExit": 222.378,
+          "status": "closed"
+        },
+        {
+          "id": "t_HPQ_1787861678623",
+          "symbol": "HPQ",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787837449000,
+          "exitTime": 1787837456000,
+          "realizedPnl": -662.9199999999976,
+          "totalEntryQty": 3500,
+          "totalExitQty": 3500,
+          "avgEntry": 27.25,
+          "avgExit": 27.060594285714295,
+          "status": "closed"
+        },
+        {
+          "id": "t_SMJF_1787861678624",
+          "symbol": "SMJF",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787845207000,
+          "exitTime": 1787847170000,
+          "realizedPnl": 1992.0599999999997,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 1,
+          "avgExit": 1.3984120000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_SHEL_1787861678625",
+          "symbol": "SHEL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787847187000,
+          "exitTime": 1787851864000,
+          "realizedPnl": -1109.9799999999955,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 90.1778,
+          "avgExit": 90.621792,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1787861678621",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787860639000,
+          "exitTime": 1787860740000,
+          "realizedPnl": -366.49999999999636,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 937.76,
+          "avgExit": 935.9275,
+          "status": "closed"
+        },
+        {
+          "id": "t_CRM_1787861678626",
+          "symbol": "CRM",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787860806000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 500,
+          "totalExitQty": 0,
+          "avgEntry": 252.05,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
       "dateStr": "8/27/26"
     }
   },
@@ -6423,5 +6529,5 @@
       "notes": "Imbal for sale, paired and choppy. hold good fade stats plus 1 min"
     }
   },
-  "updated": "2026-08-27T20:14:32.205Z"
+  "updated": "2026-08-27T20:14:38.622Z"
 }
