@@ -5411,7 +5411,7 @@
           "avgEntry": 5290,
           "avgExit": 5290,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "MSCI Sell",
           "notes": "flipped long off sunb print wr",
           "entryDateStr": "8/28/26",
           "exitDateStr": ""
@@ -6639,9 +6639,9 @@
       "notes": "wrong way"
     },
     "t_SUNB_1787948180207": {
-      "tradeType": "",
+      "tradeType": "MSCI Sell",
       "notes": "flipped long off sunb print wr"
     }
   },
-  "updated": "2026-08-28T20:19:16.299Z"
+  "updated": "2026-08-28T20:19:22.315Z"
 }
