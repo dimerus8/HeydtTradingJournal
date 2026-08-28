@@ -5432,7 +5432,7 @@
           "symbol": "SUNB",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787931355000,
           "exitTime": 1787944830000,
           "realizedPnl": -9701.999999999833,
@@ -5440,7 +5440,11 @@
           "totalExitQty": 25000,
           "avgEntry": 73.27192000000001,
           "avgExit": 73.66,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "MSCI Sell",
+          "notes": "wrong way",
+          "entryDateStr": "8/28/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_IREN_1787948180210",
@@ -6625,7 +6629,11 @@
     "t_CRM_1787948180206": {
       "tradeType": "Unlock",
       "notes": ""
+    },
+    "t_SUNB_1787948180209": {
+      "tradeType": "MSCI Sell",
+      "notes": "wrong way"
     }
   },
-  "updated": "2026-08-28T20:17:09.298Z"
+  "updated": "2026-08-28T20:17:28.137Z"
 }
