@@ -5358,7 +5358,99 @@
       "dateStr": "8/27/26"
     },
     "2026-08-28": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_CRM_1787948180205",
+          "symbol": "CRM",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787918415000,
+          "exitTime": 1787923696000,
+          "realizedPnl": -568.6000000000271,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 249.78732250000002,
+          "avgExit": 249.92947249999995,
+          "status": "closed"
+        },
+        {
+          "id": "t_CRM_1787948180206",
+          "symbol": "CRM",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787923805000,
+          "exitTime": 1787923818000,
+          "realizedPnl": 7899.9999999999145,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 250.12,
+          "avgExit": 251.6999999999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_SUNB_1787948180207",
+          "symbol": "SUNB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787926524000,
+          "exitTime": 1787930199000,
+          "realizedPnl": 0,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 5290,
+          "avgExit": 5290,
+          "status": "closed"
+        },
+        {
+          "id": "t_SUNB_1787948180208",
+          "symbol": "SUNB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787931328000,
+          "exitTime": 1787944830000,
+          "realizedPnl": 750000,
+          "totalEntryQty": 40000,
+          "totalExitQty": 25000,
+          "avgEntry": 5330,
+          "avgExit": 5360,
+          "status": "open"
+        },
+        {
+          "id": "t_SUNB_1787948180209",
+          "symbol": "SUNB",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787931355000,
+          "exitTime": 1787944830000,
+          "realizedPnl": -9701.999999999833,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 73.27192000000001,
+          "avgExit": 73.66,
+          "status": "closed"
+        },
+        {
+          "id": "t_IREN_1787948180210",
+          "symbol": "IREN",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1787946681000,
+          "exitTime": 1787946774000,
+          "realizedPnl": -2132.8299999999963,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 35.6681,
+          "avgExit": 35.454817,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/28/26"
     }
   },
   "annotations": {
@@ -6519,5 +6611,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-28T12:22:41.065Z"
+  "updated": "2026-08-28T20:16:20.206Z"
 }
