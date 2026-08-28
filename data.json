@@ -5383,7 +5383,7 @@
           "symbol": "CRM",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787923805000,
           "exitTime": 1787923818000,
           "realizedPnl": 7899.9999999999145,
@@ -5391,7 +5391,11 @@
           "totalExitQty": 5000,
           "avgEntry": 250.12,
           "avgExit": 251.6999999999999,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Unlock",
+          "notes": "",
+          "entryDateStr": "8/28/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SUNB_1787948180207",
@@ -6617,7 +6621,11 @@
     "t_CRM_1787948180205": {
       "tradeType": "Unlock",
       "notes": ""
+    },
+    "t_CRM_1787948180206": {
+      "tradeType": "Unlock",
+      "notes": ""
     }
   },
-  "updated": "2026-08-28T20:17:03.353Z"
+  "updated": "2026-08-28T20:17:09.298Z"
 }
