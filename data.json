@@ -5402,15 +5402,19 @@
           "symbol": "SUNB",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787926524000,
           "exitTime": 1787930199000,
-          "realizedPnl": 0,
+          "realizedPnl": 20374,
           "totalEntryQty": 2500,
           "totalExitQty": 2500,
           "avgEntry": 5290,
           "avgExit": 5290,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "flipped long off sunb print wr",
+          "entryDateStr": "8/28/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SUNB_1787948180208",
@@ -6633,7 +6637,11 @@
     "t_SUNB_1787948180209": {
       "tradeType": "MSCI Sell",
       "notes": "wrong way"
+    },
+    "t_SUNB_1787948180207": {
+      "tradeType": "",
+      "notes": "flipped long off sunb print wr"
     }
   },
-  "updated": "2026-08-28T20:17:28.137Z"
+  "updated": "2026-08-28T20:19:16.299Z"
 }
