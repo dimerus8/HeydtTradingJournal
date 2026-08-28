@@ -5440,7 +5440,7 @@
           "symbol": "IREN",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1787946681000,
           "exitTime": 1787946774000,
           "realizedPnl": -2132.8299999999963,
@@ -5448,7 +5448,11 @@
           "totalExitQty": 10000,
           "avgEntry": 35.6681,
           "avgExit": 35.454817,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "8/28/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "8/28/26"
@@ -6626,7 +6630,11 @@
     "t_SUNB_1787948180207": {
       "tradeType": "MSCI Sell",
       "notes": "flipped long off sunb print wr"
+    },
+    "t_IREN_1787948180210": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-08-28T20:19:27.251Z"
+  "updated": "2026-08-28T20:19:31.941Z"
 }
