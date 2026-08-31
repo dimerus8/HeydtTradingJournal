@@ -5458,7 +5458,99 @@
       "dateStr": "8/28/26"
     },
     "2026-08-31": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_ESTC_1788207389321",
+          "symbol": "ESTC",
+          "direction": "SHORT",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1788181526000,
+          "exitTime": 1788183001000,
+          "realizedPnl": -1021.9700000000046,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 97.501,
+          "avgExit": 98.52296999999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNDK_1788207389322",
+          "symbol": "SNDK",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788197810000,
+          "exitTime": 1788205882000,
+          "realizedPnl": 105646.616,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 1481.673661,
+          "avgExit": 1508.085315,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSFT_1788207389324",
+          "symbol": "MSFT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788204342000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 510.0600000000001,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MSFTH3126512.500_1788207389326",
+          "symbol": "MSFTH3126512.500",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788204359000,
+          "exitTime": 1788205862000,
+          "realizedPnl": -14.999999999999996,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 0.125,
+          "avgExit": 0.05,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSFT_1788207389325",
+          "symbol": "MSFT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788205812000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 509.1428870000001,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SNDK_1788207389323",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788206400000,
+          "exitTime": 1788206488000,
+          "realizedPnl": 1200.0000000000455,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 1566.7,
+          "avgExit": 1564.3,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "8/31/26"
     }
   },
   "annotations": {
@@ -6639,5 +6731,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-08-28T20:19:36.541Z"
+  "updated": "2026-08-31T20:16:29.323Z"
 }
