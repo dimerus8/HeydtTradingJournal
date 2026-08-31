@@ -5479,7 +5479,7 @@
           "symbol": "SNDK",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788197810000,
           "exitTime": 1788205882000,
           "realizedPnl": 105646.616,
@@ -5487,7 +5487,11 @@
           "totalExitQty": 4000,
           "avgEntry": 1481.673661,
           "avgExit": 1508.085315,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "MSCI Buy",
+          "notes": "",
+          "entryDateStr": "8/31/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSFT_1788207389324",
@@ -6737,7 +6741,11 @@
     "t_MSFT_1788207389324": {
       "tradeType": "MSCI Buy",
       "notes": ""
+    },
+    "t_SNDK_1788207389322": {
+      "tradeType": "MSCI Buy",
+      "notes": ""
     }
   },
-  "updated": "2026-08-31T20:16:51.846Z"
+  "updated": "2026-08-31T20:16:57.189Z"
 }
