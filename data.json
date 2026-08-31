@@ -5494,15 +5494,19 @@
           "symbol": "MSFT",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788204342000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -4586,
           "totalEntryQty": 5000,
           "totalExitQty": 0,
           "avgEntry": 510.0600000000001,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "MSCI Buy",
+          "notes": "",
+          "entryDateStr": "8/31/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSFTH3126512.500_1788207389326",
@@ -6729,7 +6733,11 @@
     "t_IREN_1787948180210": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MSFT_1788207389324": {
+      "tradeType": "MSCI Buy",
+      "notes": ""
     }
   },
-  "updated": "2026-08-31T20:16:29.323Z"
+  "updated": "2026-08-31T20:16:51.846Z"
 }
