@@ -5532,15 +5532,19 @@
           "symbol": "MSFT",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788205812000,
           "exitTime": null,
           "realizedPnl": 0,
           "totalEntryQty": 5000,
-          "totalExitQty": 0,
+          "totalExitQty": 5000,
           "avgEntry": 509.1428870000001,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "8/31/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNDK_1788207389323",
@@ -6753,7 +6757,11 @@
     "t_SNDK_1788207389323": {
       "tradeType": "MSCI Buy",
       "notes": "short backend"
+    },
+    "t_MSFT_1788207389325": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-08-31T20:17:16.430Z"
+  "updated": "2026-08-31T20:17:38.480Z"
 }
