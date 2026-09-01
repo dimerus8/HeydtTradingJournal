@@ -5570,6 +5570,71 @@
     },
     "2026-09-01": {
       "trades": []
+    },
+    "NaN-NaN-NaN": {
+      "trades": [
+        {
+          "id": "t_34.2464_1788293250099",
+          "symbol": "34.2464",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 250000,
+          "totalExitQty": 0,
+          "avgEntry": 34.2484,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_206.5343_1788293250100",
+          "symbol": "206.5343",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 206.5343,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_206.63_1788293250101",
+          "symbol": "206.63",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 206.63,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_3432.50_1788293250102",
+          "symbol": "3432.50",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 40000,
+          "totalExitQty": 0,
+          "avgEntry": 3432.5,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "ARX"
     }
   },
   "annotations": {
@@ -6766,5 +6831,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-01T20:07:22.853Z"
+  "updated": "2026-09-01T20:07:30.100Z"
 }
