@@ -5569,7 +5569,54 @@
       "dateStr": "8/31/26"
     },
     "2026-09-01": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1788293269628",
+          "symbol": "SHEL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788276900000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 40000,
+          "totalExitQty": 0,
+          "avgEntry": 3432.5,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ARX.T_1788293269629",
+          "symbol": "ARX.T",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788277917000,
+          "exitTime": 1788292557000,
+          "realizedPnl": -3938.9999999998704,
+          "totalEntryQty": 250000,
+          "totalExitQty": 50000,
+          "avgEntry": 34.246426,
+          "avgExit": 34.12806,
+          "status": "open"
+        },
+        {
+          "id": "t_CRDO_1788293269630",
+          "symbol": "CRDO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788292607000,
+          "exitTime": 1788292801000,
+          "realizedPnl": -191.31499999998954,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 206.5343425,
+          "avgExit": 206.63000000000002,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "9/1/26"
     },
     "NaN-NaN-NaN": {
       "trades": [
@@ -6831,5 +6878,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-01T20:07:30.100Z"
+  "updated": "2026-09-01T20:07:49.629Z"
 }
