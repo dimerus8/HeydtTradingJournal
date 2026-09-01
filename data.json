@@ -5590,15 +5590,19 @@
           "symbol": "ARX.T",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788277917000,
           "exitTime": 1788292557000,
-          "realizedPnl": -3938.9999999998704,
+          "realizedPnl": -12876,
           "totalEntryQty": 250000,
-          "totalExitQty": 50000,
+          "totalExitQty": 250000,
           "avgEntry": 34.246426,
           "avgExit": 34.12806,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "9/1/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_CRDO_1788293269630",
@@ -6876,7 +6880,11 @@
     "t_MSFT_1788207389325": {
       "tradeType": "",
       "notes": ""
+    },
+    "t_ARX.T_1788293269629": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-09-01T20:07:49.629Z"
+  "updated": "2026-09-01T20:08:10.779Z"
 }
