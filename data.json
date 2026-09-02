@@ -5663,7 +5663,7 @@
           "symbol": "MDB",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788355501000,
           "exitTime": 1788355801000,
           "realizedPnl": 14446.540000000108,
@@ -5671,7 +5671,11 @@
           "totalExitQty": 3000,
           "avgEntry": 382.8455133333334,
           "avgExit": 378.02999999999975,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/2/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ARX.T_1788379843940",
@@ -6892,7 +6896,11 @@
     "t_DELL_1788379843938": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_MDB_1788379843939": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-02T20:11:20.480Z"
+  "updated": "2026-09-02T20:11:27.015Z"
 }
