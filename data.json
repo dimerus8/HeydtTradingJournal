@@ -5629,7 +5629,7 @@
           "symbol": "SHEL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788350502000,
           "exitTime": null,
           "realizedPnl": 0,
@@ -5637,7 +5637,11 @@
           "totalExitQty": 0,
           "avgEntry": 3442.3443410852715,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Deal Close",
+          "notes": "",
+          "entryDateStr": "9/2/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_DELL_1788379843938",
@@ -6900,7 +6904,11 @@
     "t_MDB_1788379843939": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_SHEL_1788379843937": {
+      "tradeType": "Deal Close",
+      "notes": ""
     }
   },
-  "updated": "2026-09-02T20:11:27.015Z"
+  "updated": "2026-09-02T20:12:01.840Z"
 }
