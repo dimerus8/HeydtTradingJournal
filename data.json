@@ -5623,7 +5623,69 @@
       "dateStr": "9/1/2026"
     },
     "2026-09-02": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1788379843937",
+          "symbol": "SHEL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788350502000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 161250,
+          "totalExitQty": 0,
+          "avgEntry": 3442.3443410852715,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_DELL_1788379843938",
+          "symbol": "DELL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788354779000,
+          "exitTime": 1788355779000,
+          "realizedPnl": -2154.6799999999985,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 466.94976,
+          "avgExit": 462.6404,
+          "status": "closed"
+        },
+        {
+          "id": "t_MDB_1788379843939",
+          "symbol": "MDB",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788355501000,
+          "exitTime": 1788355801000,
+          "realizedPnl": 14446.540000000108,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 382.8455133333334,
+          "avgExit": 378.02999999999975,
+          "status": "closed"
+        },
+        {
+          "id": "t_ARX.T_1788379843940",
+          "symbol": "ARX.T",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788363095000,
+          "exitTime": 1788378966000,
+          "realizedPnl": -4475.000000000044,
+          "totalEntryQty": 325000,
+          "totalExitQty": 25000,
+          "avgEntry": 33.995955384615385,
+          "avgExit": 33.83148,
+          "status": "open"
+        }
+      ],
+      "dateStr": "9/2/26"
     }
   },
   "annotations": {
@@ -6824,5 +6886,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-01T20:12:40.373Z"
+  "updated": "2026-09-02T20:10:43.939Z"
 }
