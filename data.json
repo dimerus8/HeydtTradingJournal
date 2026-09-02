@@ -5686,15 +5686,19 @@
           "symbol": "ARX.T",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788363095000,
           "exitTime": 1788378966000,
           "realizedPnl": -4475.000000000044,
           "totalEntryQty": 325000,
-          "totalExitQty": 25000,
+          "totalExitQty": 325000,
           "avgEntry": 33.995955384615385,
           "avgExit": 33.83148,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Deal Close",
+          "notes": "",
+          "entryDateStr": "9/2/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/2/26"
@@ -6908,7 +6912,11 @@
     "t_SHEL_1788379843937": {
       "tradeType": "Deal Close",
       "notes": ""
+    },
+    "t_ARX.T_1788379843940": {
+      "tradeType": "Deal Close",
+      "notes": ""
     }
   },
-  "updated": "2026-09-02T20:12:01.840Z"
+  "updated": "2026-09-02T20:12:06.480Z"
 }
