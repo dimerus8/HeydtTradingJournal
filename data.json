@@ -5748,7 +5748,7 @@
           "symbol": "SNOW",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788442195000,
           "exitTime": 1788442318000,
           "realizedPnl": -484.95000000001613,
@@ -5756,7 +5756,11 @@
           "totalExitQty": 1000,
           "avgEntry": 376.23424,
           "avgExit": 376.71919000000014,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "9/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_HPE_1788466942873",
@@ -7012,7 +7016,11 @@
     "t_HPE_1788466942872": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_SNOW_1788466942875": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-09-03T20:22:38.439Z"
+  "updated": "2026-09-03T20:22:55.383Z"
 }
