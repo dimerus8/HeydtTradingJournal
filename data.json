@@ -5710,7 +5710,7 @@
           "symbol": "AVGO",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788440996000,
           "exitTime": 1788442248000,
           "realizedPnl": 8223.740000000027,
@@ -5718,7 +5718,11 @@
           "totalExitQty": 3000,
           "avgEntry": 354.50683333333325,
           "avgExit": 351.76558666666637,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "9/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_HPE_1788466942872",
@@ -6996,7 +7000,11 @@
     "t_ARX.T_1788379843940": {
       "tradeType": "Deal Close",
       "notes": ""
+    },
+    "t_AVGO_1788466942871": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-09-03T20:22:22.873Z"
+  "updated": "2026-09-03T20:22:29.958Z"
 }
