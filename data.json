@@ -5776,21 +5776,6 @@
           "avgEntry": 54.589079000000005,
           "avgExit": 0,
           "status": "open"
-        },
-        {
-          "id": "t_HPE_1788466942874",
-          "symbol": "HPE",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1788465832000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 5000,
-          "totalExitQty": 0,
-          "avgEntry": 54.44,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "9/3/26"
@@ -7022,5 +7007,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-03T20:22:55.383Z"
+  "updated": "2026-09-03T20:23:36.385Z"
 }
