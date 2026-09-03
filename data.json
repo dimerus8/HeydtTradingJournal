@@ -5729,7 +5729,7 @@
           "symbol": "HPE",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788441963000,
           "exitTime": 1788442439000,
           "realizedPnl": 3765.5500000000015,
@@ -5737,7 +5737,11 @@
           "totalExitQty": 3000,
           "avgEntry": 47.57097333333333,
           "avgExit": 46.31579,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SNOW_1788466942875",
@@ -7004,7 +7008,11 @@
     "t_AVGO_1788466942871": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_HPE_1788466942872": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-03T20:22:29.958Z"
+  "updated": "2026-09-03T20:22:38.439Z"
 }
