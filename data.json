@@ -5767,15 +5767,19 @@
           "symbol": "HPE",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788465531000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -438,
           "totalEntryQty": 5000,
-          "totalExitQty": 0,
+          "totalExitQty": 5000,
           "avgEntry": 54.589079000000005,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "9/3/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/3/26"
@@ -7005,7 +7009,11 @@
     "t_SNOW_1788466942875": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_HPE_1788466942873": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-03T20:23:45.992Z"
+  "updated": "2026-09-03T20:24:00.082Z"
 }
