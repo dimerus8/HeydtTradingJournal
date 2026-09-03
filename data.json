@@ -5704,7 +5704,84 @@
       "dateStr": "9/2/26"
     },
     "2026-09-03": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_AVGO_1788466942871",
+          "symbol": "AVGO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788440996000,
+          "exitTime": 1788442248000,
+          "realizedPnl": 8223.740000000027,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 354.50683333333325,
+          "avgExit": 351.76558666666637,
+          "status": "closed"
+        },
+        {
+          "id": "t_HPE_1788466942872",
+          "symbol": "HPE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788441963000,
+          "exitTime": 1788442439000,
+          "realizedPnl": 3765.5500000000015,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 47.57097333333333,
+          "avgExit": 46.31579,
+          "status": "closed"
+        },
+        {
+          "id": "t_SNOW_1788466942875",
+          "symbol": "SNOW",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788442195000,
+          "exitTime": 1788442318000,
+          "realizedPnl": -484.95000000001613,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 376.23424,
+          "avgExit": 376.71919000000014,
+          "status": "closed"
+        },
+        {
+          "id": "t_HPE_1788466942873",
+          "symbol": "HPE",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788465531000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 54.589079000000005,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_HPE_1788466942874",
+          "symbol": "HPE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788465832000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 54.44,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "9/3/26"
     }
   },
   "annotations": {
@@ -6921,5 +6998,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-03T20:22:02.030Z"
+  "updated": "2026-09-03T20:22:22.873Z"
 }
