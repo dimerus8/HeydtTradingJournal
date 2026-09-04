@@ -5791,7 +5791,7 @@
           "symbol": "TSLA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788527123000,
           "exitTime": 1788528710000,
           "realizedPnl": 5347.320000000014,
@@ -5799,7 +5799,11 @@
           "totalExitQty": 4000,
           "avgEntry": 363.7082375,
           "avgExit": 362.37140750000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "9/4/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSTR_1788553031773",
@@ -7138,7 +7142,11 @@
     "t_HPE_1788466942873": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_TSLA_1788553031772": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-09-04T20:17:11.774Z"
+  "updated": "2026-09-04T20:17:19.731Z"
 }
