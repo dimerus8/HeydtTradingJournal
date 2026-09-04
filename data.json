@@ -5848,7 +5848,7 @@
           "symbol": "EFX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788528541000,
           "exitTime": 1788528624000,
           "realizedPnl": -919.4800000000109,
@@ -5856,7 +5856,11 @@
           "totalExitQty": 1036,
           "avgEntry": 167.10247104247105,
           "avgExit": 167.99,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/4/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_FICO_1788553031777",
@@ -7162,7 +7166,11 @@
     "t_HOOD_1788553031774": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_EFX_1788553031776": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-04T20:17:29.410Z"
+  "updated": "2026-09-04T20:17:39.226Z"
 }
