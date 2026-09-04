@@ -5810,7 +5810,7 @@
           "symbol": "MSTR",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788527149000,
           "exitTime": 1788528601000,
           "realizedPnl": -2352.049999999982,
@@ -5818,7 +5818,11 @@
           "totalExitQty": 6250,
           "avgEntry": 137.15380800000005,
           "avgExit": 137.53013600000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "9/4/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_HOOD_1788553031774",
@@ -7146,7 +7150,11 @@
     "t_TSLA_1788553031772": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_MSTR_1788553031773": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-09-04T20:17:19.731Z"
+  "updated": "2026-09-04T20:17:24.306Z"
 }
