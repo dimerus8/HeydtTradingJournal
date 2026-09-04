@@ -5785,7 +5785,129 @@
       "dateStr": "9/3/26"
     },
     "2026-09-04": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_TSLA_1788553031772",
+          "symbol": "TSLA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788527123000,
+          "exitTime": 1788528710000,
+          "realizedPnl": 5347.320000000014,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 363.7082375,
+          "avgExit": 362.37140750000003,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSTR_1788553031773",
+          "symbol": "MSTR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788527149000,
+          "exitTime": 1788528601000,
+          "realizedPnl": -2352.049999999982,
+          "totalEntryQty": 6250,
+          "totalExitQty": 6250,
+          "avgEntry": 137.15380800000005,
+          "avgExit": 137.53013600000003,
+          "status": "closed"
+        },
+        {
+          "id": "t_HOOD_1788553031774",
+          "symbol": "HOOD",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788528476000,
+          "exitTime": 1788528600000,
+          "realizedPnl": -2602.2800000000047,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 118.85514666666668,
+          "avgExit": 120.59,
+          "status": "closed"
+        },
+        {
+          "id": "t_EFX_1788553031776",
+          "symbol": "EFX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788528541000,
+          "exitTime": 1788528624000,
+          "realizedPnl": -919.4800000000109,
+          "totalEntryQty": 1036,
+          "totalExitQty": 1036,
+          "avgEntry": 167.10247104247105,
+          "avgExit": 167.99,
+          "status": "closed"
+        },
+        {
+          "id": "t_FICO_1788553031777",
+          "symbol": "FICO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788528571000,
+          "exitTime": 1788528755000,
+          "realizedPnl": 2281.100000000015,
+          "totalEntryQty": 398,
+          "totalExitQty": 398,
+          "avgEntry": 932.6514070351759,
+          "avgExit": 926.9200000000006,
+          "status": "closed"
+        },
+        {
+          "id": "t_HOOD_1788553031775",
+          "symbol": "HOOD",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788528600000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 500,
+          "totalExitQty": 0,
+          "avgEntry": 120.59,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1788553031778",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788550860000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 500,
+          "totalExitQty": 0,
+          "avgEntry": 1010.4551,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_BIDU_1788553031779",
+          "symbol": "BIDU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788551499000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10000,
+          "totalExitQty": 0,
+          "avgEntry": 99.45897310000001,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "9/4/26"
     }
   },
   "annotations": {
@@ -7018,5 +7140,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-03T20:24:08.746Z"
+  "updated": "2026-09-04T20:17:11.774Z"
 }
