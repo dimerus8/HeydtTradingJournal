@@ -5829,7 +5829,7 @@
           "symbol": "HOOD",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788528476000,
           "exitTime": 1788528600000,
           "realizedPnl": -2602.2800000000047,
@@ -5837,7 +5837,11 @@
           "totalExitQty": 1500,
           "avgEntry": 118.85514666666668,
           "avgExit": 120.59,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/4/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_EFX_1788553031776",
@@ -7154,7 +7158,11 @@
     "t_MSTR_1788553031773": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_HOOD_1788553031774": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-04T20:17:24.306Z"
+  "updated": "2026-09-04T20:17:29.410Z"
 }
