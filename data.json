@@ -5974,11 +5974,11 @@
           "entryTime": null,
           "exitTime": null,
           "realizedPnl": 11042,
-          "totalEntryQty": 0,
-          "totalExitQty": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
           "avgEntry": 1,
           "avgExit": 1,
-          "status": "open",
+          "status": "closed",
           "tradeType": "Overnight",
           "notes": "cut in OC",
           "entryDateStr": "9/8/26",
@@ -7246,5 +7246,5 @@
       "notes": "cut in OC"
     }
   },
-  "updated": "2026-09-08T20:14:17.842Z"
+  "updated": "2026-09-08T20:14:21.817Z"
 }
