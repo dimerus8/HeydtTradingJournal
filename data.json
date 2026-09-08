@@ -5947,15 +5947,19 @@
           "symbol": "SKHY",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788873971000,
           "exitTime": 1788874201000,
-          "realizedPnl": 19.050000000000153,
+          "realizedPnl": 6163,
           "totalEntryQty": 6000,
-          "totalExitQty": 15,
+          "totalExitQty": 6000,
           "avgEntry": 183.5829,
           "avgExit": 184.61,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/8/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/8/26"
@@ -7205,7 +7209,11 @@
     "t_EFX_1788553031776": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_SKHY_1788898389657": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-08T20:13:26.359Z"
+  "updated": "2026-09-08T20:13:36.392Z"
 }
