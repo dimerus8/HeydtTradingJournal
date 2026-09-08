@@ -5964,6 +5964,25 @@
           "notes": "",
           "entryDateStr": "9/8/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_MU_1788898452238",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 11042,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "open",
+          "tradeType": "Overnight",
+          "notes": "cut in OC",
+          "entryDateStr": "9/8/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/8/26"
@@ -7221,7 +7240,11 @@
     "t_QCOM_1788898389656": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "man_MU_1788898452238": {
+      "tradeType": "Overnight",
+      "notes": "cut in OC"
     }
   },
-  "updated": "2026-09-08T20:13:43.528Z"
+  "updated": "2026-09-08T20:14:12.241Z"
 }
