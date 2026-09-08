@@ -5932,7 +5932,7 @@
           "symbol": "QCOM",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788873766000,
           "exitTime": 1788874276000,
           "realizedPnl": 1872.179999999993,
@@ -5940,7 +5940,11 @@
           "totalExitQty": 3000,
           "avgEntry": 180.47016,
           "avgExit": 179.84609999999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "9/8/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SKHY_1788898389657",
@@ -7213,7 +7217,11 @@
     "t_SKHY_1788898389657": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_QCOM_1788898389656": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-09-08T20:13:36.392Z"
+  "updated": "2026-09-08T20:13:43.528Z"
 }
