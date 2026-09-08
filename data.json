@@ -5976,8 +5976,8 @@
           "realizedPnl": 11042,
           "totalEntryQty": 0,
           "totalExitQty": 0,
-          "avgEntry": 0,
-          "avgExit": 0,
+          "avgEntry": 1,
+          "avgExit": 1,
           "status": "open",
           "tradeType": "Overnight",
           "notes": "cut in OC",
@@ -7246,5 +7246,5 @@
       "notes": "cut in OC"
     }
   },
-  "updated": "2026-09-08T20:14:12.241Z"
+  "updated": "2026-09-08T20:14:17.842Z"
 }
