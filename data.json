@@ -5926,7 +5926,54 @@
       "dateStr": "9/4/26"
     },
     "2026-09-08": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_QCOM_1788898389656",
+          "symbol": "QCOM",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788873766000,
+          "exitTime": 1788874276000,
+          "realizedPnl": 1872.179999999993,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 180.47016,
+          "avgExit": 179.84609999999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_SKHY_1788898389657",
+          "symbol": "SKHY",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788873971000,
+          "exitTime": 1788874201000,
+          "realizedPnl": 19.050000000000153,
+          "totalEntryQty": 6000,
+          "totalExitQty": 15,
+          "avgEntry": 183.5829,
+          "avgExit": 184.61,
+          "status": "open"
+        },
+        {
+          "id": "t_SKHY_1788898389658",
+          "symbol": "SKHY",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1788874201000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5985,
+          "totalExitQty": 0,
+          "avgEntry": 184.61,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "9/8/26"
     }
   },
   "annotations": {
@@ -7175,5 +7222,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-08T20:12:58.895Z"
+  "updated": "2026-09-08T20:13:09.658Z"
 }
