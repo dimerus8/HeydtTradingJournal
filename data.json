@@ -6097,21 +6097,6 @@
           "avgEntry": 3500.5,
           "avgExit": 0,
           "status": "open"
-        },
-        {
-          "id": "t_SUNB_1788984697679",
-          "symbol": "SUNB",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1788961384000,
-          "exitTime": 1788961405000,
-          "realizedPnl": -49780,
-          "totalEntryQty": 2500,
-          "totalExitQty": 2500,
-          "avgEntry": 5530,
-          "avgExit": 5510.088,
-          "status": "closed"
         }
       ],
       "dateStr": "9/9/26"
@@ -7379,5 +7364,5 @@
       "notes": "let run for 2 days"
     }
   },
-  "updated": "2026-09-09T20:11:37.675Z"
+  "updated": "2026-09-09T20:11:50.059Z"
 }
