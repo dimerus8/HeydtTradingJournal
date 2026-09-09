@@ -6032,15 +6032,19 @@
           "symbol": "INTC",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788960328000,
           "exitTime": 1788960668000,
-          "realizedPnl": -13186.470000000061,
+          "realizedPnl": -16749.47000000006,
           "totalEntryQty": 12500,
           "totalExitQty": 12500,
           "avgEntry": 102.5400768,
           "avgExit": 103.59499439999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "high rsi, gapped down",
+          "entryDateStr": "9/9/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/9/26"
@@ -7310,7 +7314,11 @@
     "t_META_1788984697673": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_INTC_1788984697676": {
+      "tradeType": "Off Open Red",
+      "notes": "high rsi, gapped down"
     }
   },
-  "updated": "2026-09-09T20:12:12.081Z"
+  "updated": "2026-09-09T20:12:39.522Z"
 }
