@@ -6024,21 +6024,6 @@
           "status": "closed"
         },
         {
-          "id": "t_META_1788984697675",
-          "symbol": "META",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1788960321000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 310,
-          "totalExitQty": 0,
-          "avgEntry": 648.18,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_INTC_1788984697676",
           "symbol": "INTC",
           "direction": "SHORT",
@@ -7319,5 +7304,5 @@
       "notes": "let run for 2 days"
     }
   },
-  "updated": "2026-09-09T20:12:03.602Z"
+  "updated": "2026-09-09T20:12:07.297Z"
 }
