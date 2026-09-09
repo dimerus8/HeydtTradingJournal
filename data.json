@@ -6082,21 +6082,6 @@
           "avgEntry": 103.53940000000001,
           "avgExit": 0,
           "status": "open"
-        },
-        {
-          "id": "t_SHEL_1788984697678",
-          "symbol": "SHEL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1788960742000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 201250,
-          "totalExitQty": 0,
-          "avgEntry": 3500.5,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "9/9/26"
@@ -7364,5 +7349,5 @@
       "notes": "let run for 2 days"
     }
   },
-  "updated": "2026-09-09T20:11:50.059Z"
+  "updated": "2026-09-09T20:11:53.361Z"
 }
