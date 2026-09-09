@@ -6013,7 +6013,7 @@
           "symbol": "META",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1788960119000,
           "exitTime": 1788960302000,
           "realizedPnl": -1791.079999999993,
@@ -6021,7 +6021,11 @@
           "totalExitQty": 1810,
           "avgEntry": 646.1746077348065,
           "avgExit": 647.1641546961329,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "9/9/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_INTC_1788984697676",
@@ -7302,7 +7306,11 @@
     "man_BIDU_1788898569761": {
       "tradeType": "Shenzen Connect Program",
       "notes": "let run for 2 days"
+    },
+    "t_META_1788984697673": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-09-09T20:12:07.297Z"
+  "updated": "2026-09-09T20:12:12.081Z"
 }
