@@ -6067,21 +6067,6 @@
           "avgEntry": 102.5400768,
           "avgExit": 103.59499439999998,
           "status": "closed"
-        },
-        {
-          "id": "t_INTC_1788984697677",
-          "symbol": "INTC",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1788960680000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 2500,
-          "totalExitQty": 0,
-          "avgEntry": 103.53940000000001,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "9/9/26"
@@ -7349,5 +7334,5 @@
       "notes": "let run for 2 days"
     }
   },
-  "updated": "2026-09-09T20:11:53.361Z"
+  "updated": "2026-09-09T20:11:57.849Z"
 }
