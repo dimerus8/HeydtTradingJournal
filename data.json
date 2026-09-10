@@ -6052,21 +6052,6 @@
     "2026-09-10": {
       "trades": [
         {
-          "id": "t_SHEL_1789071398564",
-          "symbol": "SHEL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789030090000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 201250,
-          "totalExitQty": 0,
-          "avgEntry": 3504,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_INTC_1789071398565",
           "symbol": "INTC",
           "direction": "SHORT",
@@ -7355,5 +7340,5 @@
       "notes": "high rsi, gapped down"
     }
   },
-  "updated": "2026-09-10T20:16:38.564Z"
+  "updated": "2026-09-10T20:16:41.793Z"
 }
