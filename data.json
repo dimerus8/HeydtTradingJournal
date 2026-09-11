@@ -6074,7 +6074,39 @@
       "dateStr": "9/10/26"
     },
     "2026-09-11": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1789157913721",
+          "symbol": "SHEL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789124963000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 201250,
+          "totalExitQty": 0,
+          "avgEntry": 3533,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ADBE_1789157913722",
+          "symbol": "ADBE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789133105000,
+          "exitTime": 1789133251000,
+          "realizedPnl": 1724.0500000000034,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 242.09058,
+          "avgExit": 240.36653000000013,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "9/11/26"
     }
   },
   "annotations": {
@@ -7351,5 +7383,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-11T20:18:09.433Z"
+  "updated": "2026-09-11T20:18:33.722Z"
 }
