@@ -6113,6 +6113,25 @@
           "avgEntry": 911.72648,
           "avgExit": 906.851086666667,
           "status": "closed"
+        },
+        {
+          "id": "man_SPCX_1789416414696",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -11163,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 151.2,
+          "avgExit": 147.3,
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "9/14/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/14/26"
@@ -7394,7 +7413,11 @@
     "t_ADBE_1789157913722": {
       "tradeType": "Off Open Red",
       "notes": "day after EPS"
+    },
+    "man_SPCX_1789416414696": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-09-14T20:06:21.697Z"
+  "updated": "2026-09-14T20:06:54.697Z"
 }
