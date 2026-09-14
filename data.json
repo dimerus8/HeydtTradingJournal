@@ -6098,7 +6098,39 @@
       "dateStr": "9/11/26"
     },
     "2026-09-14": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1789416378026",
+          "symbol": "SHEL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789387635000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 201250,
+          "totalExitQty": 0,
+          "avgEntry": 3551,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1789416378027",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789392301000,
+          "exitTime": 1789392609000,
+          "realizedPnl": 14626.179999999978,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 911.72648,
+          "avgExit": 906.851086666667,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "9/14/26"
     }
   },
   "annotations": {
@@ -7379,5 +7411,5 @@
       "notes": "day after EPS"
     }
   },
-  "updated": "2026-09-14T12:59:32.730Z"
+  "updated": "2026-09-14T20:06:18.026Z"
 }
