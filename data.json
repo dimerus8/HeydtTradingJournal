@@ -6191,15 +6191,19 @@
           "symbol": "NQU6",
           "direction": "LONG",
           "isFutures": true,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789651801000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -2430,
           "totalEntryQty": 10,
-          "totalExitQty": 0,
+          "totalExitQty": 10,
           "avgEntry": 29432.55,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/17/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/17/26"
@@ -7497,7 +7501,11 @@
     "t_GNRC_1789676216764": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_NQU6_1789676216765": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-17T20:17:10.962Z"
+  "updated": "2026-09-17T20:17:38.082Z"
 }
