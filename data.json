@@ -6149,21 +6149,6 @@
     "2026-09-17": {
       "trades": [
         {
-          "id": "t_SHEL_1789676216762",
-          "symbol": "SHEL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789632175000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 201250,
-          "totalExitQty": 0,
-          "avgEntry": 3576.5,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_ASML_1789676216763",
           "symbol": "ASML",
           "direction": "SHORT",
@@ -7498,5 +7483,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-17T20:16:56.763Z"
+  "updated": "2026-09-17T20:17:00.874Z"
 }
