@@ -6147,7 +6147,69 @@
       "trades": []
     },
     "2026-09-17": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1789676216762",
+          "symbol": "SHEL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789632175000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 201250,
+          "totalExitQty": 0,
+          "avgEntry": 3576.5,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ASML_1789676216763",
+          "symbol": "ASML",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789651071000,
+          "exitTime": 1789651823000,
+          "realizedPnl": 4158.579999999999,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 1645,
+          "avgExit": 1636.68284,
+          "status": "closed"
+        },
+        {
+          "id": "t_GNRC_1789676216764",
+          "symbol": "GNRC",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789651264000,
+          "exitTime": 1789651341000,
+          "realizedPnl": -169.47000000000656,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 230.10101999999998,
+          "avgExit": 230.43995999999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_NQU6_1789676216765",
+          "symbol": "NQU6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1789651801000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10,
+          "totalExitQty": 0,
+          "avgEntry": 29432.55,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "9/17/26"
     }
   },
   "annotations": {
@@ -7436,5 +7498,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-16T20:07:15.115Z"
+  "updated": "2026-09-17T20:16:56.763Z"
 }
