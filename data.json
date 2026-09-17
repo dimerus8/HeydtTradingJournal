@@ -6172,7 +6172,7 @@
           "symbol": "GNRC",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789651264000,
           "exitTime": 1789651341000,
           "realizedPnl": -169.47000000000656,
@@ -6180,7 +6180,11 @@
           "totalExitQty": 500,
           "avgEntry": 230.10101999999998,
           "avgExit": 230.43995999999999,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NQU6_1789676216765",
@@ -7489,7 +7493,11 @@
     "t_ASML_1789676216763": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_GNRC_1789676216764": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-17T20:17:05.891Z"
+  "updated": "2026-09-17T20:17:10.962Z"
 }
