@@ -6153,7 +6153,7 @@
           "symbol": "ASML",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789651071000,
           "exitTime": 1789651823000,
           "realizedPnl": 4158.579999999999,
@@ -6161,7 +6161,11 @@
           "totalExitQty": 500,
           "avgEntry": 1645,
           "avgExit": 1636.68284,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "9/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_GNRC_1789676216764",
@@ -7481,7 +7485,11 @@
     "t_MU_1789416378027": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_ASML_1789676216763": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-09-17T20:17:00.874Z"
+  "updated": "2026-09-17T20:17:05.891Z"
 }
