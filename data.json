@@ -6379,7 +6379,7 @@
           "symbol": "CRWD",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789997107000,
           "exitTime": 1789997401000,
           "realizedPnl": 8370.549999999981,
@@ -6387,7 +6387,11 @@
           "totalExitQty": 2000,
           "avgEntry": 235.235275,
           "avgExit": 231.05000000000004,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "unlock",
+          "entryDateStr": "9/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSTR_1790020601967",
@@ -7743,7 +7747,11 @@
     "t_NVDA_1789764274292": {
       "tradeType": "SP Rebalance",
       "notes": ""
+    },
+    "t_CRWD_1790020601965": {
+      "tradeType": "Imbal AM",
+      "notes": "unlock"
     }
   },
-  "updated": "2026-09-21T19:56:59.521Z"
+  "updated": "2026-09-21T19:57:10.257Z"
 }
