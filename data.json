@@ -6328,15 +6328,19 @@
           "symbol": "SKHY",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789758927000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 5178,
           "totalEntryQty": 7189,
           "totalExitQty": 0,
           "avgEntry": 190.09017804979828,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "SP Rebalance",
+          "notes": "",
+          "entryDateStr": "9/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSFTI1826497.500_1789764274289",
@@ -7739,7 +7743,11 @@
     "t_P_1789764274285": {
       "tradeType": "SP Rebalance",
       "notes": "1.6b to buy early look"
+    },
+    "t_SKHY_1789764274287": {
+      "tradeType": "SP Rebalance",
+      "notes": ""
     }
   },
-  "updated": "2026-09-21T14:15:45.201Z"
+  "updated": "2026-09-21T14:16:30.266Z"
 }
