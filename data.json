@@ -6420,21 +6420,6 @@
           "status": "closed"
         },
         {
-          "id": "t_SUNB_1790020601968",
-          "symbol": "SUNB",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790003777000,
-          "exitTime": 1790003805000,
-          "realizedPnl": 53484100,
-          "totalEntryQty": 10000,
-          "totalExitQty": 10000,
-          "avgEntry": 73.59,
-          "avgExit": 5422,
-          "status": "closed"
-        },
-        {
           "id": "t_AMD_1790020601970",
           "symbol": "AMD",
           "direction": "LONG",
@@ -7775,5 +7760,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T19:56:52.747Z"
+  "updated": "2026-09-21T19:56:56.889Z"
 }
