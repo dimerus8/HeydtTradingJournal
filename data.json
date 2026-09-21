@@ -6243,7 +6243,7 @@
           "avgEntry": 1436.9250000000002,
           "avgExit": 1446,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "SP Rebalance",
           "notes": "",
           "entryDateStr": "9/18/26",
           "exitDateStr": ""
@@ -7701,7 +7701,7 @@
       "notes": ""
     },
     "t_ASML_1789764274282": {
-      "tradeType": "",
+      "tradeType": "SP Rebalance",
       "notes": ""
     },
     "t_SUNB_1789764274283": {
@@ -7713,5 +7713,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:20:54.843Z"
+  "updated": "2026-09-21T14:21:03.652Z"
 }
