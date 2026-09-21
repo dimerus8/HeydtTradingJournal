@@ -6260,21 +6260,6 @@
           "status": "closed"
         },
         {
-          "id": "t_DSFIR_1789764274280",
-          "symbol": "DSFIR",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789745476000,
-          "exitTime": 1789745718000,
-          "realizedPnl": -71200.00000000004,
-          "totalEntryQty": 25000,
-          "totalExitQty": 20000,
-          "avgEntry": 88.6,
-          "avgExit": 92.16,
-          "status": "open"
-        },
-        {
           "id": "t_SUNB_1789764274283",
           "symbol": "SUNB",
           "direction": "LONG",
@@ -7734,5 +7719,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:17:11.467Z"
+  "updated": "2026-09-21T14:17:22.171Z"
 }
