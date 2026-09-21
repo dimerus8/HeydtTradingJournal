@@ -6230,21 +6230,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_DSFIR_1789764274279",
-          "symbol": "DSFIR",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789745082000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 5000,
-          "totalExitQty": 0,
-          "avgEntry": 93.11511999999999,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_ASML_1789764274282",
           "symbol": "ASML",
           "direction": "LONG",
@@ -7735,5 +7720,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:19:47.187Z"
+  "updated": "2026-09-21T14:20:22.483Z"
 }
