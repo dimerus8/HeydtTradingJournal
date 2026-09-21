@@ -6435,21 +6435,6 @@
           "status": "closed"
         },
         {
-          "id": "t_DSFIR_1790020601969",
-          "symbol": "DSFIR",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790005804000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 25000,
-          "totalExitQty": 0,
-          "avgEntry": 88.8324,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_AMD_1790020601970",
           "symbol": "AMD",
           "direction": "LONG",
@@ -7790,5 +7775,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T19:56:44.889Z"
+  "updated": "2026-09-21T19:56:52.747Z"
 }
