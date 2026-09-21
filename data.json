@@ -6333,10 +6333,10 @@
           "exitTime": null,
           "realizedPnl": 5178,
           "totalEntryQty": 7189,
-          "totalExitQty": 0,
+          "totalExitQty": 7189,
           "avgEntry": 190.09017804979828,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 1,
+          "status": "closed",
           "tradeType": "SP Rebalance",
           "notes": "",
           "entryDateStr": "9/18/26",
@@ -7749,5 +7749,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:16:30.266Z"
+  "updated": "2026-09-21T14:16:42.993Z"
 }
