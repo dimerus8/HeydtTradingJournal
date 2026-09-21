@@ -6375,21 +6375,6 @@
     "2026-09-21": {
       "trades": [
         {
-          "id": "t_SHEL_1790020601964",
-          "symbol": "SHEL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789987323000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 201250,
-          "totalExitQty": 0,
-          "avgEntry": 3539,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_CRWD_1790020601965",
           "symbol": "CRWD",
           "direction": "SHORT",
@@ -7805,5 +7790,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T19:56:41.965Z"
+  "updated": "2026-09-21T19:56:44.889Z"
 }
