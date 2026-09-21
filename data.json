@@ -6413,7 +6413,7 @@
           "symbol": "CRWD",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789997401000,
           "exitTime": 1789997488000,
           "realizedPnl": 7035.999999999944,
@@ -6421,7 +6421,11 @@
           "totalExitQty": 4000,
           "avgEntry": 231.61,
           "avgExit": 233.36899999999994,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "long off unlock",
+          "entryDateStr": "9/21/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/21/26"
@@ -7751,7 +7755,11 @@
     "t_CRWD_1790020601965": {
       "tradeType": "Imbal AM",
       "notes": "unlock"
+    },
+    "t_CRWD_1790020601966": {
+      "tradeType": "Imbal AM",
+      "notes": "long off unlock"
     }
   },
-  "updated": "2026-09-21T19:57:10.257Z"
+  "updated": "2026-09-21T19:57:19.001Z"
 }
