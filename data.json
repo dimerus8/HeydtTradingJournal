@@ -6339,15 +6339,19 @@
           "symbol": "P",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789755109000,
           "exitTime": 1789757293000,
-          "realizedPnl": 2848.149999999999,
+          "realizedPnl": 3531,
           "totalEntryQty": 2101,
-          "totalExitQty": 1601,
+          "totalExitQty": 2101,
           "avgEntry": 104.4665159447882,
           "avgExit": 106.1891317926296,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "SP Rebalance",
+          "notes": "1.6b to buy early look",
+          "entryDateStr": "9/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_P_1789764274286",
@@ -7806,7 +7810,11 @@
     "t_NOKIA_1789764274277": {
       "tradeType": "SP Rebalance",
       "notes": ""
+    },
+    "t_P_1789764274285": {
+      "tradeType": "SP Rebalance",
+      "notes": "1.6b to buy early look"
     }
   },
-  "updated": "2026-09-21T14:14:03.192Z"
+  "updated": "2026-09-21T14:14:34.544Z"
 }
