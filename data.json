@@ -6268,21 +6268,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_SUNB_1789764274284",
-          "symbol": "SUNB",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789745880000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 10000,
-          "totalExitQty": 0,
-          "avgEntry": 72.74129099999999,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_P_1789764274285",
           "symbol": "P",
           "direction": "LONG",
@@ -7720,5 +7705,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:20:22.483Z"
+  "updated": "2026-09-21T14:20:25.947Z"
 }
