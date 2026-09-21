@@ -6340,21 +6340,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_NVDA_1789764274293",
-          "symbol": "NVDA",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789761600000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 5000,
-          "totalExitQty": 0,
-          "avgEntry": 222.27,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_IAG_1789764274294",
           "symbol": "IAG",
           "direction": "LONG",
@@ -7713,5 +7698,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:21:03.652Z"
+  "updated": "2026-09-21T14:21:09.251Z"
 }
