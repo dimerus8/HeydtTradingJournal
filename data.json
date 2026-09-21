@@ -6358,21 +6358,6 @@
           "status": "open"
         },
         {
-          "id": "t_SKHY_1789764274288",
-          "symbol": "SKHY",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789761018000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 7189,
-          "totalExitQty": 0,
-          "avgEntry": 190.81043956043956,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_NVDA_1789764274292",
           "symbol": "NVDA",
           "direction": "LONG",
@@ -7749,5 +7734,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:16:42.993Z"
+  "updated": "2026-09-21T14:16:47.225Z"
 }
