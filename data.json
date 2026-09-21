@@ -6268,15 +6268,19 @@
           "symbol": "SUNB",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789745700000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 1154,
           "totalEntryQty": 10000,
-          "totalExitQty": 0,
+          "totalExitQty": 10000,
           "avgEntry": 5422,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "SP Rebalance",
+          "notes": "",
+          "entryDateStr": "9/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SUNB_1789764274284",
@@ -7725,7 +7729,11 @@
     "t_ASML_1789764274282": {
       "tradeType": "",
       "notes": ""
+    },
+    "t_SUNB_1789764274283": {
+      "tradeType": "SP Rebalance",
+      "notes": ""
     }
   },
-  "updated": "2026-09-21T14:17:49.922Z"
+  "updated": "2026-09-21T14:19:47.187Z"
 }
