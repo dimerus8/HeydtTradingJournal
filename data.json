@@ -6418,21 +6418,6 @@
           "avgEntry": 231.61,
           "avgExit": 233.36899999999994,
           "status": "closed"
-        },
-        {
-          "id": "t_AMD_1790020601970",
-          "symbol": "AMD",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790019910000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1808,
-          "totalExitQty": 0,
-          "avgEntry": 615.783048561947,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "9/21/26"
@@ -7760,5 +7745,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T19:56:56.889Z"
+  "updated": "2026-09-21T19:56:59.521Z"
 }
