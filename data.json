@@ -6324,21 +6324,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_P_1789764274286",
-          "symbol": "P",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789756953000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 500,
-          "totalExitQty": 0,
-          "avgEntry": 106.01219999999999,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_SKHY_1789764274287",
           "symbol": "SKHY",
           "direction": "LONG",
@@ -7786,5 +7771,5 @@
       "notes": "1.6b to buy early look"
     }
   },
-  "updated": "2026-09-21T14:15:04.561Z"
+  "updated": "2026-09-21T14:15:10.330Z"
 }
