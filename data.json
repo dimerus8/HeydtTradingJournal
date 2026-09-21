@@ -6354,21 +6354,6 @@
           "status": "open"
         },
         {
-          "id": "t_SNDK_1789764274290",
-          "symbol": "SNDK",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789761009000,
-          "exitTime": 1789761130000,
-          "realizedPnl": -988.4299999999753,
-          "totalEntryQty": 750,
-          "totalExitQty": 500,
-          "avgEntry": 1765.130133333333,
-          "avgExit": 1763.0465399999996,
-          "status": "open"
-        },
-        {
           "id": "t_SKHY_1789764274288",
           "symbol": "SKHY",
           "direction": "SHORT",
@@ -7771,5 +7756,5 @@
       "notes": "1.6b to buy early look"
     }
   },
-  "updated": "2026-09-21T14:15:10.330Z"
+  "updated": "2026-09-21T14:15:40.281Z"
 }
