@@ -6325,15 +6325,19 @@
           "symbol": "NVDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789761307000,
           "exitTime": 1789761325000,
-          "realizedPnl": 275.6349999999795,
+          "realizedPnl": 949,
           "totalEntryQty": 7500,
-          "totalExitQty": 2500,
+          "totalExitQty": 7500,
           "avgEntry": 222.11719666666647,
           "avgExit": 222.1914,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "SP Rebalance",
+          "notes": "",
+          "entryDateStr": "9/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1789764274293",
@@ -7703,7 +7707,11 @@
     "t_SUNB_1789764274283": {
       "tradeType": "SP Rebalance",
       "notes": ""
+    },
+    "t_NVDA_1789764274292": {
+      "tradeType": "SP Rebalance",
+      "notes": ""
     }
   },
-  "updated": "2026-09-21T14:20:25.947Z"
+  "updated": "2026-09-21T14:20:54.843Z"
 }
