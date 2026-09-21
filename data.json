@@ -6398,7 +6398,7 @@
           "symbol": "MSTR",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789997254000,
           "exitTime": 1789997487000,
           "realizedPnl": -5221.130000000023,
@@ -6406,7 +6406,11 @@
           "totalExitQty": 5000,
           "avgEntry": 164.525898,
           "avgExit": 165.57012399999996,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "9/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_CRWD_1790020601966",
@@ -7759,7 +7763,11 @@
     "t_CRWD_1790020601966": {
       "tradeType": "Imbal AM",
       "notes": "long off unlock"
+    },
+    "t_MSTR_1790020601967": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-09-21T19:57:19.001Z"
+  "updated": "2026-09-21T19:57:25.952Z"
 }
