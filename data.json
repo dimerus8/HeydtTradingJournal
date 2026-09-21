@@ -6249,15 +6249,19 @@
           "symbol": "ASML",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789745208000,
           "exitTime": 1789745719000,
-          "realizedPnl": 580.8000000000011,
+          "realizedPnl": 5672,
           "totalEntryQty": 64,
           "totalExitQty": 64,
           "avgEntry": 1436.9250000000002,
           "avgExit": 1446,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "9/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SUNB_1789764274283",
@@ -7717,7 +7721,11 @@
     "t_SKHY_1789764274287": {
       "tradeType": "SP Rebalance",
       "notes": ""
+    },
+    "t_ASML_1789764274282": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-09-21T14:17:22.171Z"
+  "updated": "2026-09-21T14:17:49.922Z"
 }
