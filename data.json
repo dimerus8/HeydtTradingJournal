@@ -6369,21 +6369,6 @@
           "status": "open"
         },
         {
-          "id": "t_SNDK_1789764274291",
-          "symbol": "SNDK",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789761166000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 250,
-          "totalExitQty": 0,
-          "avgEntry": 1768.4324,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_NVDA_1789764274292",
           "symbol": "NVDA",
           "direction": "LONG",
@@ -7756,5 +7741,5 @@
       "notes": "1.6b to buy early look"
     }
   },
-  "updated": "2026-09-21T14:15:40.281Z"
+  "updated": "2026-09-21T14:15:45.201Z"
 }
