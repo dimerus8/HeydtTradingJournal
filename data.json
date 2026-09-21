@@ -6373,7 +6373,114 @@
       "dateStr": "9/18/26"
     },
     "2026-09-21": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1790020601964",
+          "symbol": "SHEL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789987323000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 201250,
+          "totalExitQty": 0,
+          "avgEntry": 3539,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_CRWD_1790020601965",
+          "symbol": "CRWD",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789997107000,
+          "exitTime": 1789997401000,
+          "realizedPnl": 8370.549999999981,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 235.235275,
+          "avgExit": 231.05000000000004,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSTR_1790020601967",
+          "symbol": "MSTR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789997254000,
+          "exitTime": 1789997487000,
+          "realizedPnl": -5221.130000000023,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 164.525898,
+          "avgExit": 165.57012399999996,
+          "status": "closed"
+        },
+        {
+          "id": "t_CRWD_1790020601966",
+          "symbol": "CRWD",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1789997401000,
+          "exitTime": 1789997488000,
+          "realizedPnl": 7035.999999999944,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 231.61,
+          "avgExit": 233.36899999999994,
+          "status": "closed"
+        },
+        {
+          "id": "t_SUNB_1790020601968",
+          "symbol": "SUNB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790003777000,
+          "exitTime": 1790003805000,
+          "realizedPnl": 53484100,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 73.59,
+          "avgExit": 5422,
+          "status": "closed"
+        },
+        {
+          "id": "t_DSFIR_1790020601969",
+          "symbol": "DSFIR",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790005804000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 25000,
+          "totalExitQty": 0,
+          "avgEntry": 88.8324,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_AMD_1790020601970",
+          "symbol": "AMD",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790019910000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1808,
+          "totalExitQty": 0,
+          "avgEntry": 615.783048561947,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "9/21/26"
     }
   },
   "annotations": {
@@ -7698,5 +7805,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-21T14:21:12.131Z"
+  "updated": "2026-09-21T19:56:41.965Z"
 }
