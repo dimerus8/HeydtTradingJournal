@@ -6260,21 +6260,6 @@
           "status": "closed"
         },
         {
-          "id": "t_NOKIA_1789764274278",
-          "symbol": "NOKIA",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789745372000,
-          "exitTime": 1789753521000,
-          "realizedPnl": 5600.000000000005,
-          "totalEntryQty": 100000,
-          "totalExitQty": 50000,
-          "avgEntry": 9.362,
-          "avgExit": 9.25,
-          "status": "open"
-        },
-        {
           "id": "t_DSFIR_1789764274280",
           "symbol": "DSFIR",
           "direction": "SHORT",
@@ -7801,5 +7786,5 @@
       "notes": "1.6b to buy early look"
     }
   },
-  "updated": "2026-09-21T14:14:49.313Z"
+  "updated": "2026-09-21T14:15:04.561Z"
 }
