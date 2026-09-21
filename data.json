@@ -6245,21 +6245,6 @@
           "status": "open"
         },
         {
-          "id": "t_NOK_1789764274281",
-          "symbol": "NOK",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1789745106000,
-          "exitTime": 1789753521000,
-          "realizedPnl": 921.4999999999941,
-          "totalEntryQty": 50000,
-          "totalExitQty": 50000,
-          "avgEntry": 10.58157,
-          "avgExit": 10.6,
-          "status": "closed"
-        },
-        {
           "id": "t_ASML_1789764274282",
           "symbol": "ASML",
           "direction": "LONG",
@@ -7816,5 +7801,5 @@
       "notes": "1.6b to buy early look"
     }
   },
-  "updated": "2026-09-21T14:14:34.544Z"
+  "updated": "2026-09-21T14:14:49.313Z"
 }
