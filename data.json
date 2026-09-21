@@ -6215,15 +6215,19 @@
           "symbol": "NOKIA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1789745037000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 10300,
           "totalEntryQty": 3334,
           "totalExitQty": 0,
           "avgEntry": 9.278222555488902,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "9/18/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_DSFIR_1789764274279",
@@ -7798,7 +7802,11 @@
     "t_NQU6_1789676216765": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_NOKIA_1789764274277": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-09-18T20:46:03.361Z"
+  "updated": "2026-09-21T14:13:35.288Z"
 }
