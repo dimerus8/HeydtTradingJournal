@@ -6437,21 +6437,6 @@
     "2026-09-22": {
       "trades": [
         {
-          "id": "t_SHEL_1790108094172",
-          "symbol": "SHEL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790063684000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 201250,
-          "totalExitQty": 0,
-          "avgEntry": 3488.5,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_MU_1790108094173",
           "symbol": "MU",
           "direction": "SHORT",
@@ -7834,5 +7819,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-22T20:15:00.148Z"
+  "updated": "2026-09-22T20:15:02.444Z"
 }
