@@ -6438,18 +6438,22 @@
       "trades": [
         {
           "id": "t_MU_1790108094173",
-          "symbol": "MU",
-          "direction": "SHORT",
+          "symbol": "AMD",
+          "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790083515000,
           "exitTime": 1790083807000,
-          "realizedPnl": -3122.97999999985,
+          "realizedPnl": -12176,
           "totalEntryQty": 2994,
           "totalExitQty": 2994,
           "avgEntry": 1032.8764428857714,
           "avgExit": 1033.9195223780894,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "9/22/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1790108094175",
@@ -7833,7 +7837,11 @@
     "t_BRSL_1790108094176": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MU_1790108094173": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-09-22T20:15:36.563Z"
+  "updated": "2026-09-22T20:16:17.076Z"
 }
