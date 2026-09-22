@@ -6475,7 +6475,7 @@
           "symbol": "BRSL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790106871000,
           "exitTime": 1790107158000,
           "realizedPnl": -195.61500000000004,
@@ -6483,7 +6483,11 @@
           "totalExitQty": 5000,
           "avgEntry": 10.335838,
           "avgExit": 10.374961,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "9/22/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/22/26"
@@ -7825,7 +7829,11 @@
     "t_MU_1790108094175": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_BRSL_1790108094176": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-22T20:15:29.515Z"
+  "updated": "2026-09-22T20:15:36.563Z"
 }
