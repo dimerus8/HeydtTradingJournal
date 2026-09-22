@@ -6456,15 +6456,19 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790083816000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -12176,
           "totalEntryQty": 6,
-          "totalExitQty": 0,
+          "totalExitQty": 6,
           "avgEntry": 1037.935,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "9/22/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_BRSL_1790108094176",
@@ -7817,7 +7821,11 @@
     "t_MSTR_1790020601967": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_MU_1790108094175": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-09-22T20:15:02.444Z"
+  "updated": "2026-09-22T20:15:29.515Z"
 }
