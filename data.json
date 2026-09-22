@@ -6435,7 +6435,84 @@
       "dateStr": "9/21/26"
     },
     "2026-09-22": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1790108094172",
+          "symbol": "SHEL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790063684000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 201250,
+          "totalExitQty": 0,
+          "avgEntry": 3488.5,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1790108094173",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790083515000,
+          "exitTime": 1790083807000,
+          "realizedPnl": -3122.97999999985,
+          "totalEntryQty": 2994,
+          "totalExitQty": 2994,
+          "avgEntry": 1032.8764428857714,
+          "avgExit": 1033.9195223780894,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1790108094174",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790083807000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 6,
+          "totalExitQty": 0,
+          "avgEntry": 1034.27,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1790108094175",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790083816000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 6,
+          "totalExitQty": 0,
+          "avgEntry": 1037.935,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_BRSL_1790108094176",
+          "symbol": "BRSL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790106871000,
+          "exitTime": 1790107158000,
+          "realizedPnl": -195.61500000000004,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 10.335838,
+          "avgExit": 10.374961,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "9/22/26"
     }
   },
   "annotations": {
@@ -7772,5 +7849,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-22T20:14:45.163Z"
+  "updated": "2026-09-22T20:14:54.173Z"
 }
