@@ -6499,21 +6499,6 @@
     "2026-09-23": {
       "trades": [
         {
-          "id": "t_SHEL_1790193073137",
-          "symbol": "SHEL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790150289000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 201250,
-          "totalExitQty": 0,
-          "avgEntry": 3510,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_IONQ_1790193073140",
           "symbol": "IONQ",
           "direction": "LONG",
@@ -7916,5 +7901,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-23T19:51:27.440Z"
+  "updated": "2026-09-23T19:51:30.784Z"
 }
