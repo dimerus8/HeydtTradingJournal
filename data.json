@@ -6497,7 +6497,69 @@
       "dateStr": "9/22/26"
     },
     "2026-09-23": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SHEL_1790193073137",
+          "symbol": "SHEL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790150289000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 201250,
+          "totalExitQty": 0,
+          "avgEntry": 3510,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_IONQ_1790193073140",
+          "symbol": "IONQ",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790169769000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2500,
+          "totalExitQty": 0,
+          "avgEntry": 45.610056,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1790193073138",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790169934000,
+          "exitTime": 1790170208000,
+          "realizedPnl": -5245.845000000063,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 1098.5241533333333,
+          "avgExit": 1102.0213833333332,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1790193073139",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790170209000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 500,
+          "totalExitQty": 0,
+          "avgEntry": 1103.86692,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "9/23/26"
     }
   },
   "annotations": {
@@ -7846,5 +7908,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-23T19:51:05.074Z"
+  "updated": "2026-09-23T19:51:13.137Z"
 }
