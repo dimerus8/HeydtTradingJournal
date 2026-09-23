@@ -6503,15 +6503,19 @@
           "symbol": "IONQ",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790169769000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -249,
           "totalEntryQty": 2500,
           "totalExitQty": 0,
           "avgEntry": 45.610056,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "9/23/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1790193073138",
@@ -7884,7 +7888,11 @@
     "t_MU_1790193073138": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_IONQ_1790193073140": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-23T19:51:36.073Z"
+  "updated": "2026-09-23T19:51:45.680Z"
 }
