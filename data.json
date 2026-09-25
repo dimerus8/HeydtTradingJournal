@@ -6538,6 +6538,9 @@
         }
       ],
       "dateStr": "9/23/26"
+    },
+    "2026-09-25": {
+      "trades": []
     }
   },
   "annotations": {
@@ -6758,7 +6761,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -7894,5 +7897,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-23T19:52:02.424Z"
+  "updated": "2026-09-25T11:41:32.387Z"
 }
