@@ -6569,7 +6569,7 @@
           "symbol": "MDB",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790601913000,
           "exitTime": 1790602207000,
           "realizedPnl": -669.4899999999263,
@@ -6577,7 +6577,11 @@
           "totalExitQty": 6000,
           "avgEntry": 310.51808499999987,
           "avgExit": 310.62966666666654,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "9/28/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1790624881131",
@@ -7962,7 +7966,11 @@
     "t_NVDA_1790624881131": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_MDB_1790624881130": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-09-28T19:48:07.822Z"
+  "updated": "2026-09-28T19:48:12.756Z"
 }
