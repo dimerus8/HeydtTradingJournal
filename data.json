@@ -6540,7 +6540,27 @@
       "dateStr": "9/23/26"
     },
     "2026-09-25": {
-      "trades": []
+      "trades": [
+        {
+          "id": "man_AKAM_1790624810904",
+          "symbol": "AKAM",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 18429,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "open",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "9/25/26",
+          "exitDateStr": ""
+        }
+      ]
     }
   },
   "annotations": {
@@ -7895,7 +7915,11 @@
     "t_IONQ_1790193073140": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "man_AKAM_1790624810904": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-09-28T19:46:30.701Z"
+  "updated": "2026-09-28T19:46:50.907Z"
 }
