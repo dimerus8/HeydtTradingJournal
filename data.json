@@ -6563,7 +6563,39 @@
       ]
     },
     "2026-09-28": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MDB_1790624881130",
+          "symbol": "MDB",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790601913000,
+          "exitTime": 1790602207000,
+          "realizedPnl": -669.4899999999263,
+          "totalEntryQty": 6000,
+          "totalExitQty": 6000,
+          "avgEntry": 310.51808499999987,
+          "avgExit": 310.62966666666654,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1790624881131",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790602202000,
+          "exitTime": 1790602354000,
+          "realizedPnl": -14527.769999999991,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 229.56,
+          "avgExit": 231.01277699999994,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "9/28/26"
     }
   },
   "annotations": {
@@ -7924,5 +7956,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-28T19:47:45.040Z"
+  "updated": "2026-09-28T19:48:01.139Z"
 }
