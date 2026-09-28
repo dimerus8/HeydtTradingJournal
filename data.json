@@ -6550,11 +6550,11 @@
           "entryTime": null,
           "exitTime": null,
           "realizedPnl": 18429,
-          "totalEntryQty": 0,
-          "totalExitQty": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
           "avgEntry": 1,
           "avgExit": 1,
-          "status": "open",
+          "status": "closed",
           "tradeType": "Off Open Red",
           "notes": "",
           "entryDateStr": "9/25/26",
@@ -7921,5 +7921,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-28T19:46:56.792Z"
+  "updated": "2026-09-28T19:47:03.368Z"
 }
