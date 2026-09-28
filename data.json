@@ -6584,7 +6584,7 @@
           "symbol": "NVDA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790602202000,
           "exitTime": 1790602354000,
           "realizedPnl": -14527.769999999991,
@@ -6592,7 +6592,11 @@
           "totalExitQty": 10000,
           "avgEntry": 229.56,
           "avgExit": 231.01277699999994,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "9/28/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/28/26"
@@ -7954,7 +7958,11 @@
     "man_AKAM_1790624810904": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_NVDA_1790624881131": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-09-28T19:48:01.139Z"
+  "updated": "2026-09-28T19:48:07.822Z"
 }
