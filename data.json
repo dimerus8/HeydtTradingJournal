@@ -6606,7 +6606,54 @@
       "dateStr": "9/28/26"
     },
     "2026-09-29": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_FICO_1790712717267",
+          "symbol": "FICO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790687266000,
+          "exitTime": 1790687624000,
+          "realizedPnl": -146.56000000000313,
+          "totalEntryQty": 100,
+          "totalExitQty": 100,
+          "avgEntry": 671.0294,
+          "avgExit": 672.495,
+          "status": "closed"
+        },
+        {
+          "id": "t_FICO_1790712717268",
+          "symbol": "FICO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790688432000,
+          "exitTime": 1790688550000,
+          "realizedPnl": -6178.720000000011,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 661.0718699999999,
+          "avgExit": 667.2505900000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_NQZ6_1790712717269",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1790711386000,
+          "exitTime": 1790711404000,
+          "realizedPnl": -74,
+          "totalEntryQty": 20,
+          "totalExitQty": 20,
+          "avgEntry": 30615.7875,
+          "avgExit": 30612.0875,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "9/29/26"
     }
   },
   "annotations": {
@@ -7975,5 +8022,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-29T20:11:48.928Z"
+  "updated": "2026-09-29T20:11:57.270Z"
 }
