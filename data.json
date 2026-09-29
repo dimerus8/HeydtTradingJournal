@@ -6608,21 +6608,6 @@
     "2026-09-29": {
       "trades": [
         {
-          "id": "t_FICO_1790712717267",
-          "symbol": "FICO",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790687266000,
-          "exitTime": 1790687624000,
-          "realizedPnl": -146.56000000000313,
-          "totalEntryQty": 100,
-          "totalExitQty": 100,
-          "avgEntry": 671.0294,
-          "avgExit": 672.495,
-          "status": "closed"
-        },
-        {
           "id": "t_FICO_1790712717268",
           "symbol": "FICO",
           "direction": "SHORT",
@@ -8030,5 +8015,5 @@
       "notes": "Mkt to buy 1b"
     }
   },
-  "updated": "2026-09-29T20:12:31.691Z"
+  "updated": "2026-09-29T20:12:36.502Z"
 }
