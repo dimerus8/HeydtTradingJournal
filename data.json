@@ -6612,7 +6612,7 @@
           "symbol": "FICO",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790688432000,
           "exitTime": 1790688550000,
           "realizedPnl": -6178.720000000011,
@@ -6620,7 +6620,11 @@
           "totalExitQty": 1000,
           "avgEntry": 661.0718699999999,
           "avgExit": 667.2505900000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "looking 4% down at 9.28. flipped at 29",
+          "entryDateStr": "9/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NQZ6_1790712717269",
@@ -8013,7 +8017,11 @@
     "t_NQZ6_1790712717269": {
       "tradeType": "Imbal PM",
       "notes": "Mkt to buy 1b"
+    },
+    "t_FICO_1790712717268": {
+      "tradeType": "Imbal AM",
+      "notes": "looking 4% down at 9.28. flipped at 29"
     }
   },
-  "updated": "2026-09-29T20:12:36.502Z"
+  "updated": "2026-09-29T20:12:53.009Z"
 }
