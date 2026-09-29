@@ -6642,15 +6642,19 @@
           "symbol": "NQZ6",
           "direction": "LONG",
           "isFutures": true,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790711386000,
           "exitTime": 1790711404000,
-          "realizedPnl": -74,
+          "realizedPnl": -1480,
           "totalEntryQty": 20,
           "totalExitQty": 20,
           "avgEntry": 30615.7875,
           "avgExit": 30612.0875,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "Mkt to buy 1b",
+          "entryDateStr": "9/29/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "9/29/26"
@@ -8020,7 +8024,11 @@
     "t_MDB_1790624881130": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_NQZ6_1790712717269": {
+      "tradeType": "Imbal PM",
+      "notes": "Mkt to buy 1b"
     }
   },
-  "updated": "2026-09-29T20:11:57.270Z"
+  "updated": "2026-09-29T20:12:31.691Z"
 }
