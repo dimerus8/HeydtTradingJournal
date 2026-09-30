@@ -6700,15 +6700,19 @@
           "symbol": "MRNA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790774969000,
           "exitTime": 1790775000000,
-          "realizedPnl": 120.15000000003133,
+          "realizedPnl": -6617,
           "totalEntryQty": 2000,
           "totalExitQty": 2000,
           "avgEntry": 186.04007499999997,
           "avgExit": 185.97999999999996,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "9/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ASML_1790799472230",
@@ -8170,7 +8174,11 @@
     "t_ASML_1790799472230": {
       "tradeType": "Euro Fix",
       "notes": ""
+    },
+    "t_MRNA_1790799472225": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-09-30T20:22:51.444Z"
+  "updated": "2026-09-30T20:23:00.801Z"
 }
