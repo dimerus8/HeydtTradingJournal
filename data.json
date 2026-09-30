@@ -6730,15 +6730,19 @@
           "symbol": "ASML",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790782342000,
           "exitTime": 1790782528000,
-          "realizedPnl": 889778.2449999993,
+          "realizedPnl": 17419,
           "totalEntryQty": 4000,
           "totalExitQty": 4000,
           "avgEntry": 1819.2445612499998,
           "avgExit": 1596.7999999999995,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "9/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1790799472232",
@@ -8177,7 +8181,11 @@
     "t_MU_1790799472232": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_ASML_1790799472230": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-09-30T20:22:02.301Z"
+  "updated": "2026-09-30T20:22:13.690Z"
 }
