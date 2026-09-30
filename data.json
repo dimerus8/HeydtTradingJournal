@@ -6739,7 +6739,7 @@
           "avgEntry": 1819.2445612499998,
           "avgExit": 1596.7999999999995,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Euro Fix",
           "notes": "",
           "entryDateStr": "9/30/26",
           "exitDateStr": ""
@@ -8183,9 +8183,9 @@
       "notes": ""
     },
     "t_ASML_1790799472230": {
-      "tradeType": "",
+      "tradeType": "Euro Fix",
       "notes": ""
     }
   },
-  "updated": "2026-09-30T20:22:13.690Z"
+  "updated": "2026-09-30T20:22:31.275Z"
 }
