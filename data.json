@@ -6681,21 +6681,6 @@
           "status": "closed"
         },
         {
-          "id": "t_SKHY_1790799472228",
-          "symbol": "SKHY",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790774913000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1586,
-          "totalExitQty": 0,
-          "avgEntry": 186,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_MRNA_1790799472225",
           "symbol": "MRNA",
           "direction": "SHORT",
@@ -8180,5 +8165,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-30T20:23:00.801Z"
+  "updated": "2026-09-30T20:23:15.860Z"
 }
