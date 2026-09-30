@@ -6741,21 +6741,6 @@
           "status": "closed"
         },
         {
-          "id": "t_ASML_1790799472231",
-          "symbol": "ASML",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1790782878000,
-          "exitTime": 1790782905000,
-          "realizedPnl": -932760.0000000002,
-          "totalEntryQty": 4000,
-          "totalExitQty": 4000,
-          "avgEntry": 1834.39,
-          "avgExit": 1601.2,
-          "status": "closed"
-        },
-        {
           "id": "t_MU_1790799472232",
           "symbol": "MU",
           "direction": "SHORT",
@@ -8194,5 +8179,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-09-30T20:21:51.000Z"
+  "updated": "2026-09-30T20:22:02.301Z"
 }
