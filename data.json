@@ -6649,7 +6649,159 @@
       "dateStr": "9/29/26"
     },
     "2026-09-30": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SKHY_1790799472227",
+          "symbol": "SKHY",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790774718000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1586,
+          "totalExitQty": 0,
+          "avgEntry": 187.9857944514502,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_KOD_1790799472229",
+          "symbol": "KOD",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790774768000,
+          "exitTime": 1790775032000,
+          "realizedPnl": 106.94999999999993,
+          "totalEntryQty": 30,
+          "totalExitQty": 30,
+          "avgEntry": 93.39,
+          "avgExit": 96.955,
+          "status": "closed"
+        },
+        {
+          "id": "t_SKHY_1790799472228",
+          "symbol": "SKHY",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790774913000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1586,
+          "totalExitQty": 0,
+          "avgEntry": 186,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MRNA_1790799472225",
+          "symbol": "MRNA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790774969000,
+          "exitTime": 1790775000000,
+          "realizedPnl": 120.15000000003133,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 186.04007499999997,
+          "avgExit": 185.97999999999996,
+          "status": "closed"
+        },
+        {
+          "id": "t_MRNA_1790799472226",
+          "symbol": "MRNA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790775009000,
+          "exitTime": 1790775030000,
+          "realizedPnl": -151.30000000000138,
+          "totalEntryQty": 2250,
+          "totalExitQty": 250,
+          "avgEntry": 188.30770888888887,
+          "avgExit": 187.802,
+          "status": "open"
+        },
+        {
+          "id": "t_ASML_1790799472230",
+          "symbol": "ASML",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790782342000,
+          "exitTime": 1790782528000,
+          "realizedPnl": 889778.2449999993,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 1819.2445612499998,
+          "avgExit": 1596.7999999999995,
+          "status": "closed"
+        },
+        {
+          "id": "t_ASML_1790799472231",
+          "symbol": "ASML",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790782878000,
+          "exitTime": 1790782905000,
+          "realizedPnl": -932760.0000000002,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 1834.39,
+          "avgExit": 1601.2,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1790799472232",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790797792000,
+          "exitTime": 1790798401000,
+          "realizedPnl": 2920.775000000587,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 1065.694155,
+          "avgExit": 1065.1100000000008,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSFT_1790799472233",
+          "symbol": "MSFT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790797814000,
+          "exitTime": 1790798401000,
+          "realizedPnl": 36872.302000000585,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 514.3748920800002,
+          "avgExit": 512.9,
+          "status": "closed"
+        },
+        {
+          "id": "t_UBZ6_1790799472234",
+          "symbol": "UBZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1790798127000,
+          "exitTime": 1790798404000,
+          "realizedPnl": 0.3125,
+          "totalEntryQty": 120,
+          "totalExitQty": 120,
+          "avgEntry": 103.68489583333333,
+          "avgExit": 103.6875,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "9/30/26"
     }
   },
   "annotations": {
@@ -8026,5 +8178,5 @@
       "notes": "looking 4% down at 9.28. flipped at 29"
     }
   },
-  "updated": "2026-09-29T20:13:00.664Z"
+  "updated": "2026-09-30T20:17:52.232Z"
 }
