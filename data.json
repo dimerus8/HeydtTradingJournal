@@ -6760,7 +6760,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790797792000,
           "exitTime": 1790798401000,
           "realizedPnl": 2920.775000000587,
@@ -6768,7 +6768,11 @@
           "totalExitQty": 5000,
           "avgEntry": 1065.694155,
           "avgExit": 1065.1100000000008,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "9/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSFT_1790799472233",
@@ -8184,7 +8188,11 @@
     "t_MSFT_1790799472233": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MU_1790799472232": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-30T20:21:43.370Z"
+  "updated": "2026-09-30T20:21:51.000Z"
 }
