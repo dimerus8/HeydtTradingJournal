@@ -6775,7 +6775,7 @@
           "symbol": "MSFT",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790797814000,
           "exitTime": 1790798401000,
           "realizedPnl": 36872.302000000585,
@@ -6783,7 +6783,11 @@
           "totalExitQty": 25000,
           "avgEntry": 514.3748920800002,
           "avgExit": 512.9,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "9/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_UBZ6_1790799472234",
@@ -8176,7 +8180,11 @@
     "t_FICO_1790712717268": {
       "tradeType": "Imbal AM",
       "notes": "looking 4% down at 9.28. flipped at 29"
+    },
+    "t_MSFT_1790799472233": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-09-30T20:17:52.232Z"
+  "updated": "2026-09-30T20:21:43.370Z"
 }
