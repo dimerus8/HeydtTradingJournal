@@ -6800,7 +6800,7 @@
           "symbol": "ACN",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790861161000,
           "exitTime": 1790861549000,
           "realizedPnl": -3912.3799999999974,
@@ -6808,7 +6808,11 @@
           "totalExitQty": 1000,
           "avgEntry": 215.05851,
           "avgExit": 218.97089000000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "eps",
+          "entryDateStr": "10/1/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_VYLR_1790887254373",
@@ -8252,7 +8256,11 @@
     "t_VYLR_1790887254374": {
       "tradeType": "Imbal PM",
       "notes": "flipped 57"
+    },
+    "t_ACN_1790887254372": {
+      "tradeType": "Off Open Green",
+      "notes": "eps"
     }
   },
-  "updated": "2026-10-01T20:41:21.314Z"
+  "updated": "2026-10-01T20:41:28.090Z"
 }
