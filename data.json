@@ -6785,7 +6785,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790861115000,
           "exitTime": 1790861510000,
           "realizedPnl": -2129.0549999999375,
@@ -6793,7 +6793,11 @@
           "totalExitQty": 2000,
           "avgEntry": 1052.17152,
           "avgExit": 1053.2360475000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "after eps",
+          "entryDateStr": "10/1/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ACN_1790887254372",
@@ -8260,7 +8264,11 @@
     "t_ACN_1790887254372": {
       "tradeType": "Off Open Green",
       "notes": "eps"
+    },
+    "t_MU_1790887254371": {
+      "tradeType": "Off Open Red",
+      "notes": "after eps"
     }
   },
-  "updated": "2026-10-01T20:41:28.090Z"
+  "updated": "2026-10-01T20:41:38.466Z"
 }
