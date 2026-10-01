@@ -6834,7 +6834,7 @@
           "symbol": "VYLR",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790884359000,
           "exitTime": 1790885074000,
           "realizedPnl": -9199.135000000044,
@@ -6842,7 +6842,11 @@
           "totalExitQty": 10000,
           "avgEntry": 67.34008650000003,
           "avgExit": 68.26000000000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "flipped 57",
+          "entryDateStr": "10/1/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/1/26"
@@ -8244,7 +8248,11 @@
     "t_VYLR_1790887254373": {
       "tradeType": "Imbal PM",
       "notes": "early look"
+    },
+    "t_VYLR_1790887254374": {
+      "tradeType": "Imbal PM",
+      "notes": "flipped 57"
     }
   },
-  "updated": "2026-10-01T20:41:08.650Z"
+  "updated": "2026-10-01T20:41:21.314Z"
 }
