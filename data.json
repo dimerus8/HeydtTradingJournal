@@ -6866,7 +6866,7 @@
           "symbol": "STX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1790947601000,
           "exitTime": 1790947810000,
           "realizedPnl": 25336.620000000017,
@@ -6874,7 +6874,11 @@
           "totalExitQty": 2000,
           "avgEntry": 830.0911300000002,
           "avgExit": 817.4228200000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/2/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPXWV02267710.00_1790971854198",
@@ -8303,7 +8307,11 @@
     "t_MU_1790887254371": {
       "tradeType": "Off Open Red",
       "notes": "after eps"
+    },
+    "t_STX_1790971854197": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-02T20:10:54.198Z"
+  "updated": "2026-10-02T20:11:03.965Z"
 }
