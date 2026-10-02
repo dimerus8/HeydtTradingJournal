@@ -6860,7 +6860,39 @@
       "dateStr": "10/1/26"
     },
     "2026-10-02": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_STX_1790971854197",
+          "symbol": "STX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790947601000,
+          "exitTime": 1790947810000,
+          "realizedPnl": 25336.620000000017,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 830.0911300000002,
+          "avgExit": 817.4228200000003,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPXWV02267710.00_1790971854198",
+          "symbol": "SPXWV02267710.00",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1790963594000,
+          "exitTime": 1790963599000,
+          "realizedPnl": 0.04999999999999982,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
+          "avgEntry": 2.85,
+          "avgExit": 2.9,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/2/26"
     }
   },
   "annotations": {
@@ -8273,5 +8305,5 @@
       "notes": "after eps"
     }
   },
-  "updated": "2026-10-01T20:42:52.851Z"
+  "updated": "2026-10-02T20:10:54.198Z"
 }
