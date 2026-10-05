@@ -6975,21 +6975,6 @@
           "notes": "Ad hoc",
           "entryDateStr": "10/5/26",
           "exitDateStr": ""
-        },
-        {
-          "id": "t_WBD_1791231223127",
-          "symbol": "WBD",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1791230401000,
-          "exitTime": 1791231077000,
-          "realizedPnl": 9480.000000000644,
-          "totalEntryQty": 593000,
-          "totalExitQty": 400000,
-          "avgEntry": 30.95,
-          "avgExit": 30.9737,
-          "status": "open"
         }
       ],
       "dateStr": "10/5/26"
@@ -8425,5 +8410,5 @@
       "notes": "Ad hoc"
     }
   },
-  "updated": "2026-10-05T20:14:37.433Z"
+  "updated": "2026-10-05T20:14:41.106Z"
 }
