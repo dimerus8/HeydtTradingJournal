@@ -6962,15 +6962,19 @@
           "symbol": "TWLO",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791228547000,
           "exitTime": 1791230103000,
-          "realizedPnl": 3233.250000000021,
+          "realizedPnl": 8415,
           "totalEntryQty": 3000,
-          "totalExitQty": 2000,
+          "totalExitQty": 3000,
           "avgEntry": 292.30799566666667,
           "avgExit": 293.52825,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "SP500 Add",
+          "notes": "",
+          "entryDateStr": "10/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_WBD_1791231223127",
@@ -8415,7 +8419,11 @@
     "t_WBD_1791231223126": {
       "tradeType": "Deal Close",
       "notes": ""
+    },
+    "t_TWLO_1791231223129": {
+      "tradeType": "SP500 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-10-05T20:14:16.375Z"
+  "updated": "2026-10-05T20:14:29.617Z"
 }
