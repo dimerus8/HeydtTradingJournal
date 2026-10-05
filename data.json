@@ -6905,7 +6905,7 @@
           "symbol": "EWZ",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791204640000,
           "exitTime": 1791207193000,
           "realizedPnl": -2553.0499999999915,
@@ -6913,7 +6913,11 @@
           "totalExitQty": 25000,
           "avgEntry": 42.836994000000004,
           "avgExit": 42.939116,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "10/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_PCVX_1791231223125",
@@ -8421,7 +8425,11 @@
     "t_STX_1790971854197": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_EWZ_1791231223124": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-10-05T20:13:43.126Z"
+  "updated": "2026-10-05T20:13:50.408Z"
 }
