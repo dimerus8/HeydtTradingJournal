@@ -6973,21 +6973,6 @@
           "status": "open"
         },
         {
-          "id": "t_TWLO_1791231223130",
-          "symbol": "TWLO",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1791230324000,
-          "exitTime": 1791230739000,
-          "realizedPnl": -2609.9999999999573,
-          "totalEntryQty": 4000,
-          "totalExitQty": 2000,
-          "avgEntry": 300.315,
-          "avgExit": 301.025,
-          "status": "open"
-        },
-        {
           "id": "t_WBD_1791231223127",
           "symbol": "WBD",
           "direction": "LONG",
@@ -8432,5 +8417,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-05T20:14:11.969Z"
+  "updated": "2026-10-05T20:14:16.375Z"
 }
