@@ -6899,7 +6899,114 @@
       "dateStr": "10/2/26"
     },
     "2026-10-05": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_EWZ_1791231223124",
+          "symbol": "EWZ",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791204640000,
+          "exitTime": 1791207193000,
+          "realizedPnl": -2553.0499999999915,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 42.836994000000004,
+          "avgExit": 42.939116,
+          "status": "closed"
+        },
+        {
+          "id": "t_PCVX_1791231223125",
+          "symbol": "PCVX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791205792000,
+          "exitTime": 1791207026000,
+          "realizedPnl": 2691.7499999999986,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 88.50536500000001,
+          "avgExit": 87.15949,
+          "status": "closed"
+        },
+        {
+          "id": "t_WBD_1791231223126",
+          "symbol": "WBD",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791209000000,
+          "exitTime": 1791230401000,
+          "realizedPnl": 2840.0999999999667,
+          "totalEntryQty": 150000,
+          "totalExitQty": 150000,
+          "avgEntry": 30.968933999999997,
+          "avgExit": 30.95,
+          "status": "closed"
+        },
+        {
+          "id": "t_TWLO_1791231223129",
+          "symbol": "TWLO",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791228547000,
+          "exitTime": 1791230103000,
+          "realizedPnl": 3233.250000000021,
+          "totalEntryQty": 3000,
+          "totalExitQty": 2000,
+          "avgEntry": 292.30799566666667,
+          "avgExit": 293.52825,
+          "status": "open"
+        },
+        {
+          "id": "t_VYLR_1791231223128",
+          "symbol": "VYLR",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791228998000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 73.07563500000002,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_TWLO_1791231223130",
+          "symbol": "TWLO",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791230324000,
+          "exitTime": 1791230739000,
+          "realizedPnl": -2609.9999999999573,
+          "totalEntryQty": 4000,
+          "totalExitQty": 2000,
+          "avgEntry": 300.315,
+          "avgExit": 301.025,
+          "status": "open"
+        },
+        {
+          "id": "t_WBD_1791231223127",
+          "symbol": "WBD",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791230401000,
+          "exitTime": 1791231077000,
+          "realizedPnl": 9480.000000000644,
+          "totalEntryQty": 593000,
+          "totalExitQty": 400000,
+          "avgEntry": 30.95,
+          "avgExit": 30.9737,
+          "status": "open"
+        }
+      ],
+      "dateStr": "10/5/26"
     }
   },
   "annotations": {
@@ -8316,5 +8423,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-05T12:55:57.680Z"
+  "updated": "2026-10-05T20:13:43.126Z"
 }
