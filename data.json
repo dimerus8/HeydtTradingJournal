@@ -6924,7 +6924,7 @@
           "symbol": "PCVX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791205792000,
           "exitTime": 1791207026000,
           "realizedPnl": 2691.7499999999986,
@@ -6932,7 +6932,11 @@
           "totalExitQty": 2000,
           "avgEntry": 88.50536500000001,
           "avgExit": 87.15949,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "10/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_WBD_1791231223126",
@@ -8429,7 +8433,11 @@
     "t_EWZ_1791231223124": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_PCVX_1791231223125": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-10-05T20:13:50.408Z"
+  "updated": "2026-10-05T20:13:54.543Z"
 }
