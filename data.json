@@ -6943,7 +6943,7 @@
           "symbol": "WBD",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791209000000,
           "exitTime": 1791230401000,
           "realizedPnl": 2840.0999999999667,
@@ -6951,7 +6951,11 @@
           "totalExitQty": 150000,
           "avgEntry": 30.968933999999997,
           "avgExit": 30.95,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Deal Close",
+          "notes": "",
+          "entryDateStr": "10/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_TWLO_1791231223129",
@@ -8437,7 +8441,11 @@
     "t_PCVX_1791231223125": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_WBD_1791231223126": {
+      "tradeType": "Deal Close",
+      "notes": ""
     }
   },
-  "updated": "2026-10-05T20:13:54.543Z"
+  "updated": "2026-10-05T20:14:01.463Z"
 }
