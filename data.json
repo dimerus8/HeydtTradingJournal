@@ -6986,15 +6986,19 @@
           "symbol": "TWLO",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791291481000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -1202,
           "totalEntryQty": 1000,
-          "totalExitQty": 0,
+          "totalExitQty": 1000,
           "avgEntry": 302.1758,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Backend",
+          "notes": "ended up fading whole day, mkt up",
+          "entryDateStr": "10/6/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_CEG_1791317952643",
@@ -8458,7 +8462,11 @@
     "t_TWLO_1791231223129": {
       "tradeType": "SP500 Add",
       "notes": "Ad hoc"
+    },
+    "t_TWLO_1791317952642": {
+      "tradeType": "Backend",
+      "notes": "ended up fading whole day, mkt up"
     }
   },
-  "updated": "2026-10-06T20:19:12.646Z"
+  "updated": "2026-10-06T20:20:12.364Z"
 }
