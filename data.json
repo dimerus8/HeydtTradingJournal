@@ -7005,7 +7005,7 @@
           "symbol": "CEG",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791292075000,
           "exitTime": 1791293292000,
           "realizedPnl": -12035.360000000013,
@@ -7013,7 +7013,11 @@
           "totalExitQty": 4000,
           "avgEntry": 288.49261,
           "avgExit": 291.50145,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "first entry for imbal",
+          "entryDateStr": "10/6/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_CEG_1791317952644",
@@ -8466,7 +8470,11 @@
     "t_TWLO_1791317952642": {
       "tradeType": "Backend",
       "notes": "ended up fading whole day, mkt up"
+    },
+    "t_CEG_1791317952643": {
+      "tradeType": "Off Open Green",
+      "notes": "first entry for imbal"
     }
   },
-  "updated": "2026-10-06T20:20:12.364Z"
+  "updated": "2026-10-06T20:20:28.246Z"
 }
