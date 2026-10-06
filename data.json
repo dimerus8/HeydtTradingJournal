@@ -6980,7 +6980,54 @@
       "dateStr": "10/5/26"
     },
     "2026-10-06": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_TWLO_1791317952642",
+          "symbol": "TWLO",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791291481000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1000,
+          "totalExitQty": 0,
+          "avgEntry": 302.1758,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_CEG_1791317952643",
+          "symbol": "CEG",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791292075000,
+          "exitTime": 1791293292000,
+          "realizedPnl": -12035.360000000013,
+          "totalEntryQty": 4000,
+          "totalExitQty": 4000,
+          "avgEntry": 288.49261,
+          "avgExit": 291.50145,
+          "status": "closed"
+        },
+        {
+          "id": "t_CEG_1791317952644",
+          "symbol": "CEG",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791293401000,
+          "exitTime": 1791293470000,
+          "realizedPnl": -10886.275000000049,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 292.58,
+          "avgExit": 298.02313749999996,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/6/26"
     }
   },
   "annotations": {
@@ -8413,5 +8460,5 @@
       "notes": "Ad hoc"
     }
   },
-  "updated": "2026-10-06T19:34:43.346Z"
+  "updated": "2026-10-06T20:19:12.646Z"
 }
