@@ -7024,7 +7024,7 @@
           "symbol": "CEG",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791293401000,
           "exitTime": 1791293470000,
           "realizedPnl": -10886.275000000049,
@@ -7032,7 +7032,11 @@
           "totalExitQty": 2000,
           "avgEntry": 292.58,
           "avgExit": 298.02313749999996,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "off open",
+          "entryDateStr": "10/6/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/6/26"
@@ -8474,7 +8478,11 @@
     "t_CEG_1791317952643": {
       "tradeType": "Off Open Green",
       "notes": "first entry for imbal"
+    },
+    "t_CEG_1791317952644": {
+      "tradeType": "Off Open Green",
+      "notes": "off open"
     }
   },
-  "updated": "2026-10-06T20:20:28.246Z"
+  "updated": "2026-10-06T20:20:35.175Z"
 }
