@@ -7048,15 +7048,19 @@
           "symbol": "MRVL",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791379303000,
           "exitTime": 1791379793000,
           "realizedPnl": -4214.610000000007,
           "totalEntryQty": 2000,
-          "totalExitQty": 1893,
+          "totalExitQty": 2000,
           "avgEntry": 282.4381349999999,
           "avgExit": 280.2150026413101,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "post investor day",
+          "entryDateStr": "10/7/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_APLD_1791403765150",
@@ -8517,7 +8521,11 @@
     "t_CEG_1791317952644": {
       "tradeType": "Off Open Green",
       "notes": "off open"
+    },
+    "t_MRVL_1791403765148": {
+      "tradeType": "Off Open Red",
+      "notes": "post investor day"
     }
   },
-  "updated": "2026-10-07T20:09:41.035Z"
+  "updated": "2026-10-07T20:09:55.683Z"
 }
