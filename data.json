@@ -7042,7 +7042,54 @@
       "dateStr": "10/6/26"
     },
     "2026-10-07": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MRVL_1791403765148",
+          "symbol": "MRVL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791379303000,
+          "exitTime": 1791379793000,
+          "realizedPnl": -4214.610000000007,
+          "totalEntryQty": 2000,
+          "totalExitQty": 1893,
+          "avgEntry": 282.4381349999999,
+          "avgExit": 280.2150026413101,
+          "status": "open"
+        },
+        {
+          "id": "t_MRVL_1791403765149",
+          "symbol": "MRVL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791379695000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 107,
+          "totalExitQty": 0,
+          "avgEntry": 280.5,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_APLD_1791403765150",
+          "symbol": "APLD",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791402704000,
+          "exitTime": 1791402754000,
+          "realizedPnl": 41.50000000000169,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 23.77625,
+          "avgExit": 23.7555,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/7/26"
     }
   },
   "annotations": {
@@ -7263,7 +7310,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "Overnight",
+      "tradeType": "MSCI Sell",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -8487,5 +8534,5 @@
       "notes": "off open"
     }
   },
-  "updated": "2026-10-06T20:21:36.508Z"
+  "updated": "2026-10-07T20:09:25.148Z"
 }
