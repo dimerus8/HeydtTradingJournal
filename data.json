@@ -7059,21 +7059,6 @@
           "status": "open"
         },
         {
-          "id": "t_MRVL_1791403765149",
-          "symbol": "MRVL",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1791379695000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 107,
-          "totalExitQty": 0,
-          "avgEntry": 280.5,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_APLD_1791403765150",
           "symbol": "APLD",
           "direction": "SHORT",
@@ -8534,5 +8519,5 @@
       "notes": "off open"
     }
   },
-  "updated": "2026-10-07T20:09:25.148Z"
+  "updated": "2026-10-07T20:09:41.035Z"
 }
