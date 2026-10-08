@@ -7125,7 +7125,7 @@
           "symbol": "MRNA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791487820000,
           "exitTime": 1791489014000,
           "realizedPnl": -560.3199999999961,
@@ -7133,7 +7133,11 @@
           "totalExitQty": 5000,
           "avgEntry": 197.60556400000002,
           "avgExit": 197.49349999999995,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "NDX 100 Add",
+          "notes": "",
+          "entryDateStr": "10/8/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SKYD_1791490223608",
@@ -8606,7 +8610,11 @@
     "t_WOLF_1791490223606": {
       "tradeType": "Off Open Green",
       "notes": "NVTS comp, weak in pre"
+    },
+    "t_MRNA_1791490223607": {
+      "tradeType": "NDX 100 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-10-08T20:10:41.499Z"
+  "updated": "2026-10-08T20:10:48.955Z"
 }
