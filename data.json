@@ -7081,7 +7081,69 @@
       "dateStr": "10/7/26"
     },
     "2026-10-08": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_APLD_1791490223605",
+          "symbol": "APLD",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791465905000,
+          "exitTime": 1791466260000,
+          "realizedPnl": 2264.0599999999968,
+          "totalEntryQty": 11104,
+          "totalExitQty": 11104,
+          "avgEntry": 24.33110410662825,
+          "avgExit": 24.127208213256488,
+          "status": "closed"
+        },
+        {
+          "id": "t_WOLF_1791490223606",
+          "symbol": "WOLF",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791466244000,
+          "exitTime": 1791466250000,
+          "realizedPnl": 1582.3400000000051,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 35.11000000000001,
+          "avgExit": 34.477064,
+          "status": "closed"
+        },
+        {
+          "id": "t_MRNA_1791490223607",
+          "symbol": "MRNA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791487820000,
+          "exitTime": 1791489014000,
+          "realizedPnl": -560.3199999999961,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 197.60556400000002,
+          "avgExit": 197.49349999999995,
+          "status": "closed"
+        },
+        {
+          "id": "t_SKYD_1791490223608",
+          "symbol": "SKYD",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791489610000,
+          "exitTime": 1791489718000,
+          "realizedPnl": 588.3400000000352,
+          "totalEntryQty": 50000,
+          "totalExitQty": 50000,
+          "avgEntry": 9.28,
+          "avgExit": 9.291766800000001,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/8/26"
     }
   },
   "annotations": {
@@ -8530,5 +8592,5 @@
       "notes": "post investor day"
     }
   },
-  "updated": "2026-10-08T20:10:05.751Z"
+  "updated": "2026-10-08T20:10:23.606Z"
 }
