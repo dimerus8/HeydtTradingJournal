@@ -7087,7 +7087,7 @@
           "symbol": "APLD",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791465905000,
           "exitTime": 1791466260000,
           "realizedPnl": 2264.0599999999968,
@@ -7095,7 +7095,11 @@
           "totalExitQty": 11104,
           "avgEntry": 24.33110410662825,
           "avgExit": 24.127208213256488,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/8/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_WOLF_1791490223606",
@@ -8590,7 +8594,11 @@
     "t_MRVL_1791403765148": {
       "tradeType": "Off Open Red",
       "notes": "post investor day"
+    },
+    "t_APLD_1791490223605": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-08T20:10:23.606Z"
+  "updated": "2026-10-08T20:10:29.547Z"
 }
