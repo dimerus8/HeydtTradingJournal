@@ -7106,7 +7106,7 @@
           "symbol": "WOLF",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791466244000,
           "exitTime": 1791466250000,
           "realizedPnl": 1582.3400000000051,
@@ -7114,7 +7114,11 @@
           "totalExitQty": 2500,
           "avgEntry": 35.11000000000001,
           "avgExit": 34.477064,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "NVTS comp, weak in pre",
+          "entryDateStr": "10/8/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MRNA_1791490223607",
@@ -8598,7 +8602,11 @@
     "t_APLD_1791490223605": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_WOLF_1791490223606": {
+      "tradeType": "Off Open Green",
+      "notes": "NVTS comp, weak in pre"
     }
   },
-  "updated": "2026-10-08T20:10:29.547Z"
+  "updated": "2026-10-08T20:10:41.499Z"
 }
