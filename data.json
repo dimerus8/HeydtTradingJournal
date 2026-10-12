@@ -7171,7 +7171,7 @@
           "symbol": "IREN",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791811521000,
           "exitTime": 1791812047000,
           "realizedPnl": 234.1749999999845,
@@ -7179,7 +7179,11 @@
           "totalExitQty": 17500,
           "avgEntry": 36.32321085714287,
           "avgExit": 36.30982942857143,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "contract fade",
+          "entryDateStr": "10/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1791833219894",
@@ -8668,7 +8672,11 @@
     "t_MU_1791833219894": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_IREN_1791833219893": {
+      "tradeType": "Off Open Green",
+      "notes": "contract fade"
     }
   },
-  "updated": "2026-10-12T19:27:05.626Z"
+  "updated": "2026-10-12T19:27:22.922Z"
 }
