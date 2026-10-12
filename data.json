@@ -7165,7 +7165,39 @@
       "trades": []
     },
     "2026-10-12": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_IREN_1791833219893",
+          "symbol": "IREN",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791811521000,
+          "exitTime": 1791812047000,
+          "realizedPnl": 234.1749999999845,
+          "totalEntryQty": 17500,
+          "totalExitQty": 17500,
+          "avgEntry": 36.32321085714287,
+          "avgExit": 36.30982942857143,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1791833219894",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791811554000,
+          "exitTime": 1791811809000,
+          "realizedPnl": 9082.090000000057,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 1002.76209,
+          "avgExit": 993.6799999999997,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/12/26"
     }
   },
   "annotations": {
@@ -8630,5 +8662,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-12T17:20:25.426Z"
+  "updated": "2026-10-12T19:26:59.896Z"
 }
