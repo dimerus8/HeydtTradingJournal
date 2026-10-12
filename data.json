@@ -7186,7 +7186,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791811554000,
           "exitTime": 1791811809000,
           "realizedPnl": 9082.090000000057,
@@ -7194,7 +7194,11 @@
           "totalExitQty": 1000,
           "avgEntry": 1002.76209,
           "avgExit": 993.6799999999997,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/12/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/12/26"
@@ -8660,7 +8664,11 @@
     "t_SKYD_1791490223608": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_MU_1791833219894": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-12T19:26:59.896Z"
+  "updated": "2026-10-12T19:27:05.626Z"
 }
