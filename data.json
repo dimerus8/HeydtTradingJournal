@@ -7208,7 +7208,39 @@
       "dateStr": "10/12/26"
     },
     "2026-10-13": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MU_1791922080598",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791898002000,
+          "exitTime": 1791898202000,
+          "realizedPnl": -2412.0850000000046,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 934.2288400000003,
+          "avgExit": 935.4348824999998,
+          "status": "closed"
+        },
+        {
+          "id": "t_ASML_1791922080599",
+          "symbol": "ASML",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791905801000,
+          "exitTime": 1791905808000,
+          "realizedPnl": -87774.8500000001,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 1509.6,
+          "avgExit": 1685.1497,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/13/26"
     }
   },
   "annotations": {
@@ -7429,7 +7461,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -8681,5 +8713,5 @@
       "notes": "contract fade"
     }
   },
-  "updated": "2026-10-12T20:07:18.633Z"
+  "updated": "2026-10-13T20:08:00.601Z"
 }
