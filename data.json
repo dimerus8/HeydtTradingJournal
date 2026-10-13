@@ -7229,15 +7229,19 @@
           "symbol": "ASML",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791905801000,
           "exitTime": 1791905808000,
-          "realizedPnl": -87774.8500000001,
+          "realizedPnl": 2761,
           "totalEntryQty": 500,
           "totalExitQty": 500,
           "avgEntry": 1509.6,
           "avgExit": 1685.1497,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Euro Fix",
+          "notes": "",
+          "entryDateStr": "10/13/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/13/26"
@@ -8711,7 +8715,11 @@
     "t_IREN_1791833219893": {
       "tradeType": "Off Open Green",
       "notes": "contract fade"
+    },
+    "t_ASML_1791922080599": {
+      "tradeType": "Euro Fix",
+      "notes": ""
     }
   },
-  "updated": "2026-10-13T20:08:00.601Z"
+  "updated": "2026-10-13T20:08:11.249Z"
 }
