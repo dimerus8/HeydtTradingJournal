@@ -7214,7 +7214,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791898002000,
           "exitTime": 1791898202000,
           "realizedPnl": -2412.0850000000046,
@@ -7222,7 +7222,11 @@
           "totalExitQty": 2000,
           "avgEntry": 934.2288400000003,
           "avgExit": 935.4348824999998,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/13/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ASML_1791922080599",
@@ -8719,7 +8723,11 @@
     "t_ASML_1791922080599": {
       "tradeType": "Euro Fix",
       "notes": ""
+    },
+    "t_MU_1791922080598": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-13T20:08:11.249Z"
+  "updated": "2026-10-13T20:08:17.441Z"
 }
