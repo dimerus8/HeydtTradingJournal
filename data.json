@@ -7257,15 +7257,19 @@
           "symbol": "LQDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791980947000,
           "exitTime": 1791982301000,
-          "realizedPnl": -1216.5900000000017,
+          "realizedPnl": -3989,
           "totalEntryQty": 1000,
           "totalExitQty": 1000,
           "avgEntry": 37.99731,
           "avgExit": 36.78072000000001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "10/14/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_PGR_1792008973066",
@@ -8800,7 +8804,11 @@
     "t_SKYD+_1792008973067": {
       "tradeType": "",
       "notes": ""
+    },
+    "t_LQDA_1792008973064": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-10-14T20:16:34.405Z"
+  "updated": "2026-10-14T20:16:49.804Z"
 }
