@@ -7304,7 +7304,7 @@
           "avgEntry": 2.709090909090909,
           "avgExit": 2.5,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Imbal PM",
           "notes": "",
           "entryDateStr": "10/14/26",
           "exitDateStr": ""
@@ -8806,7 +8806,7 @@
       "notes": ""
     },
     "t_SKYD+_1792008973067": {
-      "tradeType": "",
+      "tradeType": "Imbal PM",
       "notes": ""
     },
     "t_LQDA_1792008973064": {
@@ -8818,5 +8818,5 @@
       "notes": "paired flipped a bunch of times"
     }
   },
-  "updated": "2026-10-14T20:17:21.173Z"
+  "updated": "2026-10-14T20:17:59.446Z"
 }
