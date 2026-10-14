@@ -7283,21 +7283,6 @@
           "status": "closed"
         },
         {
-          "id": "t_LQDA_1792008973065",
-          "symbol": "LQDA",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1791984612000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 7500,
-          "totalExitQty": 0,
-          "avgEntry": 36.597503999999994,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_SKYD+_1792008973067",
           "symbol": "SKYD+",
           "direction": "SHORT",
@@ -8817,5 +8802,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-14T20:16:29.053Z"
+  "updated": "2026-10-14T20:16:34.405Z"
 }
