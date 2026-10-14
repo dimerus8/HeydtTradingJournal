@@ -7314,7 +7314,7 @@
           "symbol": "MDT",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792007718000,
           "exitTime": 1792008005000,
           "realizedPnl": -1464.139999999995,
@@ -7322,7 +7322,11 @@
           "totalExitQty": 5000,
           "avgEntry": 94.504932,
           "avgExit": 94.21210400000001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "10/14/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/14/26"
@@ -8816,7 +8820,11 @@
     "t_PGR_1792008973066": {
       "tradeType": "Imbal AM",
       "notes": "paired flipped a bunch of times"
+    },
+    "t_MDT_1792008973069": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-14T20:17:59.446Z"
+  "updated": "2026-10-14T20:18:06.022Z"
 }
