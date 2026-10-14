@@ -7330,21 +7330,6 @@
           "avgEntry": 94.504932,
           "avgExit": 94.21210400000001,
           "status": "closed"
-        },
-        {
-          "id": "t_SKYD+_1792008973068",
-          "symbol": "SKYD+",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1792008087000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 50000,
-          "totalExitQty": 0,
-          "avgEntry": 2.5,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "10/14/26"
@@ -8832,5 +8817,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-14T20:16:26.276Z"
+  "updated": "2026-10-14T20:16:29.053Z"
 }
