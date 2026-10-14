@@ -7266,7 +7266,7 @@
           "avgEntry": 37.99731,
           "avgExit": 36.78072000000001,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Off Open Green",
           "notes": "",
           "entryDateStr": "10/14/26",
           "exitDateStr": ""
@@ -8806,9 +8806,9 @@
       "notes": ""
     },
     "t_LQDA_1792008973064": {
-      "tradeType": "",
+      "tradeType": "Off Open Green",
       "notes": ""
     }
   },
-  "updated": "2026-10-14T20:16:49.804Z"
+  "updated": "2026-10-14T20:17:07.357Z"
 }
