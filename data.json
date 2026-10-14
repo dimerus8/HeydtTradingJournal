@@ -7276,7 +7276,7 @@
           "symbol": "PGR",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1791984188000,
           "exitTime": 1791984341000,
           "realizedPnl": -3635.0799999999863,
@@ -7284,7 +7284,11 @@
           "totalExitQty": 1000,
           "avgEntry": 204.86,
           "avgExit": 208.49508000000003,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "paired flipped a bunch of times",
+          "entryDateStr": "10/14/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SKYD+_1792008973067",
@@ -8808,7 +8812,11 @@
     "t_LQDA_1792008973064": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_PGR_1792008973066": {
+      "tradeType": "Imbal AM",
+      "notes": "paired flipped a bunch of times"
     }
   },
-  "updated": "2026-10-14T20:17:07.357Z"
+  "updated": "2026-10-14T20:17:21.173Z"
 }
