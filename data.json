@@ -7251,7 +7251,99 @@
       "dateStr": "10/13/26"
     },
     "2026-10-14": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_LQDA_1792008973064",
+          "symbol": "LQDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791980947000,
+          "exitTime": 1791982301000,
+          "realizedPnl": -1216.5900000000017,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 37.99731,
+          "avgExit": 36.78072000000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_PGR_1792008973066",
+          "symbol": "PGR",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791984188000,
+          "exitTime": 1791984341000,
+          "realizedPnl": -3635.0799999999863,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 204.86,
+          "avgExit": 208.49508000000003,
+          "status": "closed"
+        },
+        {
+          "id": "t_LQDA_1792008973065",
+          "symbol": "LQDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1791984612000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 7500,
+          "totalExitQty": 0,
+          "avgEntry": 36.597503999999994,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SKYD+_1792008973067",
+          "symbol": "SKYD+",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792007039000,
+          "exitTime": 1792008087000,
+          "realizedPnl": 230,
+          "totalEntryQty": 1100,
+          "totalExitQty": 1100,
+          "avgEntry": 2.709090909090909,
+          "avgExit": 2.5,
+          "status": "closed"
+        },
+        {
+          "id": "t_MDT_1792008973069",
+          "symbol": "MDT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792007718000,
+          "exitTime": 1792008005000,
+          "realizedPnl": -1464.139999999995,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 94.504932,
+          "avgExit": 94.21210400000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_SKYD+_1792008973068",
+          "symbol": "SKYD+",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792008087000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 50000,
+          "totalExitQty": 0,
+          "avgEntry": 2.5,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "10/14/26"
     }
   },
   "annotations": {
@@ -8732,5 +8824,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-14T14:54:13.760Z"
+  "updated": "2026-10-14T20:16:13.064Z"
 }
