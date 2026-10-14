@@ -7302,15 +7302,19 @@
           "symbol": "SKYD+",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792007039000,
           "exitTime": 1792008087000,
-          "realizedPnl": 230,
+          "realizedPnl": 10064,
           "totalEntryQty": 1100,
           "totalExitQty": 1100,
           "avgEntry": 2.709090909090909,
           "avgExit": 2.5,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "10/14/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MDT_1792008973069",
@@ -8822,7 +8826,11 @@
     "t_MU_1791922080598": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_SKYD+_1792008973067": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-10-14T20:16:13.064Z"
+  "updated": "2026-10-14T20:16:26.276Z"
 }
