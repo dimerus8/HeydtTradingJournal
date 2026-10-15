@@ -7338,7 +7338,7 @@
           "symbol": "DELL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792069625000,
           "exitTime": 1792070982000,
           "realizedPnl": 10280.450000000019,
@@ -7346,7 +7346,11 @@
           "totalExitQty": 2000,
           "avgEntry": 475.9540449999999,
           "avgExit": 470.81382,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "covered open",
+          "entryDateStr": "10/15/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1792095708486",
@@ -8889,7 +8893,11 @@
     "t_MDT_1792008973069": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_DELL_1792095708485": {
+      "tradeType": "Imbal AM",
+      "notes": "covered open"
     }
   },
-  "updated": "2026-10-15T20:21:48.487Z"
+  "updated": "2026-10-15T20:21:59.051Z"
 }
