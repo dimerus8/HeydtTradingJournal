@@ -7376,7 +7376,7 @@
           "symbol": "NVDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792071002000,
           "exitTime": 1792071156000,
           "realizedPnl": -1498.1450000000455,
@@ -7384,7 +7384,11 @@
           "totalExitQty": 15000,
           "avgEntry": 214.41898999999995,
           "avgExit": 214.31911366666668,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Buy off open",
+          "notes": "",
+          "entryDateStr": "10/15/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1792095708487",
@@ -8905,7 +8909,11 @@
     "t_MU_1792095708486": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_NVDA_1792095708488": {
+      "tradeType": "Buy off open",
+      "notes": ""
     }
   },
-  "updated": "2026-10-15T20:22:07.411Z"
+  "updated": "2026-10-15T20:22:41.028Z"
 }
