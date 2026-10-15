@@ -7357,7 +7357,7 @@
           "symbol": "MU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792070632000,
           "exitTime": 1792071015000,
           "realizedPnl": -4843.189999999992,
@@ -7365,7 +7365,11 @@
           "totalExitQty": 940,
           "avgEntry": 871.204180851064,
           "avgExit": 876.356510638298,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/15/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1792095708488",
@@ -8897,7 +8901,11 @@
     "t_DELL_1792095708485": {
       "tradeType": "Imbal AM",
       "notes": "covered open"
+    },
+    "t_MU_1792095708486": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-15T20:21:59.051Z"
+  "updated": "2026-10-15T20:22:07.411Z"
 }
