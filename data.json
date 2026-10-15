@@ -7332,7 +7332,69 @@
       "dateStr": "10/14/26"
     },
     "2026-10-15": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_DELL_1792095708485",
+          "symbol": "DELL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792069625000,
+          "exitTime": 1792070982000,
+          "realizedPnl": 10280.450000000019,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 475.9540449999999,
+          "avgExit": 470.81382,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1792095708486",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792070632000,
+          "exitTime": 1792071015000,
+          "realizedPnl": -4843.189999999992,
+          "totalEntryQty": 940,
+          "totalExitQty": 940,
+          "avgEntry": 871.204180851064,
+          "avgExit": 876.356510638298,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1792095708488",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792071002000,
+          "exitTime": 1792071156000,
+          "realizedPnl": -1498.1450000000455,
+          "totalEntryQty": 15000,
+          "totalExitQty": 15000,
+          "avgEntry": 214.41898999999995,
+          "avgExit": 214.31911366666668,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1792095708487",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792071015000,
+          "exitTime": 1792071019000,
+          "realizedPnl": 37.740000000000805,
+          "totalEntryQty": 60,
+          "totalExitQty": 60,
+          "avgEntry": 876.9344999999998,
+          "avgExit": 877.5635000000001,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/15/26"
     }
   },
   "annotations": {
@@ -8829,5 +8891,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-15T20:21:42.035Z"
+  "updated": "2026-10-15T20:21:48.487Z"
 }
