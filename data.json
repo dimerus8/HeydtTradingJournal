@@ -7409,7 +7409,54 @@
       "dateStr": "10/15/26"
     },
     "2026-10-16": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_TSLA_1792181638143",
+          "symbol": "TSLA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792154228000,
+          "exitTime": 1792157417000,
+          "realizedPnl": 46066.59000000008,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 372.28993899999995,
+          "avgExit": 367.68328000000025,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1792181638144",
+          "symbol": "SPCX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792155162000,
+          "exitTime": 1792157453000,
+          "realizedPnl": 40102.44999999981,
+          "totalEntryQty": 21201,
+          "totalExitQty": 21201,
+          "avgEntry": 148.0284896938824,
+          "avgExit": 146.13695391726807,
+          "status": "closed"
+        },
+        {
+          "id": "t_NDXPV162629140.0_1792181638145",
+          "symbol": "NDXPV162629140.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792179687000,
+          "exitTime": 1792180509000,
+          "realizedPnl": -26.950000000000003,
+          "totalEntryQty": 2,
+          "totalExitQty": 2,
+          "avgEntry": 20.4,
+          "avgExit": 6.925,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/16/26"
     }
   },
   "annotations": {
@@ -8918,5 +8965,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-16T20:13:48.490Z"
+  "updated": "2026-10-16T20:13:58.146Z"
 }
