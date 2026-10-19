@@ -7473,15 +7473,19 @@
           "symbol": "NQZ6",
           "direction": "LONG",
           "isFutures": true,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792416470000,
           "exitTime": 1792439361000,
-          "realizedPnl": 219.5,
+          "realizedPnl": 2195,
           "totalEntryQty": 5,
           "totalExitQty": 5,
           "avgEntry": 29749.5,
           "avgExit": 29793.4,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "10/19/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MANE_1792440572536",
@@ -9052,7 +9056,11 @@
     "t_NQZ6_1792440572535": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_NQZ6_1792440572534": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-19T20:10:01.718Z"
+  "updated": "2026-10-19T20:10:09.718Z"
 }
