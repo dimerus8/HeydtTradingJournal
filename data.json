@@ -7467,7 +7467,69 @@
       "dateStr": "10/16/26"
     },
     "2026-10-19": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_NQZ6_1792440572534",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1792416470000,
+          "exitTime": 1792439361000,
+          "realizedPnl": 219.5,
+          "totalEntryQty": 5,
+          "totalExitQty": 5,
+          "avgEntry": 29749.5,
+          "avgExit": 29793.4,
+          "status": "closed"
+        },
+        {
+          "id": "t_MANE_1792440572536",
+          "symbol": "MANE",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792416508000,
+          "exitTime": 1792416532000,
+          "realizedPnl": -1026.5500000000038,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 114.80862,
+          "avgExit": 116.86172,
+          "status": "closed"
+        },
+        {
+          "id": "t_INTC_1792440572537",
+          "symbol": "INTC",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792416567000,
+          "exitTime": 1792416608000,
+          "realizedPnl": -923.5999999999984,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 94.596,
+          "avgExit": 94.13419999999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_NQZ6_1792440572535",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1792439400000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10,
+          "totalExitQty": 0,
+          "avgEntry": 29763.575,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "10/19/26"
     }
   },
   "annotations": {
@@ -8984,5 +9046,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-19T14:22:02.729Z"
+  "updated": "2026-10-19T20:09:32.536Z"
 }
