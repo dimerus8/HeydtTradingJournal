@@ -7492,7 +7492,7 @@
           "symbol": "MANE",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792416508000,
           "exitTime": 1792416532000,
           "realizedPnl": -1026.5500000000038,
@@ -7500,7 +7500,11 @@
           "totalExitQty": 500,
           "avgEntry": 114.80862,
           "avgExit": 116.86172,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "10/19/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_INTC_1792440572537",
@@ -9068,7 +9072,11 @@
     "t_INTC_1792440572537": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_MANE_1792440572536": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-19T20:10:19.696Z"
+  "updated": "2026-10-19T20:10:24.464Z"
 }
