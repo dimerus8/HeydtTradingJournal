@@ -7507,7 +7507,7 @@
           "symbol": "INTC",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792416567000,
           "exitTime": 1792416608000,
           "realizedPnl": -923.5999999999984,
@@ -7515,7 +7515,11 @@
           "totalExitQty": 2000,
           "avgEntry": 94.596,
           "avgExit": 94.13419999999999,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "10/19/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NQZ6_1792440572535",
@@ -9060,7 +9064,11 @@
     "t_NQZ6_1792440572534": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_INTC_1792440572537": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-19T20:10:09.718Z"
+  "updated": "2026-10-19T20:10:19.696Z"
 }
