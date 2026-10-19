@@ -7523,10 +7523,10 @@
           "exitTime": null,
           "realizedPnl": 0,
           "totalEntryQty": 10,
-          "totalExitQty": 0,
+          "totalExitQty": 10,
           "avgEntry": 29763.575,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 1,
+          "status": "closed",
           "tradeType": "Imbal PM",
           "notes": "",
           "entryDateStr": "10/19/26",
@@ -9054,5 +9054,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-19T20:09:48.142Z"
+  "updated": "2026-10-19T20:09:54.590Z"
 }
