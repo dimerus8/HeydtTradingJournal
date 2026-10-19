@@ -7518,7 +7518,7 @@
           "symbol": "NQZ6",
           "direction": "LONG",
           "isFutures": true,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792439400000,
           "exitTime": null,
           "realizedPnl": 0,
@@ -7526,7 +7526,11 @@
           "totalExitQty": 0,
           "avgEntry": 29763.575,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "10/19/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/19/26"
@@ -9044,7 +9048,11 @@
     "t_TSLA_1792181638143": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_NQZ6_1792440572535": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-19T20:09:32.536Z"
+  "updated": "2026-10-19T20:09:48.142Z"
 }
