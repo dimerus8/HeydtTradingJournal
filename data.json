@@ -7554,7 +7554,7 @@
           "symbol": "CRWV",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792502746000,
           "exitTime": 1792503017000,
           "realizedPnl": -1032.47,
@@ -7562,7 +7562,11 @@
           "totalExitQty": 7500,
           "avgEntry": 59.24877466666667,
           "avgExit": 59.38643733333334,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/20/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1792527339413",
@@ -9119,7 +9123,11 @@
     "t_MU_1792527339413": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_CRWV_1792527339412": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-20T20:15:44.420Z"
+  "updated": "2026-10-20T20:15:48.252Z"
 }
