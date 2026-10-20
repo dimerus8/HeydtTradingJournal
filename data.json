@@ -7548,7 +7548,39 @@
       "dateStr": "10/19/26"
     },
     "2026-10-20": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_CRWV_1792527339412",
+          "symbol": "CRWV",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792502746000,
+          "exitTime": 1792503017000,
+          "realizedPnl": -1032.47,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 59.24877466666667,
+          "avgExit": 59.38643733333334,
+          "status": "closed"
+        },
+        {
+          "id": "t_MU_1792527339413",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792502870000,
+          "exitTime": 1792503009000,
+          "realizedPnl": -3813.5300000000316,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 884.5876599999997,
+          "avgExit": 888.4011899999999,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/20/26"
     }
   },
   "annotations": {
@@ -9081,5 +9113,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-20T20:15:32.268Z"
+  "updated": "2026-10-20T20:15:39.414Z"
 }
