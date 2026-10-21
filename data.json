@@ -7627,7 +7627,7 @@
           "symbol": "SPCX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792589152000,
           "exitTime": 1792589467000,
           "realizedPnl": 7735.640000000039,
@@ -7635,7 +7635,11 @@
           "totalExitQty": 10000,
           "avgEntry": 160.707801,
           "avgExit": 159.93423700000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "unlock",
+          "entryDateStr": "10/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCXV2126155.000_1792613760170",
@@ -9215,7 +9219,11 @@
     "t_META_1792613760171": {
       "tradeType": "Imbal PM",
       "notes": "before eps"
+    },
+    "t_SPCX_1792613760168": {
+      "tradeType": "Off Open Green",
+      "notes": "unlock"
     }
   },
-  "updated": "2026-10-21T20:16:08.586Z"
+  "updated": "2026-10-21T20:16:37.043Z"
 }
