@@ -7591,7 +7591,84 @@
       "dateStr": "10/20/26"
     },
     "2026-10-21": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SPCX_1792613760167",
+          "symbol": "SPCX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792579576000,
+          "exitTime": 1792582723000,
+          "realizedPnl": 7772.900000000028,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 161.24,
+          "avgExit": 158.13083999999995,
+          "status": "closed"
+        },
+        {
+          "id": "t_SMCI_1792613760169",
+          "symbol": "SMCI",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792587767000,
+          "exitTime": 1792589270000,
+          "realizedPnl": -2701.0499999999893,
+          "totalEntryQty": 12500,
+          "totalExitQty": 12500,
+          "avgEntry": 36.590170400000005,
+          "avgExit": 36.3740864,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1792613760168",
+          "symbol": "SPCX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792589152000,
+          "exitTime": 1792589467000,
+          "realizedPnl": 7735.640000000039,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 160.707801,
+          "avgExit": 159.93423700000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCXV2126155.000_1792613760170",
+          "symbol": "SPCXV2126155.000",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792590386000,
+          "exitTime": 1792590475000,
+          "realizedPnl": -21.000000000000007,
+          "totalEntryQty": 100,
+          "totalExitQty": 100,
+          "avgEntry": 0.5100000000000001,
+          "avgExit": 0.29999999999999993,
+          "status": "closed"
+        },
+        {
+          "id": "t_META_1792613760171",
+          "symbol": "META",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1792612208000,
+          "exitTime": 1792612802000,
+          "realizedPnl": 13854.7049999999,
+          "totalEntryQty": 6000,
+          "totalExitQty": 6000,
+          "avgEntry": 700.5433241666664,
+          "avgExit": 698.2342066666665,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/21/26"
     }
   },
   "annotations": {
@@ -9132,5 +9209,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-21T14:37:46.847Z"
+  "updated": "2026-10-21T20:16:00.171Z"
 }
