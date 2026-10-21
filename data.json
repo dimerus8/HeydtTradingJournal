@@ -7597,7 +7597,7 @@
           "symbol": "SPCX",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792579576000,
           "exitTime": 1792582723000,
           "realizedPnl": 7772.900000000028,
@@ -7605,7 +7605,11 @@
           "totalExitQty": 2500,
           "avgEntry": 161.24,
           "avgExit": 158.13083999999995,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Unlock",
+          "notes": "short OC, cover pre",
+          "entryDateStr": "10/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SMCI_1792613760169",
@@ -9231,7 +9235,11 @@
     "t_SMCI_1792613760169": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_SPCX_1792613760167": {
+      "tradeType": "Unlock",
+      "notes": "short OC, cover pre"
     }
   },
-  "updated": "2026-10-21T20:16:42.427Z"
+  "updated": "2026-10-21T20:17:01.836Z"
 }
