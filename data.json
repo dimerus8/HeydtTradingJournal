@@ -7612,7 +7612,7 @@
           "symbol": "SMCI",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792587767000,
           "exitTime": 1792589270000,
           "realizedPnl": -2701.0499999999893,
@@ -7620,7 +7620,11 @@
           "totalExitQty": 12500,
           "avgEntry": 36.590170400000005,
           "avgExit": 36.3740864,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "10/21/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1792613760168",
@@ -9223,7 +9227,11 @@
     "t_SPCX_1792613760168": {
       "tradeType": "Off Open Green",
       "notes": "unlock"
+    },
+    "t_SMCI_1792613760169": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-21T20:16:37.043Z"
+  "updated": "2026-10-21T20:16:42.427Z"
 }
