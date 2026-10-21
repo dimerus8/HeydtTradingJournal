@@ -7657,7 +7657,7 @@
           "symbol": "META",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792612208000,
           "exitTime": 1792612802000,
           "realizedPnl": 13854.7049999999,
@@ -7665,7 +7665,11 @@
           "totalExitQty": 6000,
           "avgEntry": 700.5433241666664,
           "avgExit": 698.2342066666665,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "before eps",
+          "entryDateStr": "10/21/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/21/26"
@@ -9207,7 +9211,11 @@
     "t_CRWV_1792527339412": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_META_1792613760171": {
+      "tradeType": "Imbal PM",
+      "notes": "before eps"
     }
   },
-  "updated": "2026-10-21T20:16:00.171Z"
+  "updated": "2026-10-21T20:16:08.586Z"
 }
