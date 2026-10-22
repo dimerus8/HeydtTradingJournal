@@ -7693,7 +7693,7 @@
           "symbol": "TSLA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792675153000,
           "exitTime": 1792675839000,
           "realizedPnl": -9589.150000000016,
@@ -7701,7 +7701,11 @@
           "totalExitQty": 2500,
           "avgEntry": 371.97009600000007,
           "avgExit": 375.8057560000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "post eps",
+          "entryDateStr": "10/22/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1792685048086",
@@ -9274,7 +9278,11 @@
     "t_SPCX_1792613760167": {
       "tradeType": "Unlock",
       "notes": "short OC, cover pre"
+    },
+    "t_TSLA_1792685048084": {
+      "tradeType": "Off Open Red",
+      "notes": "post eps"
     }
   },
-  "updated": "2026-10-22T16:04:20.197Z"
+  "updated": "2026-10-22T16:04:32.612Z"
 }
