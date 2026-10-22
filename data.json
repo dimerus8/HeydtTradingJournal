@@ -7717,21 +7717,6 @@
           "avgEntry": 153.27845520000002,
           "avgExit": 152.1357792,
           "status": "closed"
-        },
-        {
-          "id": "t_TSLA_1792685048085",
-          "symbol": "TSLA",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1792675839000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 500,
-          "totalExitQty": 0,
-          "avgEntry": 375.89,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "10/22/26"
@@ -9291,5 +9276,5 @@
       "notes": "short OC, cover pre"
     }
   },
-  "updated": "2026-10-22T16:04:08.087Z"
+  "updated": "2026-10-22T16:04:20.197Z"
 }
