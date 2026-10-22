@@ -7712,7 +7712,7 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1792675553000,
           "exitTime": 1792677277000,
           "realizedPnl": -14283.449999999959,
@@ -7720,7 +7720,11 @@
           "totalExitQty": 12500,
           "avgEntry": 153.27845520000002,
           "avgExit": 152.1357792,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "unlock day",
+          "entryDateStr": "10/22/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/22/26"
@@ -9282,7 +9286,11 @@
     "t_TSLA_1792685048084": {
       "tradeType": "Off Open Red",
       "notes": "post eps"
+    },
+    "t_SPCX_1792685048086": {
+      "tradeType": "",
+      "notes": "unlock day"
     }
   },
-  "updated": "2026-10-22T16:04:32.612Z"
+  "updated": "2026-10-22T16:04:41.427Z"
 }
