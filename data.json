@@ -7754,15 +7754,19 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793021402000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 4321,
           "totalEntryQty": 2500,
           "totalExitQty": 0,
           "avgEntry": 145.8,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "10/26/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ROXO34_1793043717851",
@@ -9366,7 +9370,11 @@
     "t_ROXO34_1793043717851": {
       "tradeType": "",
       "notes": ""
+    },
+    "t_SPCX_1793043717850": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-10-26T19:42:07.447Z"
+  "updated": "2026-10-26T19:42:32.575Z"
 }
