@@ -7739,7 +7739,7 @@
           "symbol": "META",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793019654000,
           "exitTime": 1793021426000,
           "realizedPnl": -7222.534999999971,
@@ -7747,7 +7747,11 @@
           "totalExitQty": 2940,
           "avgEntry": 636.5064081632654,
           "avgExit": 638.9630527210884,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "10/26/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1793043717850",
@@ -9382,7 +9386,11 @@
     "t_NU_1793043717852": {
       "tradeType": "ARB",
       "notes": ""
+    },
+    "t_META_1793043717849": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-10-26T19:43:01.265Z"
+  "updated": "2026-10-26T19:43:06.514Z"
 }
