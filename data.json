@@ -7733,7 +7733,69 @@
       "trades": []
     },
     "2026-10-26": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_META_1793043717849",
+          "symbol": "META",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793019654000,
+          "exitTime": 1793021426000,
+          "realizedPnl": -7222.534999999971,
+          "totalEntryQty": 2940,
+          "totalExitQty": 2940,
+          "avgEntry": 636.5064081632654,
+          "avgExit": 638.9630527210884,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1793043717850",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793021402000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2500,
+          "totalExitQty": 0,
+          "avgEntry": 145.8,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ROXO34_1793043717851",
+          "symbol": "ROXO34",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793022316000,
+          "exitTime": 1793024703000,
+          "realizedPnl": 73910.78999999996,
+          "totalEntryQty": 86911,
+          "totalExitQty": 86911,
+          "avgEntry": 10.05,
+          "avgExit": 10.900419279492814,
+          "status": "closed"
+        },
+        {
+          "id": "t_NU_1793043717852",
+          "symbol": "NU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793022605000,
+          "exitTime": 1793024691000,
+          "realizedPnl": -733.7499999999859,
+          "totalEntryQty": 14500,
+          "totalExitQty": 14500,
+          "avgEntry": 12.015,
+          "avgExit": 12.065603448275862,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/26/26"
     }
   },
   "annotations": {
@@ -9298,5 +9360,5 @@
       "notes": "unlock day"
     }
   },
-  "updated": "2026-10-23T20:07:20.521Z"
+  "updated": "2026-10-26T19:41:57.849Z"
 }
