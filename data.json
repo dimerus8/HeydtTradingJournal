@@ -7769,15 +7769,19 @@
           "symbol": "ROXO34",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793022316000,
           "exitTime": 1793024703000,
-          "realizedPnl": 73910.78999999996,
+          "realizedPnl": 13667,
           "totalEntryQty": 86911,
           "totalExitQty": 86911,
           "avgEntry": 10.05,
           "avgExit": 10.900419279492814,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "10/26/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NU_1793043717852",
@@ -9358,7 +9362,11 @@
     "t_SPCX_1792685048086": {
       "tradeType": "Unlock",
       "notes": "unlock day"
+    },
+    "t_ROXO34_1793043717851": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-10-26T19:41:57.849Z"
+  "updated": "2026-10-26T19:42:07.447Z"
 }
