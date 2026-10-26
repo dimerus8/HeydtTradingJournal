@@ -7792,7 +7792,7 @@
           "symbol": "NU",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793022605000,
           "exitTime": 1793024691000,
           "realizedPnl": -733.7499999999859,
@@ -7800,7 +7800,11 @@
           "totalExitQty": 14500,
           "avgEntry": 12.015,
           "avgExit": 12.065603448275862,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "ARB",
+          "notes": "",
+          "entryDateStr": "10/26/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/26/26"
@@ -9374,7 +9378,11 @@
     "t_SPCX_1793043717850": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_NU_1793043717852": {
+      "tradeType": "ARB",
+      "notes": ""
     }
   },
-  "updated": "2026-10-26T19:42:40.600Z"
+  "updated": "2026-10-26T19:42:50.985Z"
 }
