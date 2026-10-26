@@ -7782,7 +7782,7 @@
           "avgEntry": 10.05,
           "avgExit": 10.900419279492814,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "ARB",
           "notes": "",
           "entryDateStr": "10/26/26",
           "exitDateStr": ""
@@ -9372,7 +9372,7 @@
       "notes": "unlock day"
     },
     "t_ROXO34_1793043717851": {
-      "tradeType": "",
+      "tradeType": "ARB",
       "notes": ""
     },
     "t_SPCX_1793043717850": {
@@ -9384,5 +9384,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-26T19:42:50.985Z"
+  "updated": "2026-10-26T19:43:01.265Z"
 }
