@@ -7854,15 +7854,19 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793107822000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -5785,
           "totalEntryQty": 10000,
           "totalExitQty": 0,
           "avgEntry": 148.23577899999995,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "10/27/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MSGR_1793131832141",
@@ -9494,7 +9498,11 @@
     "t_TSLA_1793131832140": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_SPCX_1793131832139": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-10-27T20:15:49.139Z"
+  "updated": "2026-10-27T20:16:43.603Z"
 }
