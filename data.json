@@ -7884,7 +7884,7 @@
           "symbol": "CRML",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793130878000,
           "exitTime": 1793131201000,
           "realizedPnl": 7588.110000000004,
@@ -7892,7 +7892,11 @@
           "totalExitQty": 30000,
           "avgEntry": 7.759033666666667,
           "avgExit": 8.011970666666667,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "10/27/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "10/27/26"
@@ -9478,7 +9482,11 @@
     "t_MSGR_1793131832141": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_CRML_1793131832142": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-27T20:10:47.585Z"
+  "updated": "2026-10-27T20:10:53.121Z"
 }
