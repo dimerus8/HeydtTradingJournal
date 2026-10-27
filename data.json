@@ -7814,27 +7814,7 @@
       "dateStr": "10/26/26"
     },
     "2026-10-27": {
-      "trades": [
-        {
-          "id": "t_SPCX_1793119697738",
-          "symbol": "SPCX",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": true,
-          "entryTime": 1793107822000,
-          "exitTime": null,
-          "realizedPnl": -5785,
-          "totalEntryQty": 10000,
-          "totalExitQty": 10000,
-          "avgEntry": 148.23577899999995,
-          "avgExit": 1,
-          "status": "closed",
-          "tradeType": "Off Open Green",
-          "notes": "",
-          "entryDateStr": "10/27/26",
-          "exitDateStr": ""
-        }
-      ],
+      "trades": [],
       "dateStr": "10/27/26"
     }
   },
@@ -9414,11 +9394,7 @@
     "t_META_1793043717849": {
       "tradeType": "Off Open Green",
       "notes": ""
-    },
-    "t_SPCX_1793119697738": {
-      "tradeType": "Off Open Green",
-      "notes": ""
     }
   },
-  "updated": "2026-10-27T20:10:05.777Z"
+  "updated": "2026-10-27T20:10:07.744Z"
 }
