@@ -7835,15 +7835,19 @@
           "symbol": "TSLA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793107817000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -2304,
           "totalEntryQty": 2000,
           "totalExitQty": 0,
           "avgEntry": 397.9426949999998,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "10/27/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SPCX_1793131832139",
@@ -9486,7 +9490,11 @@
     "t_CRML_1793131832142": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_TSLA_1793131832140": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-10-27T20:10:53.121Z"
+  "updated": "2026-10-27T20:15:37.067Z"
 }
