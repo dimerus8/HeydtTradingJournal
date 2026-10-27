@@ -7844,10 +7844,10 @@
           "exitTime": null,
           "realizedPnl": -5785,
           "totalEntryQty": 10000,
-          "totalExitQty": 0,
+          "totalExitQty": 10000,
           "avgEntry": 148.23577899999995,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 1,
+          "status": "closed",
           "tradeType": "Off Open Green",
           "notes": "",
           "entryDateStr": "10/27/26",
@@ -9489,5 +9489,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-27T20:16:47.653Z"
+  "updated": "2026-10-27T20:30:46.168Z"
 }
