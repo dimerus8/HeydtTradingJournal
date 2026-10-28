@@ -7968,7 +7968,7 @@
           "avgExit": 326.1001059999999,
           "status": "closed",
           "tradeType": "Imbal PM",
-          "notes": "",
+          "notes": "rejected orders from gs",
           "entryDateStr": "10/28/26",
           "exitDateStr": ""
         }
@@ -9583,8 +9583,8 @@
     },
     "t_GOOGL_1793219263431": {
       "tradeType": "Imbal PM",
-      "notes": ""
+      "notes": "rejected orders from gs"
     }
   },
-  "updated": "2026-10-28T20:28:24.377Z"
+  "updated": "2026-10-28T20:28:33.362Z"
 }
