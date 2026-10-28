@@ -7901,15 +7901,19 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793194202000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 11988,
           "totalEntryQty": 10000,
-          "totalExitQty": 0,
+          "totalExitQty": 10000,
           "avgEntry": 146.7852915,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/28/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_TSLA_1793219263429",
@@ -9560,7 +9564,11 @@
     "t_TSLA_1793219263429": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_SPCX_1793219263428": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-28T20:27:57.178Z"
+  "updated": "2026-10-28T20:28:11.297Z"
 }
