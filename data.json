@@ -7895,7 +7895,69 @@
       "dateStr": "10/27/26"
     },
     "2026-10-28": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SPCX_1793219263428",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793194202000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10000,
+          "totalExitQty": 0,
+          "avgEntry": 146.7852915,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_TSLA_1793219263429",
+          "symbol": "TSLA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793194211000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 409.9910975,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MU_1793219263430",
+          "symbol": "MU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793217171000,
+          "exitTime": 1793217242000,
+          "realizedPnl": -2282.819999999996,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 988.80962,
+          "avgExit": 986.5268000000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_GOOGL_1793219263431",
+          "symbol": "GOOGL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793217589000,
+          "exitTime": 1793217637000,
+          "realizedPnl": -10402.304999999918,
+          "totalEntryQty": 15000,
+          "totalExitQty": 15000,
+          "avgEntry": 325.40661900000003,
+          "avgExit": 326.1001059999999,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/28/26"
     }
   },
   "annotations": {
@@ -9492,5 +9554,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-28T12:08:12.724Z"
+  "updated": "2026-10-28T20:27:43.430Z"
 }
