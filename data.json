@@ -7916,15 +7916,19 @@
           "symbol": "TSLA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793194211000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -203,
           "totalEntryQty": 2000,
-          "totalExitQty": 0,
+          "totalExitQty": 2000,
           "avgEntry": 409.9910975,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "10/28/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MU_1793219263430",
@@ -9552,7 +9556,11 @@
     "t_SPCX_1793131832139": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_TSLA_1793219263429": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-10-28T20:27:43.430Z"
+  "updated": "2026-10-28T20:27:57.178Z"
 }
