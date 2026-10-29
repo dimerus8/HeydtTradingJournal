@@ -8035,21 +8035,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_GOOGL_1793305190452",
-          "symbol": "GOOGL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793303404000,
-          "exitTime": 1793303616000,
-          "realizedPnl": -75.35000000000252,
-          "totalEntryQty": 2500,
-          "totalExitQty": 2500,
-          "avgEntry": 282.37288,
-          "avgExit": 282.34274,
-          "status": "closed"
-        },
-        {
           "id": "t_GOOGL_1793305190453",
           "symbol": "GOOGL",
           "direction": "LONG",
@@ -9690,5 +9675,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-29T20:21:49.346Z"
+  "updated": "2026-10-29T20:21:54.571Z"
 }
