@@ -7976,7 +7976,84 @@
       "dateStr": "10/28/26"
     },
     "2026-10-29": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_LITE_1793305190449",
+          "symbol": "LITE",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793272297000,
+          "exitTime": 1793272412000,
+          "realizedPnl": 28754.2134,
+          "totalEntryQty": 957,
+          "totalExitQty": 957,
+          "avgEntry": 935.25,
+          "avgExit": 965.2962,
+          "status": "closed"
+        },
+        {
+          "id": "t_NOW_1793305190450",
+          "symbol": "NOW",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793279877000,
+          "exitTime": 1793280653000,
+          "realizedPnl": -3295.650000000008,
+          "totalEntryQty": 3500,
+          "totalExitQty": 3500,
+          "avgEntry": 120.1676514285714,
+          "avgExit": 121.10926571428573,
+          "status": "closed"
+        },
+        {
+          "id": "t_GOOGL_1793305190451",
+          "symbol": "GOOGL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793280374000,
+          "exitTime": 1793280602000,
+          "realizedPnl": -7691.315000000014,
+          "totalEntryQty": 12500,
+          "totalExitQty": 12500,
+          "avgEntry": 286.4617048000004,
+          "avgExit": 287.0770100000006,
+          "status": "closed"
+        },
+        {
+          "id": "t_GOOGL_1793305190452",
+          "symbol": "GOOGL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793303404000,
+          "exitTime": 1793303616000,
+          "realizedPnl": -75.35000000000252,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 282.37288,
+          "avgExit": 282.34274,
+          "status": "closed"
+        },
+        {
+          "id": "t_GOOGL_1793305190453",
+          "symbol": "GOOGL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793303651000,
+          "exitTime": 1793304000000,
+          "realizedPnl": 3471.1999999999694,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 283.12576,
+          "avgExit": 283.82000000000005,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/29/26"
     }
   },
   "annotations": {
@@ -9589,5 +9666,5 @@
       "notes": "rejected orders from gs"
     }
   },
-  "updated": "2026-10-29T17:25:47.135Z"
+  "updated": "2026-10-29T20:19:50.453Z"
 }
