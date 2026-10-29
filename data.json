@@ -7982,7 +7982,7 @@
           "symbol": "LITE",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793272297000,
           "exitTime": 1793272412000,
           "realizedPnl": 28754.2134,
@@ -7990,7 +7990,11 @@
           "totalExitQty": 957,
           "avgEntry": 935.25,
           "avgExit": 965.2962,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "OC initiate",
+          "notes": "LITE MRVL deal, sold off from up 15% to 3%, bought and sold up 5%",
+          "entryDateStr": "10/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NOW_1793305190450",
@@ -9664,7 +9668,11 @@
     "t_GOOGL_1793219263431": {
       "tradeType": "Imbal PM",
       "notes": "rejected orders from gs"
+    },
+    "t_LITE_1793305190449": {
+      "tradeType": "OC initiate",
+      "notes": "LITE MRVL deal, sold off from up 15% to 3%, bought and sold up 5%"
     }
   },
-  "updated": "2026-10-29T20:19:50.453Z"
+  "updated": "2026-10-29T20:21:04.057Z"
 }
