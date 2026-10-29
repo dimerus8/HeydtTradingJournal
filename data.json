@@ -8020,7 +8020,7 @@
           "symbol": "GOOGL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793280374000,
           "exitTime": 1793280602000,
           "realizedPnl": -7691.315000000014,
@@ -8028,7 +8028,11 @@
           "totalExitQty": 12500,
           "avgEntry": 286.4617048000004,
           "avgExit": 287.0770100000006,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_GOOGL_1793305190452",
@@ -9680,7 +9684,11 @@
     "t_NOW_1793305190450": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_GOOGL_1793305190451": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-29T20:21:19.416Z"
+  "updated": "2026-10-29T20:21:49.346Z"
 }
