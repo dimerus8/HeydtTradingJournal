@@ -8001,7 +8001,7 @@
           "symbol": "NOW",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793279877000,
           "exitTime": 1793280653000,
           "realizedPnl": -3295.650000000008,
@@ -8009,7 +8009,11 @@
           "totalExitQty": 3500,
           "avgEntry": 120.1676514285714,
           "avgExit": 121.10926571428573,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "10/29/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_GOOGL_1793305190451",
@@ -9672,7 +9676,11 @@
     "t_LITE_1793305190449": {
       "tradeType": "OC initiate",
       "notes": "LITE MRVL deal, sold off from up 15% to 3%, bought and sold up 5%"
+    },
+    "t_NOW_1793305190450": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-10-29T20:21:04.057Z"
+  "updated": "2026-10-29T20:21:19.416Z"
 }
