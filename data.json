@@ -8057,7 +8057,84 @@
       "dateStr": "10/29/26"
     },
     "2026-10-30": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_SNDK_1793391308441",
+          "symbol": "SNDK",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793366461000,
+          "exitTime": 1793366942000,
+          "realizedPnl": -8906.80999999999,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 1209.4632800000002,
+          "avgExit": 1218.3700900000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_INTC_1793391308442",
+          "symbol": "INTC",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793366714000,
+          "exitTime": 1793367180000,
+          "realizedPnl": 14713.230000000103,
+          "totalEntryQty": 25000,
+          "totalExitQty": 25000,
+          "avgEntry": 68.5676792,
+          "avgExit": 67.97915000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_AMZN_1793391308443",
+          "symbol": "AMZN",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793366732000,
+          "exitTime": 1793367025000,
+          "realizedPnl": -10375.360000000037,
+          "totalEntryQty": 15000,
+          "totalExitQty": 15000,
+          "avgEntry": 230.52373266666663,
+          "avgExit": 231.21542333333338,
+          "status": "closed"
+        },
+        {
+          "id": "t_AMZN_1793391308444",
+          "symbol": "AMZN",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793367054000,
+          "exitTime": 1793367059000,
+          "realizedPnl": -1398.7199999999868,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 230.06,
+          "avgExit": 229.50051200000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_NQZ6_1793391308445",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1793389755000,
+          "exitTime": 1793389823000,
+          "realizedPnl": 493.25,
+          "totalEntryQty": 15,
+          "totalExitQty": 15,
+          "avgEntry": 28467.85,
+          "avgExit": 28500.733333333334,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "10/30/26"
     }
   },
   "annotations": {
@@ -9686,5 +9763,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-30T20:14:58.407Z"
+  "updated": "2026-10-30T20:15:08.447Z"
 }
