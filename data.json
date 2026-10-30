@@ -8101,7 +8101,7 @@
           "symbol": "AMZN",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793366732000,
           "exitTime": 1793367025000,
           "realizedPnl": -10375.360000000037,
@@ -8109,7 +8109,11 @@
           "totalExitQty": 15000,
           "avgEntry": 230.52373266666663,
           "avgExit": 231.21542333333338,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "10/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AMZN_1793391308444",
@@ -9785,7 +9789,11 @@
     "t_SNDK_1793391308441": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_AMZN_1793391308443": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-10-30T20:15:43.762Z"
+  "updated": "2026-10-30T20:15:48.537Z"
 }
