@@ -8116,21 +8116,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_AMZN_1793391308444",
-          "symbol": "AMZN",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793367054000,
-          "exitTime": 1793367059000,
-          "realizedPnl": -1398.7199999999868,
-          "totalEntryQty": 2500,
-          "totalExitQty": 2500,
-          "avgEntry": 230.06,
-          "avgExit": 229.50051200000001,
-          "status": "closed"
-        },
-        {
           "id": "t_NQZ6_1793391308445",
           "symbol": "NQZ6",
           "direction": "LONG",
@@ -9795,5 +9780,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-10-30T20:15:48.537Z"
+  "updated": "2026-10-30T20:15:55.698Z"
 }
