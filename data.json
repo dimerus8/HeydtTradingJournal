@@ -8078,7 +8078,7 @@
           "symbol": "INTC",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793366714000,
           "exitTime": 1793367180000,
           "realizedPnl": 14713.230000000103,
@@ -8086,7 +8086,11 @@
           "totalExitQty": 25000,
           "avgEntry": 68.5676792,
           "avgExit": 67.97915000000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "post eps",
+          "entryDateStr": "10/30/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AMZN_1793391308443",
@@ -9769,7 +9773,11 @@
     "t_NQZ6_1793391308445": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_INTC_1793391308442": {
+      "tradeType": "Off Open Red",
+      "notes": "post eps"
     }
   },
-  "updated": "2026-10-30T20:15:24.401Z"
+  "updated": "2026-10-30T20:15:39.073Z"
 }
