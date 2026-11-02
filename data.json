@@ -8138,7 +8138,84 @@
       "dateStr": "10/30/26"
     },
     "2026-11-02": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_GOOG_1793654175386",
+          "symbol": "GOOG",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793628069000,
+          "exitTime": 1793629698000,
+          "realizedPnl": -698.1300000000826,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 281.20698599999986,
+          "avgExit": 281.3466120000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1793654175387",
+          "symbol": "SPCX",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793629588000,
+          "exitTime": 1793629810000,
+          "realizedPnl": -5817.199999999996,
+          "totalEntryQty": 7241,
+          "totalExitQty": 7241,
+          "avgEntry": 136.77303549233525,
+          "avgExit": 137.57640519265297,
+          "status": "closed"
+        },
+        {
+          "id": "t_INTC_1793654175389",
+          "symbol": "INTC",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793629670000,
+          "exitTime": 1793629825000,
+          "realizedPnl": 1526.4999999999998,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 65.5,
+          "avgExit": 65.1947,
+          "status": "closed"
+        },
+        {
+          "id": "t_SPCX_1793654175388",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793629810000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2759,
+          "totalExitQty": 0,
+          "avgEntry": 138.4597209133744,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_INTC_1793654175390",
+          "symbol": "INTC",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793629842000,
+          "exitTime": 1793629852000,
+          "realizedPnl": -708.8500000000191,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 65.41737,
+          "avgExit": 65.2756,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "11/2/26"
     }
   },
   "annotations": {
@@ -9783,5 +9860,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-02T21:16:06.850Z"
+  "updated": "2026-11-02T21:16:15.392Z"
 }
