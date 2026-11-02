@@ -8144,7 +8144,7 @@
           "symbol": "GOOG",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793628069000,
           "exitTime": 1793629698000,
           "realizedPnl": -698.1300000000826,
@@ -8152,7 +8152,11 @@
           "totalExitQty": 5000,
           "avgEntry": 281.20698599999986,
           "avgExit": 281.3466120000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "unlock?",
+          "entryDateStr": "11/2/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_INTC_1793654175389",
@@ -9867,7 +9871,11 @@
     "t_SPCX_1793654175388": {
       "tradeType": "Off Open Red",
       "notes": "trend 10s"
+    },
+    "t_GOOG_1793654175386": {
+      "tradeType": "Off Open Red",
+      "notes": "unlock?"
     }
   },
-  "updated": "2026-11-02T21:16:55.242Z"
+  "updated": "2026-11-02T21:17:04.395Z"
 }
