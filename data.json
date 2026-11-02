@@ -8155,21 +8155,6 @@
           "status": "closed"
         },
         {
-          "id": "t_SPCX_1793654175387",
-          "symbol": "SPCX",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793629588000,
-          "exitTime": 1793629810000,
-          "realizedPnl": -5817.199999999996,
-          "totalEntryQty": 7241,
-          "totalExitQty": 7241,
-          "avgEntry": 136.77303549233525,
-          "avgExit": 137.57640519265297,
-          "status": "closed"
-        },
-        {
           "id": "t_INTC_1793654175389",
           "symbol": "INTC",
           "direction": "SHORT",
@@ -9884,5 +9869,5 @@
       "notes": "trend 10s"
     }
   },
-  "updated": "2026-11-02T21:16:46.459Z"
+  "updated": "2026-11-02T21:16:51.851Z"
 }
