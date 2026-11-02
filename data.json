@@ -8204,7 +8204,7 @@
           "symbol": "INTC",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793629842000,
           "exitTime": 1793629852000,
           "realizedPnl": -708.8500000000191,
@@ -8212,7 +8212,11 @@
           "totalExitQty": 5000,
           "avgEntry": 65.41737,
           "avgExit": 65.2756,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "11/2/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/2/26"
@@ -9858,7 +9862,11 @@
     "t_AMZN_1793391308443": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_INTC_1793654175390": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-11-02T21:16:15.392Z"
+  "updated": "2026-11-02T21:16:21.979Z"
 }
