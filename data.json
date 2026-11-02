@@ -8176,7 +8176,7 @@
         {
           "id": "t_SPCX_1793654175388",
           "symbol": "SPCX",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": 1793629810000,
@@ -9869,5 +9869,5 @@
       "notes": "trend 10s"
     }
   },
-  "updated": "2026-11-02T21:16:51.851Z"
+  "updated": "2026-11-02T21:16:55.242Z"
 }
