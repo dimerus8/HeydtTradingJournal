@@ -8193,15 +8193,19 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793629810000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -9954,
           "totalEntryQty": 2759,
-          "totalExitQty": 0,
+          "totalExitQty": 2759,
           "avgEntry": 138.4597209133744,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "trend 10s",
+          "entryDateStr": "11/2/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_INTC_1793654175390",
@@ -9874,7 +9878,11 @@
     "t_INTC_1793654175389": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_SPCX_1793654175388": {
+      "tradeType": "Off Open Red",
+      "notes": "trend 10s"
     }
   },
-  "updated": "2026-11-02T21:16:26.171Z"
+  "updated": "2026-11-02T21:16:46.459Z"
 }
