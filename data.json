@@ -8219,7 +8219,84 @@
       "dateStr": "11/2/26"
     },
     "2026-11-03": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_NBIS_1793741617715",
+          "symbol": "NBIS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793709258000,
+          "exitTime": 1793717071000,
+          "realizedPnl": 1282.2299999999987,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 144.808,
+          "avgExit": 147.37246000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_LLY_1793741617718",
+          "symbol": "LLY",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793717875000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 50,
+          "totalExitQty": 0,
+          "avgEntry": 1434.79,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NBIS_1793741617716",
+          "symbol": "NBIS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793720442000,
+          "exitTime": 1793720712000,
+          "realizedPnl": -203.59999999999263,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 151.30720000000002,
+          "avgExit": 150.9,
+          "status": "closed"
+        },
+        {
+          "id": "t_GOOGL_1793741617717",
+          "symbol": "GOOGL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793723292000,
+          "exitTime": 1793724433000,
+          "realizedPnl": -75.59999999999945,
+          "totalEntryQty": 200,
+          "totalExitQty": 200,
+          "avgEntry": 278.638,
+          "avgExit": 278.26,
+          "status": "closed"
+        },
+        {
+          "id": "t_KMB_1793741617719",
+          "symbol": "KMB",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793739491000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 1250,
+          "totalExitQty": 0,
+          "avgEntry": 104.472,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/3/26"
     }
   },
   "annotations": {
@@ -9880,5 +9957,5 @@
       "notes": "unlock?"
     }
   },
-  "updated": "2026-11-03T21:32:54.296Z"
+  "updated": "2026-11-03T21:33:37.716Z"
 }
