@@ -8219,7 +8219,98 @@
       "dateStr": "11/2/26"
     },
     "2026-11-03": {
-      "trades": [],
+      "trades": [
+        {
+          "id": "t_AAPL_1793741731835",
+          "symbol": "AAPL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793715135000,
+          "exitTime": 1793716083000,
+          "realizedPnl": 1248.1800000000092,
+          "totalEntryQty": 7000,
+          "totalExitQty": 7000,
+          "avgEntry": 324.6763971428571,
+          "avgExit": 324.4980857142855,
+          "status": "closed"
+        },
+        {
+          "id": "t_GOOG_1793741731834",
+          "symbol": "GOOG",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793715901000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 4000,
+          "totalExitQty": 0,
+          "avgEntry": 279.2963199999998,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_AAPL_1793741731836",
+          "symbol": "AAPL",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793716083000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 500,
+          "totalExitQty": 0,
+          "avgEntry": 324.91222000000005,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_OKTA_1793741731837",
+          "symbol": "OKTA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793738599000,
+          "exitTime": 1793739000000,
+          "realizedPnl": 11235.999999999987,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 184.74186666666665,
+          "avgExit": 186.2400000000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_KMB_1793741731838",
+          "symbol": "KMB",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793739293000,
+          "exitTime": 1793739304000,
+          "realizedPnl": 290.82000000001483,
+          "totalEntryQty": 5000,
+          "totalExitQty": 5000,
+          "avgEntry": 104.85199800000002,
+          "avgExit": 104.793834,
+          "status": "closed"
+        },
+        {
+          "id": "t_GKOS_1793741731839",
+          "symbol": "GKOS",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793739519000,
+          "exitTime": 1793739611000,
+          "realizedPnl": -3347.8199999999733,
+          "totalEntryQty": 3000,
+          "totalExitQty": 3000,
+          "avgEntry": 231.92406000000003,
+          "avgExit": 233.04,
+          "status": "closed"
+        }
+      ],
       "dateStr": "11/3/26"
     }
   },
@@ -9881,5 +9972,5 @@
       "notes": "unlock?"
     }
   },
-  "updated": "2026-11-03T21:34:25.771Z"
+  "updated": "2026-11-03T21:35:31.836Z"
 }
