@@ -8263,7 +8263,7 @@
           "symbol": "OKTA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793738599000,
           "exitTime": 1793739000000,
           "realizedPnl": 11235.999999999987,
@@ -8271,7 +8271,11 @@
           "totalExitQty": 7500,
           "avgEntry": 184.74186666666665,
           "avgExit": 186.2400000000001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "SP500 Add",
+          "notes": "",
+          "entryDateStr": "11/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_KMB_1793741731838",
@@ -9971,7 +9975,11 @@
     "t_GOOG_1793741731834": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_OKTA_1793741731837": {
+      "tradeType": "SP500 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-11-03T21:42:00.432Z"
+  "updated": "2026-11-03T21:42:12.671Z"
 }
