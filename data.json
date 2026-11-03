@@ -8259,21 +8259,6 @@
           "exitDateStr": "11/3/26"
         },
         {
-          "id": "t_AAPL_1793741731836",
-          "symbol": "AAPL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793716083000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 500,
-          "totalExitQty": 0,
-          "avgEntry": 324.91222000000005,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_OKTA_1793741731837",
           "symbol": "OKTA",
           "direction": "LONG",
@@ -9988,5 +9973,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-03T21:41:53.807Z"
+  "updated": "2026-11-03T21:42:00.432Z"
 }
