@@ -8244,15 +8244,19 @@
           "symbol": "GOOG",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793715901000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -721,
           "totalEntryQty": 4000,
           "totalExitQty": 0,
           "avgEntry": 279.2963199999998,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "11/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AAPL_1793741731836",
@@ -9978,7 +9982,11 @@
     "t_AAPL_1793741731835": {
       "tradeType": "Blowup",
       "notes": ""
+    },
+    "t_GOOG_1793741731834": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-03T21:37:02.425Z"
+  "updated": "2026-11-03T21:37:59.722Z"
 }
