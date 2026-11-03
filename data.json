@@ -8234,21 +8234,6 @@
           "avgEntry": 278.638,
           "avgExit": 278.26,
           "status": "closed"
-        },
-        {
-          "id": "t_KMB_1793741617719",
-          "symbol": "KMB",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793739491000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 1250,
-          "totalExitQty": 0,
-          "avgEntry": 104.472,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "11/3/26"
@@ -9912,5 +9897,5 @@
       "notes": "unlock?"
     }
   },
-  "updated": "2026-11-03T21:34:19.571Z"
+  "updated": "2026-11-03T21:34:22.619Z"
 }
