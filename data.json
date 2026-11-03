@@ -8246,7 +8246,7 @@
           "isFutures": false,
           "isManual": true,
           "entryTime": 1793714585000,
-          "exitTime": null,
+          "exitTime": 1793715907000,
           "realizedPnl": -721,
           "totalEntryQty": 4000,
           "totalExitQty": 0,
@@ -8256,7 +8256,7 @@
           "tradeType": "Imbal AM",
           "notes": "",
           "entryDateStr": "11/3/26",
-          "exitDateStr": ""
+          "exitDateStr": "11/3/26"
         },
         {
           "id": "t_AAPL_1793741731836",
@@ -9988,5 +9988,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-03T21:40:22.588Z"
+  "updated": "2026-11-03T21:40:52.382Z"
 }
