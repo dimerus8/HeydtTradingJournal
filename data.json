@@ -8282,7 +8282,7 @@
           "symbol": "KMB",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793739293000,
           "exitTime": 1793739304000,
           "realizedPnl": 290.82000000001483,
@@ -8290,7 +8290,11 @@
           "totalExitQty": 5000,
           "avgEntry": 104.85199800000002,
           "avgExit": 104.793834,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "SP500 Add",
+          "notes": "",
+          "entryDateStr": "11/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_GKOS_1793741731839",
@@ -9979,7 +9983,11 @@
     "t_OKTA_1793741731837": {
       "tradeType": "SP500 Add",
       "notes": ""
+    },
+    "t_KMB_1793741731838": {
+      "tradeType": "SP500 Add",
+      "notes": ""
     }
   },
-  "updated": "2026-11-03T21:42:12.671Z"
+  "updated": "2026-11-03T21:42:29.807Z"
 }
