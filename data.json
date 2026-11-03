@@ -8237,7 +8237,7 @@
           "tradeType": "Blowup",
           "notes": "",
           "entryDateStr": "11/3/26",
-          "exitDateStr": ""
+          "exitDateStr": "11/3/26"
         },
         {
           "id": "t_GOOG_1793741731834",
@@ -9988,5 +9988,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-03T21:41:19.589Z"
+  "updated": "2026-11-03T21:41:53.807Z"
 }
