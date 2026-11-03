@@ -8242,10 +8242,10 @@
         {
           "id": "t_GOOG_1793741731834",
           "symbol": "GOOG",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
-          "entryTime": 1793715901000,
+          "entryTime": 1793714585000,
           "exitTime": null,
           "realizedPnl": -721,
           "totalEntryQty": 4000,
@@ -9988,5 +9988,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-03T21:37:59.722Z"
+  "updated": "2026-11-03T21:40:22.588Z"
 }
