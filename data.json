@@ -8249,10 +8249,10 @@
           "exitTime": 1793715907000,
           "realizedPnl": -721,
           "totalEntryQty": 4000,
-          "totalExitQty": 0,
+          "totalExitQty": 4000,
           "avgEntry": 279.2963199999998,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 279.296,
+          "status": "closed",
           "tradeType": "Imbal AM",
           "notes": "",
           "entryDateStr": "11/3/26",
@@ -9988,5 +9988,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-03T21:40:52.382Z"
+  "updated": "2026-11-03T21:41:19.589Z"
 }
