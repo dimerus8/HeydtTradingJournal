@@ -8219,23 +8219,7 @@
       "dateStr": "11/2/26"
     },
     "2026-11-03": {
-      "trades": [
-        {
-          "id": "t_GOOGL_1793741617717",
-          "symbol": "GOOGL",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793723292000,
-          "exitTime": 1793724433000,
-          "realizedPnl": -75.59999999999945,
-          "totalEntryQty": 200,
-          "totalExitQty": 200,
-          "avgEntry": 278.638,
-          "avgExit": 278.26,
-          "status": "closed"
-        }
-      ],
+      "trades": [],
       "dateStr": "11/3/26"
     }
   },
@@ -9897,5 +9881,5 @@
       "notes": "unlock?"
     }
   },
-  "updated": "2026-11-03T21:34:22.619Z"
+  "updated": "2026-11-03T21:34:25.771Z"
 }
