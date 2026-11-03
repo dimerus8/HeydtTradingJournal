@@ -8301,7 +8301,7 @@
           "symbol": "GKOS",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793739519000,
           "exitTime": 1793739611000,
           "realizedPnl": -3347.8199999999733,
@@ -8309,7 +8309,11 @@
           "totalExitQty": 3000,
           "avgEntry": 231.92406000000003,
           "avgExit": 233.04,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "11/3/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/3/26"
@@ -9987,7 +9991,11 @@
     "t_KMB_1793741731838": {
       "tradeType": "SP500 Add",
       "notes": ""
+    },
+    "t_GKOS_1793741731839": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-03T21:42:29.807Z"
+  "updated": "2026-11-03T21:42:39.702Z"
 }
