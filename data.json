@@ -8221,21 +8221,6 @@
     "2026-11-03": {
       "trades": [
         {
-          "id": "t_NBIS_1793741617716",
-          "symbol": "NBIS",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793720442000,
-          "exitTime": 1793720712000,
-          "realizedPnl": -203.59999999999263,
-          "totalEntryQty": 500,
-          "totalExitQty": 500,
-          "avgEntry": 151.30720000000002,
-          "avgExit": 150.9,
-          "status": "closed"
-        },
-        {
           "id": "t_GOOGL_1793741617717",
           "symbol": "GOOGL",
           "direction": "LONG",
@@ -9927,5 +9912,5 @@
       "notes": "unlock?"
     }
   },
-  "updated": "2026-11-03T21:34:16.572Z"
+  "updated": "2026-11-03T21:34:19.571Z"
 }
