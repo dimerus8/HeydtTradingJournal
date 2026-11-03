@@ -8221,21 +8221,6 @@
     "2026-11-03": {
       "trades": [
         {
-          "id": "t_LLY_1793741617718",
-          "symbol": "LLY",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793717875000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 50,
-          "totalExitQty": 0,
-          "avgEntry": 1434.79,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_NBIS_1793741617716",
           "symbol": "NBIS",
           "direction": "LONG",
@@ -9942,5 +9927,5 @@
       "notes": "unlock?"
     }
   },
-  "updated": "2026-11-03T21:34:13.308Z"
+  "updated": "2026-11-03T21:34:16.572Z"
 }
