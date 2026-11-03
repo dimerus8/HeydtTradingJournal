@@ -8225,15 +8225,19 @@
           "symbol": "AAPL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793715135000,
           "exitTime": 1793716083000,
-          "realizedPnl": 1248.1800000000092,
+          "realizedPnl": 1474,
           "totalEntryQty": 7000,
           "totalExitQty": 7000,
           "avgEntry": 324.6763971428571,
           "avgExit": 324.4980857142855,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Blowup",
+          "notes": "",
+          "entryDateStr": "11/3/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_GOOG_1793741731834",
@@ -9970,7 +9974,11 @@
     "t_GOOG_1793654175386": {
       "tradeType": "Off Open Red",
       "notes": "unlock?"
+    },
+    "t_AAPL_1793741731835": {
+      "tradeType": "Blowup",
+      "notes": ""
     }
   },
-  "updated": "2026-11-03T21:35:31.836Z"
+  "updated": "2026-11-03T21:37:02.425Z"
 }
