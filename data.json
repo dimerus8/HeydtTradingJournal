@@ -8319,7 +8319,54 @@
       "dateStr": "11/3/26"
     },
     "2026-11-04": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_META_1793827792248",
+          "symbol": "META",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793802362000,
+          "exitTime": 1793802601000,
+          "realizedPnl": 11352.630000000112,
+          "totalEntryQty": 2000,
+          "totalExitQty": 2000,
+          "avgEntry": 635.3936849999999,
+          "avgExit": 641.0699999999999,
+          "status": "closed"
+        },
+        {
+          "id": "t_TSLA_1793827792249",
+          "symbol": "TSLA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793802602000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2000,
+          "totalExitQty": 0,
+          "avgEntry": 378.99141999999995,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_SPCX_1793827792247",
+          "symbol": "SPCX",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793802610000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 7500,
+          "totalExitQty": 0,
+          "avgEntry": 133.63813333333334,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/4/26"
     }
   },
   "annotations": {
@@ -10000,5 +10047,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-04T21:29:44.390Z"
+  "updated": "2026-11-04T21:29:52.248Z"
 }
