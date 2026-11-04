@@ -8355,15 +8355,19 @@
           "symbol": "SPCX",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793802610000,
-          "exitTime": null,
-          "realizedPnl": 0,
+          "isManual": true,
+          "entryTime": 1793796831000,
+          "exitTime": 1793802334000,
+          "realizedPnl": -5749,
           "totalEntryQty": 7500,
-          "totalExitQty": 0,
+          "totalExitQty": 7500,
           "avgEntry": 133.63813333333334,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 132.8716,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "11/4/26",
+          "exitDateStr": "11/4/26"
         }
       ],
       "dateStr": "11/4/26"
@@ -10045,7 +10049,11 @@
     "t_GKOS_1793741731839": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_SPCX_1793827792247": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-04T21:29:52.248Z"
+  "updated": "2026-11-04T21:31:38.185Z"
 }
