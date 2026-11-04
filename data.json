@@ -8338,17 +8338,21 @@
         {
           "id": "t_TSLA_1793827792249",
           "symbol": "TSLA",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793802602000,
-          "exitTime": null,
-          "realizedPnl": 0,
+          "isManual": true,
+          "entryTime": 1793802423000,
+          "exitTime": 1793802608000,
+          "realizedPnl": 81,
           "totalEntryQty": 2000,
-          "totalExitQty": 0,
-          "avgEntry": 378.99141999999995,
-          "avgExit": 0,
-          "status": "open"
+          "totalExitQty": 2000,
+          "avgEntry": 379.0318,
+          "avgExit": 378.99141999999995,
+          "status": "closed",
+          "tradeType": "Imbal Sell",
+          "notes": "",
+          "entryDateStr": "11/4/26",
+          "exitDateStr": "11/4/26"
         },
         {
           "id": "t_SPCX_1793827792247",
@@ -10053,7 +10057,11 @@
     "t_SPCX_1793827792247": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_TSLA_1793827792249": {
+      "tradeType": "Imbal Sell",
+      "notes": ""
     }
   },
-  "updated": "2026-11-04T21:31:38.185Z"
+  "updated": "2026-11-04T21:34:12.244Z"
 }
