@@ -8481,15 +8481,19 @@
           "symbol": "AMD",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793912394000,
           "exitTime": 1793912550000,
-          "realizedPnl": -213.7000000000088,
+          "realizedPnl": 238,
           "totalEntryQty": 10000,
-          "totalExitQty": 530,
+          "totalExitQty": 10000,
           "avgEntry": 403.5953985,
-          "avgExit": 403,
-          "status": "open"
+          "avgExit": 403.6536,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "11/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_AMD_1793917641582",
@@ -10202,7 +10206,11 @@
     "t_QCOM_1793917641579": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_AMD_1793917641581": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-05T22:29:11.081Z"
+  "updated": "2026-11-05T22:30:16.932Z"
 }
