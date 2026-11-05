@@ -8381,7 +8381,129 @@
       "dateStr": "11/4/26"
     },
     "2026-11-05": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_U_1793917641575",
+          "symbol": "U",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793887390000,
+          "exitTime": 1793887543000,
+          "realizedPnl": -162.38000000000306,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 50.00608,
+          "avgExit": 50.114333333333335,
+          "status": "closed"
+        },
+        {
+          "id": "t_U_1793917641576",
+          "symbol": "U",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793888455000,
+          "exitTime": 1793889059000,
+          "realizedPnl": 3000.72,
+          "totalEntryQty": 1500,
+          "totalExitQty": 1500,
+          "avgEntry": 50.00048,
+          "avgExit": 48,
+          "status": "closed"
+        },
+        {
+          "id": "t_MELI_1793917641577",
+          "symbol": "MELI",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793888728000,
+          "exitTime": 1793889019000,
+          "realizedPnl": 6974.3249999999825,
+          "totalEntryQty": 500,
+          "totalExitQty": 500,
+          "avgEntry": 1600.1072,
+          "avgExit": 1586.1585499999994,
+          "status": "closed"
+        },
+        {
+          "id": "t_QCOM_1793917641578",
+          "symbol": "QCOM",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793888747000,
+          "exitTime": 1793889001000,
+          "realizedPnl": 2090.6400000000153,
+          "totalEntryQty": 2248,
+          "totalExitQty": 2248,
+          "avgEntry": 151.5,
+          "avgExit": 150.57,
+          "status": "closed"
+        },
+        {
+          "id": "t_QCOM_1793917641579",
+          "symbol": "QCOM",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793889001000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 252,
+          "totalExitQty": 0,
+          "avgEntry": 150.57,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NDXPW052626700.0_1793917641580",
+          "symbol": "NDXPW052626700.0",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793911273000,
+          "exitTime": 1793912126000,
+          "realizedPnl": -32.3,
+          "totalEntryQty": 2,
+          "totalExitQty": 2,
+          "avgEntry": 32.8,
+          "avgExit": 16.65,
+          "status": "closed"
+        },
+        {
+          "id": "t_AMD_1793917641581",
+          "symbol": "AMD",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793912394000,
+          "exitTime": 1793912550000,
+          "realizedPnl": -213.7000000000088,
+          "totalEntryQty": 10000,
+          "totalExitQty": 530,
+          "avgEntry": 403.5953985,
+          "avgExit": 403,
+          "status": "open"
+        },
+        {
+          "id": "t_AMD_1793917641582",
+          "symbol": "AMD",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793912415000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 9470,
+          "totalExitQty": 0,
+          "avgEntry": 403.65383210137276,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/5/26"
     }
   },
   "annotations": {
@@ -10074,5 +10196,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-05T22:27:06.693Z"
+  "updated": "2026-11-05T22:27:21.576Z"
 }
