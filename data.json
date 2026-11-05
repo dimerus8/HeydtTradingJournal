@@ -8387,7 +8387,7 @@
           "symbol": "U",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793887390000,
           "exitTime": 1793887543000,
           "realizedPnl": -162.38000000000306,
@@ -8395,7 +8395,11 @@
           "totalExitQty": 1500,
           "avgEntry": 50.00608,
           "avgExit": 50.114333333333335,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Scalp",
+          "notes": "",
+          "entryDateStr": "11/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_U_1793917641576",
@@ -10195,7 +10199,11 @@
     "t_AMD_1793917641581": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_U_1793917641575": {
+      "tradeType": "Scalp",
+      "notes": ""
     }
   },
-  "updated": "2026-11-05T22:30:23.212Z"
+  "updated": "2026-11-05T22:30:56.229Z"
 }
