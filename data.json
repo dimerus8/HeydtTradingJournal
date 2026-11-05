@@ -8440,21 +8440,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_QCOM_1793917641578",
-          "symbol": "QCOM",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793888747000,
-          "exitTime": 1793889001000,
-          "realizedPnl": 2090.6400000000153,
-          "totalEntryQty": 2248,
-          "totalExitQty": 2248,
-          "avgEntry": 151.5,
-          "avgExit": 150.57,
-          "status": "closed"
-        },
-        {
           "id": "t_QCOM_1793917641579",
           "symbol": "QCOM",
           "direction": "LONG",
@@ -10221,5 +10206,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-05T22:31:12.565Z"
+  "updated": "2026-11-05T22:31:26.629Z"
 }
