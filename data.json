@@ -8406,7 +8406,7 @@
           "symbol": "U",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793888455000,
           "exitTime": 1793889059000,
           "realizedPnl": 3000.72,
@@ -8414,7 +8414,11 @@
           "totalExitQty": 1500,
           "avgEntry": 50.00048,
           "avgExit": 48,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Scalp",
+          "notes": "",
+          "entryDateStr": "11/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_MELI_1793917641577",
@@ -10203,7 +10207,11 @@
     "t_U_1793917641575": {
       "tradeType": "Scalp",
       "notes": ""
+    },
+    "t_U_1793917641576": {
+      "tradeType": "Scalp",
+      "notes": ""
     }
   },
-  "updated": "2026-11-05T22:30:56.229Z"
+  "updated": "2026-11-05T22:31:04.269Z"
 }
