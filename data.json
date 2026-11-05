@@ -8425,7 +8425,7 @@
           "symbol": "MELI",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793888728000,
           "exitTime": 1793889019000,
           "realizedPnl": 6974.3249999999825,
@@ -8433,7 +8433,11 @@
           "totalExitQty": 500,
           "avgEntry": 1600.1072,
           "avgExit": 1586.1585499999994,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "11/5/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_QCOM_1793917641578",
@@ -10211,7 +10215,11 @@
     "t_U_1793917641576": {
       "tradeType": "Scalp",
       "notes": ""
+    },
+    "t_MELI_1793917641577": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-05T22:31:04.269Z"
+  "updated": "2026-11-05T22:31:12.565Z"
 }
