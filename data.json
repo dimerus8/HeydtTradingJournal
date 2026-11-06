@@ -8496,7 +8496,99 @@
       "dateStr": "11/5/26"
     },
     "2026-11-06": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_MU_1794000714015",
+          "symbol": "MU",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793975128000,
+          "exitTime": 1793975429000,
+          "realizedPnl": 65725.12999999992,
+          "totalEntryQty": 8189,
+          "totalExitQty": 8189,
+          "avgEntry": 709.6695530589809,
+          "avgExit": 701.6435266821344,
+          "status": "closed"
+        },
+        {
+          "id": "t_PLAY_1794000714016",
+          "symbol": "PLAY",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793975185000,
+          "exitTime": 1793975402000,
+          "realizedPnl": -20825.13,
+          "totalEntryQty": 15000,
+          "totalExitQty": 12400,
+          "avgEntry": 9.492189333333332,
+          "avgExit": 7.7735790322580645,
+          "status": "open"
+        },
+        {
+          "id": "t_CORZ_1794000714018",
+          "symbol": "CORZ",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793975243000,
+          "exitTime": 1793975435000,
+          "realizedPnl": -32491.3,
+          "totalEntryQty": 30000,
+          "totalExitQty": 30000,
+          "avgEntry": 10.993573333333334,
+          "avgExit": 12.076616666666668,
+          "status": "closed"
+        },
+        {
+          "id": "t_PLAY_1794000714017",
+          "symbol": "PLAY",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793975308000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2600,
+          "totalExitQty": 0,
+          "avgEntry": 7.759615384615385,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ROKU_1794000714019",
+          "symbol": "ROKU",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793998800000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 36000,
+          "totalExitQty": 0,
+          "avgEntry": 160.52,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_FOXA_1794000714020",
+          "symbol": "FOXA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1793998802000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 35276,
+          "totalExitQty": 0,
+          "avgEntry": 66.64,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/6/26"
     }
   },
   "annotations": {
@@ -10209,5 +10301,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-06T21:31:47.739Z"
+  "updated": "2026-11-06T21:31:54.017Z"
 }
