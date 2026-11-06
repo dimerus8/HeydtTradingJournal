@@ -8574,7 +8574,7 @@
           "symbol": "FOXA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793998802000,
           "exitTime": null,
           "realizedPnl": 0,
@@ -8582,7 +8582,11 @@
           "totalExitQty": 0,
           "avgEntry": 66.64,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Other",
+          "notes": "Deal",
+          "entryDateStr": "11/6/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/6/26"
@@ -10308,7 +10312,11 @@
     "t_ROKU_1794000714019": {
       "tradeType": "Other",
       "notes": "Deal"
+    },
+    "t_FOXA_1794000714020": {
+      "tradeType": "Other",
+      "notes": "Deal"
     }
   },
-  "updated": "2026-11-06T21:34:08.128Z"
+  "updated": "2026-11-06T21:34:16.542Z"
 }
