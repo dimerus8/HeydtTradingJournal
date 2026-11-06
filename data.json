@@ -8536,7 +8536,7 @@
           "symbol": "CORZ",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793975243000,
           "exitTime": 1793975435000,
           "realizedPnl": -32491.3,
@@ -8544,7 +8544,11 @@
           "totalExitQty": 30000,
           "avgEntry": 10.993573333333334,
           "avgExit": 12.076616666666668,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "11/6/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_PLAY_1794000714017",
@@ -10307,7 +10311,11 @@
     "t_PLAY_1794000714016": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_CORZ_1794000714018": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-06T21:33:24.341Z"
+  "updated": "2026-11-06T21:33:38.861Z"
 }
