@@ -8555,7 +8555,7 @@
           "symbol": "ROKU",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1793998800000,
           "exitTime": null,
           "realizedPnl": 0,
@@ -8563,7 +8563,11 @@
           "totalExitQty": 0,
           "avgEntry": 160.52,
           "avgExit": 0,
-          "status": "open"
+          "status": "open",
+          "tradeType": "Other",
+          "notes": "Deal",
+          "entryDateStr": "11/6/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_FOXA_1794000714020",
@@ -10300,7 +10304,11 @@
     "t_CORZ_1794000714018": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_ROKU_1794000714019": {
+      "tradeType": "Other",
+      "notes": "Deal"
     }
   },
-  "updated": "2026-11-06T21:33:44.471Z"
+  "updated": "2026-11-06T21:34:08.128Z"
 }
