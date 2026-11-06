@@ -8551,21 +8551,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_PLAY_1794000714017",
-          "symbol": "PLAY",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1793975308000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 2600,
-          "totalExitQty": 0,
-          "avgEntry": 7.759615384615385,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_ROKU_1794000714019",
           "symbol": "ROKU",
           "direction": "LONG",
@@ -10317,5 +10302,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-06T21:33:38.861Z"
+  "updated": "2026-11-06T21:33:44.471Z"
 }
