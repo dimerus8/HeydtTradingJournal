@@ -8594,6 +8594,9 @@
         }
       ],
       "dateStr": "11/6/26"
+    },
+    "2026-11-09": {
+      "trades": []
     }
   },
   "annotations": {
@@ -8814,7 +8817,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "Overnight",
+      "tradeType": "MSCI Sell",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -10154,7 +10157,7 @@
       "notes": "post eps"
     },
     "t_SPCX_1792685048086": {
-      "tradeType": "",
+      "tradeType": "Unlock",
       "notes": "unlock day"
     },
     "t_ROXO34_1793043717851": {
@@ -10326,5 +10329,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-06T21:35:12.846Z"
+  "updated": "2026-11-09T13:04:58.811Z"
 }
