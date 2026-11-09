@@ -8621,15 +8621,19 @@
           "symbol": "NVDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
-          "entryTime": 1794234355000,
+          "isManual": true,
+          "entryTime": 1794254400000,
           "exitTime": 1794257691000,
-          "realizedPnl": 58105.95499999984,
+          "realizedPnl": -2357,
           "totalEntryQty": 30250,
-          "totalExitQty": 22500,
+          "totalExitQty": 30250,
           "avgEntry": 173.80851155702484,
           "avgExit": 174.80270911111106,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "11/9/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/9/26"
@@ -10367,7 +10371,11 @@
     "t_NVDA_1794258181417": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_NVDA_1794258181418": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-09T21:03:26.279Z"
+  "updated": "2026-11-09T21:04:05.663Z"
 }
