@@ -8683,15 +8683,19 @@
           "symbol": "NVDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1794493809000,
           "exitTime": 1794493936000,
-          "realizedPnl": 6753.095000000013,
+          "realizedPnl": 12487,
           "totalEntryQty": 24281,
-          "totalExitQty": 2500,
+          "totalExitQty": 24281,
           "avgEntry": 159.45483982125924,
           "avgExit": 153.543058,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Overnight",
+          "notes": "",
+          "entryDateStr": "11/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NQZ6_1794517522850",
@@ -10456,7 +10460,11 @@
     "t_NBIS_1794517522849": {
       "tradeType": "Imbal AM",
       "notes": ""
+    },
+    "t_NVDA_1794517522848": {
+      "tradeType": "Overnight",
+      "notes": ""
     }
   },
-  "updated": "2026-11-12T21:07:21.325Z"
+  "updated": "2026-11-12T21:12:51.855Z"
 }
