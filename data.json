@@ -8664,15 +8664,19 @@
           "symbol": "NBIS",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1794493801000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 542,
           "totalEntryQty": 2500,
-          "totalExitQty": 0,
+          "totalExitQty": 2500,
           "avgEntry": 120,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "11/12/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1794517522848",
@@ -10448,7 +10452,11 @@
     "t_NVDA_1794517522847": {
       "tradeType": "",
       "notes": ""
+    },
+    "t_NBIS_1794517522849": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-12T21:05:39.707Z"
+  "updated": "2026-11-12T21:05:54.653Z"
 }
