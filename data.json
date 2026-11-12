@@ -8715,6 +8715,30 @@
       ],
       "dateStr": "11/12/26"
     },
+    "2026-11-11": {
+      "trades": [
+        {
+          "id": "man_NVDA_1794519555938",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": -19000,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
+          "avgEntry": 0,
+          "avgExit": 0,
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "11/11/26",
+          "exitDateStr": "11/11/26"
+        }
+      ],
+      "dateStr": "2026-11-11"
+    },
     "2026-11-13": {
       "trades": []
     }
@@ -8937,7 +8961,7 @@
       "notes": "RY/RY.T arb - CAD"
     },
     "man_NVDA_1550_20260529": {
-      "tradeType": "MSCI Sell",
+      "tradeType": "Overnight",
       "notes": ""
     },
     "man_MSFT_1550_20260529": {
@@ -10469,5 +10493,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-12T21:40:16.538Z"
+  "updated": "2026-11-12T21:42:17.139Z"
 }
