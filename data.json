@@ -8648,7 +8648,7 @@
           "isManual": true,
           "entryTime": 1794493013000,
           "exitTime": 1794493809000,
-          "realizedPnl": 55452,
+          "realizedPnl": 58423,
           "totalEntryQty": 23219,
           "totalExitQty": 23219,
           "avgEntry": 151.3346423187906,
@@ -10458,5 +10458,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-12T21:06:01.060Z"
+  "updated": "2026-11-12T21:07:21.325Z"
 }
