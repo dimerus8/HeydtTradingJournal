@@ -8738,6 +8738,25 @@
           "notes": "",
           "entryDateStr": "11/11/26",
           "exitDateStr": "11/11/26"
+        },
+        {
+          "id": "man_NBIS_1794519897855",
+          "symbol": "NBIS",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 3245,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
+          "avgEntry": 1,
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "11/11/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "2026-11-11"
@@ -10495,7 +10514,11 @@
     "man_NVDA_1794519754651": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "man_NBIS_1794519897855": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-12T21:44:17.783Z"
+  "updated": "2026-11-12T21:44:57.856Z"
 }
