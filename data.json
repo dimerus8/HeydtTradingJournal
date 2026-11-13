@@ -8765,7 +8765,7 @@
           "avgEntry": 170.0317568421053,
           "avgExit": 171.07024168421037,
           "status": "closed",
-          "tradeType": "",
+          "tradeType": "Imbal AM",
           "notes": "",
           "entryDateStr": "11/13/26",
           "exitDateStr": ""
@@ -10579,9 +10579,9 @@
       "notes": ""
     },
     "t_NVDA_1794605064890": {
-      "tradeType": "",
+      "tradeType": "Imbal AM",
       "notes": ""
     }
   },
-  "updated": "2026-11-13T21:24:47.269Z"
+  "updated": "2026-11-13T21:24:51.965Z"
 }
