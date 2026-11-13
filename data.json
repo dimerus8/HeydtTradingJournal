@@ -8737,7 +8737,7 @@
           "symbol": "NVDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1794568403000,
           "exitTime": 1794571276000,
           "realizedPnl": -71236.01999999986,
@@ -8745,7 +8745,11 @@
           "totalExitQty": 20000,
           "avgEntry": 170.38221350000003,
           "avgExit": 166.82041249999997,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Cut O/N",
+          "notes": "",
+          "entryDateStr": "11/13/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1794605064890",
@@ -10565,7 +10569,11 @@
     "man_NBIS_1794519897855": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_NVDA_1794605064889": {
+      "tradeType": "Cut O/N",
+      "notes": ""
     }
   },
-  "updated": "2026-11-13T21:24:24.890Z"
+  "updated": "2026-11-13T21:24:40.141Z"
 }
