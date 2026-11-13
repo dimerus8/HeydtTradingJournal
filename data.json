@@ -8756,15 +8756,19 @@
           "symbol": "NVDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1794577479000,
           "exitTime": 1794579921000,
-          "realizedPnl": 24664.015000000156,
+          "realizedPnl": 73425,
           "totalEntryQty": 23750,
           "totalExitQty": 23750,
           "avgEntry": 170.0317568421053,
           "avgExit": 171.07024168421037,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "",
+          "notes": "",
+          "entryDateStr": "11/13/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/13/26"
@@ -10573,7 +10577,11 @@
     "t_NVDA_1794605064889": {
       "tradeType": "Cut O/N",
       "notes": ""
+    },
+    "t_NVDA_1794605064890": {
+      "tradeType": "",
+      "notes": ""
     }
   },
-  "updated": "2026-11-13T21:24:40.141Z"
+  "updated": "2026-11-13T21:24:47.269Z"
 }
