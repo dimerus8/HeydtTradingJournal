@@ -8889,21 +8889,6 @@
           "avgEntry": 518.1119584210526,
           "avgExit": 518.0294736842104,
           "status": "closed"
-        },
-        {
-          "id": "t_MSFT_1794863538575",
-          "symbol": "MSFT",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1794862814000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 500,
-          "totalExitQty": 0,
-          "avgEntry": 518.24,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "11/16/26"
@@ -10687,5 +10672,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-16T21:12:54.873Z"
+  "updated": "2026-11-16T21:13:00.514Z"
 }
