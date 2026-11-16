@@ -8866,10 +8866,10 @@
           "exitTime": null,
           "realizedPnl": -2025,
           "totalEntryQty": 5000,
-          "totalExitQty": 0,
+          "totalExitQty": 5000,
           "avgEntry": 159.27055,
-          "avgExit": 0,
-          "status": "open",
+          "avgExit": 1,
+          "status": "closed",
           "tradeType": "Off Open Red",
           "notes": "",
           "entryDateStr": "11/16/26",
@@ -10687,5 +10687,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-16T21:12:50.601Z"
+  "updated": "2026-11-16T21:12:54.873Z"
 }
