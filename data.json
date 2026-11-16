@@ -8817,7 +8817,84 @@
       "dateStr": "2026-11-11"
     },
     "2026-11-16": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_RIVN_1794863538571",
+          "symbol": "RIVN",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794834983000,
+          "exitTime": 1794839100000,
+          "realizedPnl": 1144.999999999998,
+          "totalEntryQty": 11000,
+          "totalExitQty": 11000,
+          "avgEntry": 11.90409090909091,
+          "avgExit": 11.8,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1794863538572",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794839217000,
+          "exitTime": 1794839441000,
+          "realizedPnl": -11074.359999999946,
+          "totalEntryQty": 10440,
+          "totalExitQty": 10440,
+          "avgEntry": 158.33059626436778,
+          "avgExit": 159.39135871647514,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1794863538573",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794839444000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5000,
+          "totalExitQty": 0,
+          "avgEntry": 159.27055,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_MSFT_1794863538574",
+          "symbol": "MSFT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794862793000,
+          "exitTime": 1794862814000,
+          "realizedPnl": 783.6050000000273,
+          "totalEntryQty": 9500,
+          "totalExitQty": 9500,
+          "avgEntry": 518.1119584210526,
+          "avgExit": 518.0294736842104,
+          "status": "closed"
+        },
+        {
+          "id": "t_MSFT_1794863538575",
+          "symbol": "MSFT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794862814000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 500,
+          "totalExitQty": 0,
+          "avgEntry": 518.24,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/16/26"
     }
   },
   "annotations": {
@@ -10586,5 +10663,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-16T15:16:04.119Z"
+  "updated": "2026-11-16T21:12:18.573Z"
 }
