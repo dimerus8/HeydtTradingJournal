@@ -8880,7 +8880,7 @@
           "symbol": "MSFT",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1794862793000,
           "exitTime": 1794862814000,
           "realizedPnl": 783.6050000000273,
@@ -8888,7 +8888,11 @@
           "totalExitQty": 9500,
           "avgEntry": 518.1119584210526,
           "avgExit": 518.0294736842104,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "11/16/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/16/26"
@@ -10670,7 +10674,11 @@
     "t_NVDA_1794863538573": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_MSFT_1794863538574": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-16T21:13:00.514Z"
+  "updated": "2026-11-16T21:13:04.465Z"
 }
