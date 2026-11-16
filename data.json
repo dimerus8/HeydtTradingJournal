@@ -8823,7 +8823,7 @@
           "symbol": "RIVN",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1794834983000,
           "exitTime": 1794839100000,
           "realizedPnl": 1144.999999999998,
@@ -8831,7 +8831,11 @@
           "totalExitQty": 11000,
           "avgEntry": 11.90409090909091,
           "avgExit": 11.8,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Unlock",
+          "notes": "",
+          "entryDateStr": "11/16/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1794863538572",
@@ -10669,7 +10673,11 @@
     "t_NVDA_1794863538572": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_RIVN_1794863538571": {
+      "tradeType": "Unlock",
+      "notes": ""
     }
   },
-  "updated": "2026-11-16T21:12:24.313Z"
+  "updated": "2026-11-16T21:12:30.985Z"
 }
