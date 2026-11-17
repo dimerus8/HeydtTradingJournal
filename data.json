@@ -8904,7 +8904,7 @@
           "symbol": "META",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1794924701000,
           "exitTime": 1794925661000,
           "realizedPnl": -27624.770000000106,
@@ -8912,7 +8912,11 @@
           "totalExitQty": 7500,
           "avgEntry": 620.3873199999998,
           "avgExit": 624.0706226666664,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Unlock",
+          "notes": "",
+          "entryDateStr": "11/17/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1794953135444",
@@ -10721,7 +10725,11 @@
     "t_NVDA_1794953135444": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_META_1794953135443": {
+      "tradeType": "Unlock",
+      "notes": ""
     }
   },
-  "updated": "2026-11-17T22:06:16.755Z"
+  "updated": "2026-11-17T22:06:22.858Z"
 }
