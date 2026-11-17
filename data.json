@@ -8898,7 +8898,54 @@
       "dateStr": "11/16/26"
     },
     "2026-11-17": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_META_1794953135443",
+          "symbol": "META",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794924701000,
+          "exitTime": 1794925661000,
+          "realizedPnl": -27624.770000000106,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 620.3873199999998,
+          "avgExit": 624.0706226666664,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1794953135444",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794948958000,
+          "exitTime": 1794949200000,
+          "realizedPnl": 3314.215000000019,
+          "totalEntryQty": 5000,
+          "totalExitQty": 2522,
+          "avgEntry": 154.41531899999998,
+          "avgExit": 155.4600000000002,
+          "status": "open"
+        },
+        {
+          "id": "t_NVDA_1794953135445",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1794949200000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 2478,
+          "totalExitQty": 0,
+          "avgEntry": 155.46,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/17/26"
     }
   },
   "annotations": {
@@ -10683,5 +10730,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-17T22:05:27.625Z"
+  "updated": "2026-11-17T22:05:35.446Z"
 }
