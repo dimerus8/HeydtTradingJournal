@@ -8966,7 +8966,7 @@
           "symbol": "PANW",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795035541000,
           "exitTime": 1795035601000,
           "realizedPnl": -1711.0250000001624,
@@ -8974,7 +8974,11 @@
           "totalExitQty": 10000,
           "avgEntry": 339.74889750000017,
           "avgExit": 339.9199999999997,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "EPS reporting after close",
+          "entryDateStr": "11/18/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/18/26"
@@ -10772,7 +10776,11 @@
     "t_NVDA_1795037372471": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_PANW_1795037372472": {
+      "tradeType": "Imbal PM",
+      "notes": "EPS reporting after close"
     }
   },
-  "updated": "2026-11-18T21:29:42.496Z"
+  "updated": "2026-11-18T21:29:58.103Z"
 }
