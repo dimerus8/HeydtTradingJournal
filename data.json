@@ -8956,7 +8956,7 @@
           "avgEntry": 159.3481544,
           "avgExit": 158.4578366,
           "status": "closed",
-          "tradeType": "Off Open Red",
+          "tradeType": "Off Open Green",
           "notes": "",
           "entryDateStr": "11/18/26",
           "exitDateStr": ""
@@ -10770,9 +10770,9 @@
       "notes": ""
     },
     "t_NVDA_1795037372471": {
-      "tradeType": "Off Open Red",
+      "tradeType": "Off Open Green",
       "notes": ""
     }
   },
-  "updated": "2026-11-18T21:29:36.639Z"
+  "updated": "2026-11-18T21:29:42.496Z"
 }
