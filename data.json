@@ -8982,6 +8982,9 @@
         }
       ],
       "dateStr": "11/18/26"
+    },
+    "2026-11-20": {
+      "trades": []
     }
   },
   "annotations": {
@@ -10782,5 +10785,5 @@
       "notes": "EPS reporting after close"
     }
   },
-  "updated": "2026-11-18T21:30:02.036Z"
+  "updated": "2026-11-20T14:57:58.197Z"
 }
