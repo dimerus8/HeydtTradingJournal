@@ -9015,13 +9015,13 @@
           "isManual": true,
           "entryTime": null,
           "exitTime": null,
-          "realizedPnl": -333692,
+          "realizedPnl": -120000,
           "totalEntryQty": 40000,
-          "totalExitQty": 0,
+          "totalExitQty": 40000,
           "avgEntry": 105.5123,
-          "avgExit": 0,
-          "status": "open",
-          "tradeType": "",
+          "avgExit": 94.1386,
+          "status": "closed",
+          "tradeType": "Overnight",
           "notes": "Long 40k on the close",
           "entryDateStr": "11/19/26",
           "exitDateStr": ""
@@ -10830,7 +10830,11 @@
     "man_ANT_1795187380982": {
       "tradeType": "IPO",
       "notes": ""
+    },
+    "man_ANT_1795187380983": {
+      "tradeType": "Overnight",
+      "notes": "Long 40k on the close"
     }
   },
-  "updated": "2026-11-20T16:11:37.880Z"
+  "updated": "2026-11-20T16:12:01.143Z"
 }
