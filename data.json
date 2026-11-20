@@ -8990,7 +8990,7 @@
           "symbol": "ANT",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795184067000,
           "exitTime": 1795184703000,
           "realizedPnl": 15642.039999999972,
@@ -8998,7 +8998,11 @@
           "totalExitQty": 20958,
           "avgEntry": 88.05647867162898,
           "avgExit": 88.80283042275023,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "11/20/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1795210366084",
@@ -10957,7 +10961,11 @@
     "t_BIPC_1795210366088": {
       "tradeType": "Deal Close",
       "notes": ""
+    },
+    "t_ANT_1795210366083": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-20T21:33:05.648Z"
+  "updated": "2026-11-20T21:33:18.855Z"
 }
