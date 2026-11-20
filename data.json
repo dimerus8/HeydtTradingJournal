@@ -9065,15 +9065,19 @@
           "symbol": "BIPC",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795208394000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": 380000,
           "totalEntryQty": 140000,
-          "totalExitQty": 0,
+          "totalExitQty": 140000,
           "avgEntry": 42.86183353571429,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Deal Close",
+          "notes": "",
+          "entryDateStr": "11/20/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_BIPC.T_1795210366089",
@@ -10964,7 +10968,11 @@
     "man_ANT_1795191188783": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_BIPC_1795210366088": {
+      "tradeType": "Deal Close",
+      "notes": ""
     }
   },
-  "updated": "2026-11-20T21:32:46.086Z"
+  "updated": "2026-11-20T21:33:02.392Z"
 }
