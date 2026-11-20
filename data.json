@@ -9078,21 +9078,6 @@
           "notes": "",
           "entryDateStr": "11/20/26",
           "exitDateStr": ""
-        },
-        {
-          "id": "t_BIPC.T_1795210366089",
-          "symbol": "BIPC.T",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795209000000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 175000,
-          "totalExitQty": 0,
-          "avgEntry": 65.4,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "11/20/26"
@@ -10974,5 +10959,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-20T21:33:02.392Z"
+  "updated": "2026-11-20T21:33:05.648Z"
 }
