@@ -9020,21 +9020,6 @@
           "status": "closed"
         },
         {
-          "id": "t_NVDA_1795210366085",
-          "symbol": "NVDA",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795207826000,
-          "exitTime": 1795208102000,
-          "realizedPnl": -1976.5599999999872,
-          "totalEntryQty": 6500,
-          "totalExitQty": 1500,
-          "avgEntry": 126.9559676923077,
-          "avgExit": 126.00229333333334,
-          "status": "open"
-        },
-        {
           "id": "t_NVDA_1795210366086",
           "symbol": "NVDA",
           "direction": "SHORT",
@@ -10967,5 +10952,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-20T21:33:18.855Z"
+  "updated": "2026-11-20T21:33:51.138Z"
 }
