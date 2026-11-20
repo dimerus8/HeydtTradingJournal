@@ -8984,7 +8984,114 @@
       "dateStr": "11/18/26"
     },
     "2026-11-20": {
-      "trades": []
+      "trades": [
+        {
+          "id": "t_ANT_1795210366083",
+          "symbol": "ANT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795184067000,
+          "exitTime": 1795184703000,
+          "realizedPnl": 15642.039999999972,
+          "totalEntryQty": 20958,
+          "totalExitQty": 20958,
+          "avgEntry": 88.05647867162898,
+          "avgExit": 88.80283042275023,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1795210366084",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795207802000,
+          "exitTime": 1795207819000,
+          "realizedPnl": 1879.8500000000179,
+          "totalEntryQty": 2500,
+          "totalExitQty": 2500,
+          "avgEntry": 128.084828,
+          "avgExit": 127.33288799999994,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1795210366085",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795207826000,
+          "exitTime": 1795208102000,
+          "realizedPnl": -1976.5599999999872,
+          "totalEntryQty": 6500,
+          "totalExitQty": 1500,
+          "avgEntry": 126.9559676923077,
+          "avgExit": 126.00229333333334,
+          "status": "open"
+        },
+        {
+          "id": "t_NVDA_1795210366086",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795208102000,
+          "exitTime": 1795208401000,
+          "realizedPnl": 3710.1050000000555,
+          "totalEntryQty": 21000,
+          "totalExitQty": 21000,
+          "avgEntry": 125.7066716666667,
+          "avgExit": 125.52999999999997,
+          "status": "closed"
+        },
+        {
+          "id": "t_NQZ6_1795210366087",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1795208357000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10,
+          "totalExitQty": 0,
+          "avgEntry": 25056.55,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_BIPC_1795210366088",
+          "symbol": "BIPC",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795208394000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 140000,
+          "totalExitQty": 0,
+          "avgEntry": 42.86183353571429,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_BIPC.T_1795210366089",
+          "symbol": "BIPC.T",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795209000000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 175000,
+          "totalExitQty": 0,
+          "avgEntry": 65.4,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/20/26"
     },
     "2026-11-19": {
       "trades": [
@@ -10859,5 +10966,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-20T16:13:21.538Z"
+  "updated": "2026-11-20T21:32:46.086Z"
 }
