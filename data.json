@@ -9025,6 +9025,25 @@
           "notes": "Long 40k on the close",
           "entryDateStr": "11/19/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_ANT_1795191188783",
+          "symbol": "ANT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": 1795075200000,
+          "exitTime": null,
+          "realizedPnl": 32000,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
+          "avgEntry": 1,
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "11/19/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "2026-11-19"
@@ -10834,7 +10853,11 @@
     "man_ANT_1795187380983": {
       "tradeType": "Overnight",
       "notes": "Long 40k on the close"
+    },
+    "man_ANT_1795191188783": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-20T16:12:01.143Z"
+  "updated": "2026-11-20T16:13:08.784Z"
 }
