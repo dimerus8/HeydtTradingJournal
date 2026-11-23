@@ -9187,7 +9187,7 @@
         {
           "id": "t_ANT_1795468416050",
           "symbol": "ANT",
-          "direction": "LONG",
+          "direction": "SHORT",
           "isFutures": false,
           "isManual": true,
           "entryTime": 1795444220000,
@@ -9199,7 +9199,7 @@
           "avgExit": 90.84027666666665,
           "status": "closed",
           "tradeType": "Imbal AM",
-          "notes": "",
+          "notes": "came off after 1 min",
           "entryDateStr": "11/23/26",
           "exitDateStr": ""
         },
@@ -11080,8 +11080,8 @@
     },
     "t_ANT_1795468416050": {
       "tradeType": "Imbal AM",
-      "notes": ""
+      "notes": "came off after 1 min"
     }
   },
-  "updated": "2026-11-23T21:14:44.518Z"
+  "updated": "2026-11-23T21:15:03.054Z"
 }
