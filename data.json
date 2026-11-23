@@ -9155,7 +9155,7 @@
           "symbol": "NVDA",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795444131000,
           "exitTime": 1795444217000,
           "realizedPnl": 15905.330000000049,
@@ -9163,7 +9163,11 @@
           "totalExitQty": 10274,
           "avgEntry": 167.56763675296867,
           "avgExit": 166.01952209460777,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "jensen reinstated",
+          "entryDateStr": "11/23/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1795468416048",
@@ -11057,7 +11061,11 @@
     "t_NVDA_1795210366086": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_NVDA_1795468416047": {
+      "tradeType": "Off Open Green",
+      "notes": "jensen reinstated"
     }
   },
-  "updated": "2026-11-23T21:13:36.050Z"
+  "updated": "2026-11-23T21:13:47.459Z"
 }
