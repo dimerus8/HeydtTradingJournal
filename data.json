@@ -9170,21 +9170,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_NVDA_1795468416048",
-          "symbol": "NVDA",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795444217000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 19726,
-          "totalExitQty": 0,
-          "avgEntry": 163.98436581161917,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_ANT_1795468416050",
           "symbol": "ANT",
           "direction": "SHORT",
@@ -11068,5 +11053,5 @@
       "notes": "came off after 1 min"
     }
   },
-  "updated": "2026-11-23T21:15:08.750Z"
+  "updated": "2026-11-23T21:15:11.151Z"
 }
