@@ -9204,21 +9204,6 @@
           "exitDateStr": ""
         },
         {
-          "id": "t_BIP_1795468416051",
-          "symbol": "BIP",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795445079000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 15000,
-          "totalExitQty": 0,
-          "avgEntry": 45.58805433333333,
-          "avgExit": 0,
-          "status": "open"
-        },
-        {
           "id": "t_NVDA_1795468416049",
           "symbol": "NVDA",
           "direction": "SHORT",
@@ -11083,5 +11068,5 @@
       "notes": "came off after 1 min"
     }
   },
-  "updated": "2026-11-23T21:15:03.054Z"
+  "updated": "2026-11-23T21:15:08.750Z"
 }
