@@ -9220,7 +9220,7 @@
           "isManual": true,
           "entryTime": 1795553344000,
           "exitTime": 1795553697000,
-          "realizedPnl": 6178.499999999879,
+          "realizedPnl": 11263,
           "totalEntryQty": 10000,
           "totalExitQty": 10000,
           "avgEntry": 153.54001899999992,
@@ -11096,5 +11096,5 @@
       "notes": "1.2b to buy"
     }
   },
-  "updated": "2026-11-24T21:29:09.739Z"
+  "updated": "2026-11-24T21:29:20.115Z"
 }
