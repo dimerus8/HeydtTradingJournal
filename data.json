@@ -9230,21 +9230,6 @@
           "notes": "1.2b to buy",
           "entryDateStr": "11/24/26",
           "exitDateStr": ""
-        },
-        {
-          "id": "t_NVDA_1795555735844",
-          "symbol": "NVDA",
-          "direction": "SHORT",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795553697000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 3500,
-          "totalExitQty": 0,
-          "avgEntry": 155.1386742857143,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "11/24/26"
@@ -11096,5 +11081,5 @@
       "notes": "1.2b to buy"
     }
   },
-  "updated": "2026-11-24T21:29:20.115Z"
+  "updated": "2026-11-24T21:29:22.875Z"
 }
