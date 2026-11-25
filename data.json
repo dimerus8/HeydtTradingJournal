@@ -9299,15 +9299,15 @@
           "entryTime": null,
           "exitTime": null,
           "realizedPnl": 4201,
-          "totalEntryQty": 0,
-          "totalExitQty": 0,
-          "avgEntry": 0,
+          "totalEntryQty": 1,
+          "totalExitQty": 1,
+          "avgEntry": 1,
           "avgExit": 1,
-          "status": "open",
+          "status": "closed",
           "tradeType": "Imbal PM",
           "notes": "nyse creeped up from 800m to 2.5b from 46-48",
           "entryDateStr": "11/25/26",
-          "exitDateStr": ""
+          "exitDateStr": "1"
         }
       ],
       "dateStr": "11/25/26"
@@ -11178,5 +11178,5 @@
       "notes": "nyse creeped up from 800m to 2.5b from 46-48"
     }
   },
-  "updated": "2026-11-25T21:23:14.242Z"
+  "updated": "2026-11-25T21:23:21.105Z"
 }
