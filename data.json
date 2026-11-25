@@ -9283,21 +9283,6 @@
           "status": "open"
         },
         {
-          "id": "t_ANT_1795641683732",
-          "symbol": "ANT",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795620603000,
-          "exitTime": 1795620683000,
-          "realizedPnl": -11.499999999999488,
-          "totalEntryQty": 100,
-          "totalExitQty": 100,
-          "avgEntry": 80.33,
-          "avgExit": 80.215,
-          "status": "closed"
-        },
-        {
           "id": "t_ZVZZT_1795641683733",
           "symbol": "ZVZZT",
           "direction": "LONG",
@@ -11169,5 +11154,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-25T21:21:31.480Z"
+  "updated": "2026-11-25T21:21:42.064Z"
 }
