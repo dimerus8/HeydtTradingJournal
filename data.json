@@ -9289,6 +9289,25 @@
           "notes": "",
           "entryDateStr": "11/25/26",
           "exitDateStr": ""
+        },
+        {
+          "id": "man_NQZ6_1795641786183",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": true,
+          "entryTime": null,
+          "exitTime": null,
+          "realizedPnl": 4201,
+          "totalEntryQty": 0,
+          "totalExitQty": 0,
+          "avgEntry": 0,
+          "avgExit": 1,
+          "status": "open",
+          "tradeType": "Imbal PM",
+          "notes": "nyse creeped up from 800m to 2.5b from 46-48",
+          "entryDateStr": "11/25/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/25/26"
@@ -11153,7 +11172,11 @@
     "t_NVDA_1795641683731": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "man_NQZ6_1795641786183": {
+      "tradeType": "Imbal PM",
+      "notes": "nyse creeped up from 800m to 2.5b from 46-48"
     }
   },
-  "updated": "2026-11-25T21:22:24.017Z"
+  "updated": "2026-11-25T21:23:06.185Z"
 }
