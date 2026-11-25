@@ -9257,15 +9257,19 @@
           "symbol": "NVDA",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795617004000,
           "exitTime": null,
-          "realizedPnl": 0,
+          "realizedPnl": -1309,
           "totalEntryQty": 10000,
-          "totalExitQty": 0,
+          "totalExitQty": 10000,
           "avgEntry": 143.555145,
-          "avgExit": 0,
-          "status": "open"
+          "avgExit": 1,
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "11/25/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NQZ6_1795641683730",
@@ -11160,7 +11164,11 @@
     "t_NQZ6_1795641683730": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_NVDA_1795641683731": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-11-25T21:22:05.984Z"
+  "updated": "2026-11-25T21:22:21.137Z"
 }
