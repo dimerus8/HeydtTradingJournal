@@ -9289,21 +9289,6 @@
           "notes": "",
           "entryDateStr": "11/25/26",
           "exitDateStr": ""
-        },
-        {
-          "id": "t_ZVZZT_1795641683733",
-          "symbol": "ZVZZT",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795620773000,
-          "exitTime": 1795632176000,
-          "realizedPnl": 1656.7699999999993,
-          "totalEntryQty": 1000,
-          "totalExitQty": 1000,
-          "avgEntry": 12.134229999999999,
-          "avgExit": 13.791,
-          "status": "closed"
         }
       ],
       "dateStr": "11/25/26"
@@ -11170,5 +11155,5 @@
       "notes": ""
     }
   },
-  "updated": "2026-11-25T21:22:21.137Z"
+  "updated": "2026-11-25T21:22:24.017Z"
 }
