@@ -9238,7 +9238,7 @@
           "symbol": "SOXL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795616423000,
           "exitTime": 1795617034000,
           "realizedPnl": 10503.429999999997,
@@ -9246,7 +9246,11 @@
           "totalExitQty": 10000,
           "avgEntry": 27.514757999999997,
           "avgExit": 26.464415000000002,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "11/25/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1795641683731",
@@ -11159,7 +11163,11 @@
     "t_NVDA_1795555735843": {
       "tradeType": "Imbal PM",
       "notes": "1.2b to buy"
+    },
+    "t_SOXL_1795641683729": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-11-25T21:21:23.730Z"
+  "updated": "2026-11-25T21:21:31.480Z"
 }
