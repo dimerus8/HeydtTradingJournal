@@ -9145,9 +9145,6 @@
       ],
       "dateStr": "2026-11-19"
     },
-    "2026-11-22": {
-      "trades": []
-    },
     "2026-11-23": {
       "trades": [
         {
@@ -9235,6 +9232,86 @@
       "dateStr": "11/24/26"
     },
     "2026-11-25": {
+      "trades": [
+        {
+          "id": "t_SOXL_1795641683729",
+          "symbol": "SOXL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795616423000,
+          "exitTime": 1795617034000,
+          "realizedPnl": 10503.429999999997,
+          "totalEntryQty": 10000,
+          "totalExitQty": 10000,
+          "avgEntry": 27.514757999999997,
+          "avgExit": 26.464415000000002,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1795641683731",
+          "symbol": "NVDA",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795617004000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 10000,
+          "totalExitQty": 0,
+          "avgEntry": 143.555145,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_NQZ6_1795641683730",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1795617014000,
+          "exitTime": 1795640099000,
+          "realizedPnl": 6888.5,
+          "totalEntryQty": 20,
+          "totalExitQty": 10,
+          "avgEntry": 25711.0125,
+          "avgExit": 26065.9,
+          "status": "open"
+        },
+        {
+          "id": "t_ANT_1795641683732",
+          "symbol": "ANT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795620603000,
+          "exitTime": 1795620683000,
+          "realizedPnl": -11.499999999999488,
+          "totalEntryQty": 100,
+          "totalExitQty": 100,
+          "avgEntry": 80.33,
+          "avgExit": 80.215,
+          "status": "closed"
+        },
+        {
+          "id": "t_ZVZZT_1795641683733",
+          "symbol": "ZVZZT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795620773000,
+          "exitTime": 1795632176000,
+          "realizedPnl": 1656.7699999999993,
+          "totalEntryQty": 1000,
+          "totalExitQty": 1000,
+          "avgEntry": 12.134229999999999,
+          "avgExit": 13.791,
+          "status": "closed"
+        }
+      ],
+      "dateStr": "11/25/26"
+    },
+    "2026-11-22": {
       "trades": []
     }
   },
@@ -11084,5 +11161,5 @@
       "notes": "1.2b to buy"
     }
   },
-  "updated": "2026-11-24T21:29:28.539Z"
+  "updated": "2026-11-25T21:21:23.730Z"
 }
