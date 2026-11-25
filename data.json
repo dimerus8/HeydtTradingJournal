@@ -9272,15 +9272,19 @@
           "symbol": "NQZ6",
           "direction": "LONG",
           "isFutures": true,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795617014000,
           "exitTime": 1795640099000,
-          "realizedPnl": 6888.5,
+          "realizedPnl": 10654,
           "totalEntryQty": 20,
-          "totalExitQty": 10,
+          "totalExitQty": 20,
           "avgEntry": 25711.0125,
           "avgExit": 26065.9,
-          "status": "open"
+          "status": "closed",
+          "tradeType": "Off Open Red",
+          "notes": "",
+          "entryDateStr": "11/25/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_ZVZZT_1795641683733",
@@ -11152,7 +11156,11 @@
     "t_SOXL_1795641683729": {
       "tradeType": "Off Open Red",
       "notes": ""
+    },
+    "t_NQZ6_1795641683730": {
+      "tradeType": "Off Open Red",
+      "notes": ""
     }
   },
-  "updated": "2026-11-25T21:21:42.064Z"
+  "updated": "2026-11-25T21:22:05.984Z"
 }
