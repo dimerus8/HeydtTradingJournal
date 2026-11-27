@@ -9325,7 +9325,7 @@
           "symbol": "ANT",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795789737000,
           "exitTime": 1795789841000,
           "realizedPnl": -8370.794999999982,
@@ -9333,7 +9333,11 @@
           "totalExitQty": 7500,
           "avgEntry": 84.97666666666667,
           "avgExit": 86.09277266666668,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal AM",
+          "notes": "",
+          "entryDateStr": "11/27/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_SOXL_1795803672441",
@@ -11283,7 +11287,11 @@
     "t_ANT_1795803672440": {
       "tradeType": "Imbal PM",
       "notes": ""
+    },
+    "t_ANT_1795803672439": {
+      "tradeType": "Imbal AM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-27T18:21:47.302Z"
+  "updated": "2026-11-27T18:21:51.678Z"
 }
