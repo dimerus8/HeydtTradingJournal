@@ -9394,21 +9394,6 @@
           "avgEntry": 91.96115440000001,
           "avgExit": 92.20895840000001,
           "status": "closed"
-        },
-        {
-          "id": "t_BIP.T_1795803672444",
-          "symbol": "BIP.T",
-          "direction": "LONG",
-          "isFutures": false,
-          "isManual": false,
-          "entryTime": 1795803180000,
-          "exitTime": null,
-          "realizedPnl": 0,
-          "totalEntryQty": 50000,
-          "totalExitQty": 0,
-          "avgEntry": 63.3,
-          "avgExit": 0,
-          "status": "open"
         }
       ],
       "dateStr": "11/27/26"
@@ -11276,5 +11261,5 @@
       "notes": "nyse creeped up from 800m to 2.5b from 46-48"
     }
   },
-  "updated": "2026-11-27T18:21:12.440Z"
+  "updated": "2026-11-27T18:21:18.534Z"
 }
