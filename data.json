@@ -9340,7 +9340,7 @@
           "symbol": "SOXL",
           "direction": "SHORT",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795789751000,
           "exitTime": 1795789819000,
           "realizedPnl": 2633.1400000000012,
@@ -9348,7 +9348,11 @@
           "totalExitQty": 7500,
           "avgEntry": 35.13759866666666,
           "avgExit": 34.78651333333333,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Off Open Green",
+          "notes": "",
+          "entryDateStr": "11/27/26",
+          "exitDateStr": ""
         },
         {
           "id": "t_NVDA_1795803672442",
@@ -11259,7 +11263,11 @@
     "man_NQZ6_1795641786183": {
       "tradeType": "Imbal PM",
       "notes": "nyse creeped up from 800m to 2.5b from 46-48"
+    },
+    "t_SOXL_1795803672441": {
+      "tradeType": "Off Open Green",
+      "notes": ""
     }
   },
-  "updated": "2026-11-27T18:21:18.534Z"
+  "updated": "2026-11-27T18:21:36.798Z"
 }
