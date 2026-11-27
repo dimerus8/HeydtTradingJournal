@@ -9393,7 +9393,7 @@
           "symbol": "ANT",
           "direction": "LONG",
           "isFutures": false,
-          "isManual": false,
+          "isManual": true,
           "entryTime": 1795801802000,
           "exitTime": 1795802100000,
           "realizedPnl": 1548.7750000000005,
@@ -9401,7 +9401,11 @@
           "totalExitQty": 6250,
           "avgEntry": 91.96115440000001,
           "avgExit": 92.20895840000001,
-          "status": "closed"
+          "status": "closed",
+          "tradeType": "Imbal PM",
+          "notes": "",
+          "entryDateStr": "11/27/26",
+          "exitDateStr": ""
         }
       ],
       "dateStr": "11/27/26"
@@ -11275,7 +11279,11 @@
     "t_NVDA_1795803672442": {
       "tradeType": "Off Open Green",
       "notes": ""
+    },
+    "t_ANT_1795803672440": {
+      "tradeType": "Imbal PM",
+      "notes": ""
     }
   },
-  "updated": "2026-11-27T18:21:42.869Z"
+  "updated": "2026-11-27T18:21:47.302Z"
 }
