@@ -9317,6 +9317,101 @@
     },
     "2026-11-26": {
       "trades": []
+    },
+    "2026-11-27": {
+      "trades": [
+        {
+          "id": "t_ANT_1795803672439",
+          "symbol": "ANT",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795789737000,
+          "exitTime": 1795789841000,
+          "realizedPnl": -8370.794999999982,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 84.97666666666667,
+          "avgExit": 86.09277266666668,
+          "status": "closed"
+        },
+        {
+          "id": "t_SOXL_1795803672441",
+          "symbol": "SOXL",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795789751000,
+          "exitTime": 1795789819000,
+          "realizedPnl": 2633.1400000000012,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 35.13759866666666,
+          "avgExit": 34.78651333333333,
+          "status": "closed"
+        },
+        {
+          "id": "t_NVDA_1795803672442",
+          "symbol": "NVDA",
+          "direction": "SHORT",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795789802000,
+          "exitTime": 1795789827000,
+          "realizedPnl": 10882.390000000087,
+          "totalEntryQty": 7500,
+          "totalExitQty": 7500,
+          "avgEntry": 151.83,
+          "avgExit": 150.3790146666667,
+          "status": "closed"
+        },
+        {
+          "id": "t_NQZ6_1795803672443",
+          "symbol": "NQZ6",
+          "direction": "LONG",
+          "isFutures": true,
+          "isManual": false,
+          "entryTime": 1795801748000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 5,
+          "totalExitQty": 0,
+          "avgEntry": 26613.25,
+          "avgExit": 0,
+          "status": "open"
+        },
+        {
+          "id": "t_ANT_1795803672440",
+          "symbol": "ANT",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795801802000,
+          "exitTime": 1795802100000,
+          "realizedPnl": 1548.7750000000005,
+          "totalEntryQty": 6250,
+          "totalExitQty": 6250,
+          "avgEntry": 91.96115440000001,
+          "avgExit": 92.20895840000001,
+          "status": "closed"
+        },
+        {
+          "id": "t_BIP.T_1795803672444",
+          "symbol": "BIP.T",
+          "direction": "LONG",
+          "isFutures": false,
+          "isManual": false,
+          "entryTime": 1795803180000,
+          "exitTime": null,
+          "realizedPnl": 0,
+          "totalEntryQty": 50000,
+          "totalExitQty": 0,
+          "avgEntry": 63.3,
+          "avgExit": 0,
+          "status": "open"
+        }
+      ],
+      "dateStr": "11/27/26"
     }
   },
   "annotations": {
@@ -11181,5 +11276,5 @@
       "notes": "nyse creeped up from 800m to 2.5b from 46-48"
     }
   },
-  "updated": "2026-11-25T21:23:30.249Z"
+  "updated": "2026-11-27T18:21:12.440Z"
 }
